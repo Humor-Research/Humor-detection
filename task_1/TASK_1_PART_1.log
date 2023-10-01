@@ -1,0 +1,2 @@
+INFO: Pandarallel will run on 4 workers.
+INFO: Pandarallel will use Memory file system to transfer data between the main process and workers.
