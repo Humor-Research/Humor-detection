@@ -1,0 +1,761 @@
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'loss': 0.6987, 'learning_rate': 8.000000000000001e-07, 'epoch': 0.0}
+{'loss': 0.695, 'learning_rate': 1.6000000000000001e-06, 'epoch': 0.0}
+{'loss': 0.691, 'learning_rate': 2.4000000000000003e-06, 'epoch': 0.0}
+{'loss': 0.6977, 'learning_rate': 3.2000000000000003e-06, 'epoch': 0.01}
+{'loss': 0.6875, 'learning_rate': 3.9e-06, 'epoch': 0.01}
+{'loss': 0.6842, 'learning_rate': 4.7e-06, 'epoch': 0.01}
+{'loss': 0.6752, 'learning_rate': 5.500000000000001e-06, 'epoch': 0.01}
+{'loss': 0.6464, 'learning_rate': 6.300000000000001e-06, 'epoch': 0.01}
+{'loss': 0.5646, 'learning_rate': 7.1e-06, 'epoch': 0.01}
+{'loss': 0.4063, 'learning_rate': 7.9e-06, 'epoch': 0.01}
+{'loss': 0.2426, 'learning_rate': 8.7e-06, 'epoch': 0.02}
+{'loss': 0.1549, 'learning_rate': 9.5e-06, 'epoch': 0.02}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.13798290491104126, 'eval_accuracy': 0.9543806333529026, 'eval_f1': 0.954750976227992, 'eval_precision': 0.9502915004602639, 'eval_recall': 0.9592525036996249, 'eval_runtime': 244.6458, 'eval_samples_per_second': 236.726, 'eval_steps_per_second': 29.594, 'epoch': 0.02}
+{'loss': 0.1393, 'learning_rate': 1.03e-05, 'epoch': 0.02}
+{'loss': 0.1663, 'learning_rate': 1.11e-05, 'epoch': 0.02}
+{'loss': 0.1162, 'learning_rate': 1.19e-05, 'epoch': 0.02}
+{'loss': 0.1169, 'learning_rate': 1.27e-05, 'epoch': 0.02}
+{'loss': 0.0875, 'learning_rate': 1.3500000000000001e-05, 'epoch': 0.03}
+{'loss': 0.0896, 'learning_rate': 1.43e-05, 'epoch': 0.03}
+{'loss': 0.1099, 'learning_rate': 1.51e-05, 'epoch': 0.03}
+{'loss': 0.1298, 'learning_rate': 1.59e-05, 'epoch': 0.03}
+{'loss': 0.1031, 'learning_rate': 1.6700000000000003e-05, 'epoch': 0.03}
+{'loss': 0.0906, 'learning_rate': 1.75e-05, 'epoch': 0.03}
+{'loss': 0.1164, 'learning_rate': 1.83e-05, 'epoch': 0.03}
+{'loss': 0.0986, 'learning_rate': 1.91e-05, 'epoch': 0.04}
+{'loss': 0.1183, 'learning_rate': 1.9900000000000003e-05, 'epoch': 0.04}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.08859486877918243, 'eval_accuracy': 0.9695928445626274, 'eval_f1': 0.9694869440160796, 'eval_precision': 0.9762702400893356, 'eval_recall': 0.9627972605568366, 'eval_runtime': 247.0734, 'eval_samples_per_second': 234.4, 'eval_steps_per_second': 29.303, 'epoch': 0.04}
+{'loss': 0.0973, 'learning_rate': 2.07e-05, 'epoch': 0.04}
+{'loss': 0.1064, 'learning_rate': 2.15e-05, 'epoch': 0.04}
+{'loss': 0.1359, 'learning_rate': 2.23e-05, 'epoch': 0.04}
+{'loss': 0.0936, 'learning_rate': 2.3100000000000002e-05, 'epoch': 0.04}
+{'loss': 0.0779, 'learning_rate': 2.39e-05, 'epoch': 0.04}
+{'loss': 0.0947, 'learning_rate': 2.47e-05, 'epoch': 0.05}
+{'loss': 0.1399, 'learning_rate': 2.5500000000000003e-05, 'epoch': 0.05}
+{'loss': 0.1113, 'learning_rate': 2.6300000000000002e-05, 'epoch': 0.05}
+{'loss': 0.1253, 'learning_rate': 2.7100000000000005e-05, 'epoch': 0.05}
+{'loss': 0.0695, 'learning_rate': 2.7900000000000004e-05, 'epoch': 0.05}
+{'loss': 0.1494, 'learning_rate': 2.87e-05, 'epoch': 0.05}
+{'loss': 0.1382, 'learning_rate': 2.95e-05, 'epoch': 0.05}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.1461213082075119, 'eval_accuracy': 0.9543633663708257, 'eval_f1': 0.9526827434341264, 'eval_precision': 0.9927985074626866, 'eval_recall': 0.9156829679595279, 'eval_runtime': 246.211, 'eval_samples_per_second': 235.221, 'eval_steps_per_second': 29.406, 'epoch': 0.06}
+{'loss': 0.1678, 'learning_rate': 3.03e-05, 'epoch': 0.06}
+{'loss': 0.1169, 'learning_rate': 3.1100000000000004e-05, 'epoch': 0.06}
+{'loss': 0.0746, 'learning_rate': 3.19e-05, 'epoch': 0.06}
+{'loss': 0.0706, 'learning_rate': 3.27e-05, 'epoch': 0.06}
+{'loss': 0.0796, 'learning_rate': 3.35e-05, 'epoch': 0.06}
+{'loss': 0.0877, 'learning_rate': 3.430000000000001e-05, 'epoch': 0.06}
+{'loss': 0.1199, 'learning_rate': 3.51e-05, 'epoch': 0.06}
+{'loss': 0.0664, 'learning_rate': 3.59e-05, 'epoch': 0.07}
+{'loss': 0.1069, 'learning_rate': 3.66e-05, 'epoch': 0.07}
+{'loss': 0.1523, 'learning_rate': 3.74e-05, 'epoch': 0.07}
+{'loss': 0.0686, 'learning_rate': 3.82e-05, 'epoch': 0.07}
+{'loss': 0.1041, 'learning_rate': 3.9000000000000006e-05, 'epoch': 0.07}
+{'loss': 0.0941, 'learning_rate': 3.9800000000000005e-05, 'epoch': 0.07}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.07288271933794022, 'eval_accuracy': 0.974116793866768, 'eval_f1': 0.974293015040044, 'eval_precision': 0.9710125111095919, 'eval_recall': 0.9775957600578173, 'eval_runtime': 245.7457, 'eval_samples_per_second': 235.666, 'eval_steps_per_second': 29.461, 'epoch': 0.07}
+{'loss': 0.0846, 'learning_rate': 4.0600000000000004e-05, 'epoch': 0.08}
+{'loss': 0.0991, 'learning_rate': 4.14e-05, 'epoch': 0.08}
+{'loss': 0.1359, 'learning_rate': 4.22e-05, 'epoch': 0.08}
+{'loss': 0.1125, 'learning_rate': 4.3e-05, 'epoch': 0.08}
+{'loss': 0.094, 'learning_rate': 4.38e-05, 'epoch': 0.08}
+{'loss': 0.1051, 'learning_rate': 4.46e-05, 'epoch': 0.08}
+{'loss': 0.0778, 'learning_rate': 4.5400000000000006e-05, 'epoch': 0.08}
+{'loss': 0.1351, 'learning_rate': 4.6200000000000005e-05, 'epoch': 0.09}
+{'loss': 0.0839, 'learning_rate': 4.7e-05, 'epoch': 0.09}
+{'loss': 0.0978, 'learning_rate': 4.78e-05, 'epoch': 0.09}
+{'loss': 0.1334, 'learning_rate': 4.86e-05, 'epoch': 0.09}
+{'loss': 0.1237, 'learning_rate': 4.94e-05, 'epoch': 0.09}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.08582466095685959, 'eval_accuracy': 0.9713368097523915, 'eval_f1': 0.9718118526065546, 'eval_precision': 0.9591727281869071, 'eval_recall': 0.9847885191175965, 'eval_runtime': 245.2788, 'eval_samples_per_second': 236.115, 'eval_steps_per_second': 29.517, 'epoch': 0.09}
+{'loss': 0.1356, 'learning_rate': 4.997971190910936e-05, 'epoch': 0.09}
+{'loss': 0.1051, 'learning_rate': 4.989855954554677e-05, 'epoch': 0.09}
+{'loss': 0.0747, 'learning_rate': 4.9817407181984176e-05, 'epoch': 0.1}
+{'loss': 0.1328, 'learning_rate': 4.973625481842159e-05, 'epoch': 0.1}
+{'loss': 0.1116, 'learning_rate': 4.9655102454859e-05, 'epoch': 0.1}
+{'loss': 0.1004, 'learning_rate': 4.957395009129641e-05, 'epoch': 0.1}
+{'loss': 0.1225, 'learning_rate': 4.9492797727733825e-05, 'epoch': 0.1}
+{'loss': 0.0861, 'learning_rate': 4.9411645364171234e-05, 'epoch': 0.1}
+{'loss': 0.1699, 'learning_rate': 4.933049300060865e-05, 'epoch': 0.1}
+{'loss': 0.1103, 'learning_rate': 4.924934063704605e-05, 'epoch': 0.11}
+{'loss': 0.0835, 'learning_rate': 4.916818827348347e-05, 'epoch': 0.11}
+{'loss': 0.1376, 'learning_rate': 4.908703590992088e-05, 'epoch': 0.11}
+{'loss': 0.1022, 'learning_rate': 4.900588354635829e-05, 'epoch': 0.11}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.15187478065490723, 'eval_accuracy': 0.9504092274752218, 'eval_f1': 0.9483044135646915, 'eval_precision': 0.9940752481225706, 'eval_recall': 0.9065629624531094, 'eval_runtime': 246.5868, 'eval_samples_per_second': 234.863, 'eval_steps_per_second': 29.361, 'epoch': 0.11}
+{'loss': 0.1516, 'learning_rate': 4.89247311827957e-05, 'epoch': 0.11}
+{'loss': 0.094, 'learning_rate': 4.884357881923311e-05, 'epoch': 0.11}
+{'loss': 0.0801, 'learning_rate': 4.8762426455670526e-05, 'epoch': 0.11}
+{'loss': 0.0972, 'learning_rate': 4.8681274092107935e-05, 'epoch': 0.12}
+{'loss': 0.1011, 'learning_rate': 4.8600121728545343e-05, 'epoch': 0.12}
+{'loss': 0.0925, 'learning_rate': 4.851896936498276e-05, 'epoch': 0.12}
+{'loss': 0.082, 'learning_rate': 4.843781700142017e-05, 'epoch': 0.12}
+{'loss': 0.0878, 'learning_rate': 4.835666463785758e-05, 'epoch': 0.12}
+{'loss': 0.0633, 'learning_rate': 4.827551227429499e-05, 'epoch': 0.12}
+{'loss': 0.1128, 'learning_rate': 4.81943599107324e-05, 'epoch': 0.13}
+{'loss': 0.104, 'learning_rate': 4.811320754716982e-05, 'epoch': 0.13}
+{'loss': 0.0786, 'learning_rate': 4.8032055183607226e-05, 'epoch': 0.13}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.07317579537630081, 'eval_accuracy': 0.9736333183686156, 'eval_f1': 0.9736091667962876, 'eval_precision': 0.9778850159700042, 'eval_recall': 0.9693705475444815, 'eval_runtime': 277.3841, 'eval_samples_per_second': 208.786, 'eval_steps_per_second': 26.101, 'epoch': 0.13}
+{'loss': 0.0912, 'learning_rate': 4.7950902820044635e-05, 'epoch': 0.13}
+{'loss': 0.0661, 'learning_rate': 4.786975045648205e-05, 'epoch': 0.13}
+{'loss': 0.1065, 'learning_rate': 4.778859809291946e-05, 'epoch': 0.13}
+{'loss': 0.177, 'learning_rate': 4.770744572935687e-05, 'epoch': 0.13}
+{'loss': 0.1539, 'learning_rate': 4.7626293365794284e-05, 'epoch': 0.14}
+{'loss': 0.1301, 'learning_rate': 4.754514100223169e-05, 'epoch': 0.14}
+{'loss': 0.1076, 'learning_rate': 4.74639886386691e-05, 'epoch': 0.14}
+{'loss': 0.0873, 'learning_rate': 4.738283627510651e-05, 'epoch': 0.14}
+{'loss': 0.0918, 'learning_rate': 4.730168391154393e-05, 'epoch': 0.14}
+{'loss': 0.0751, 'learning_rate': 4.722053154798134e-05, 'epoch': 0.14}
+{'loss': 0.094, 'learning_rate': 4.7139379184418745e-05, 'epoch': 0.14}
+{'loss': 0.078, 'learning_rate': 4.705822682085616e-05, 'epoch': 0.15}
+{'loss': 0.0717, 'learning_rate': 4.697707445729357e-05, 'epoch': 0.15}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.08623398095369339, 'eval_accuracy': 0.97316710985254, 'eval_f1': 0.9728776877967047, 'eval_precision': 0.9869683770671765, 'eval_recall': 0.9591836734693877, 'eval_runtime': 245.3935, 'eval_samples_per_second': 236.005, 'eval_steps_per_second': 29.504, 'epoch': 0.15}
+{'loss': 0.0729, 'learning_rate': 4.6895922093730985e-05, 'epoch': 0.15}
+{'loss': 0.1376, 'learning_rate': 4.6814769730168394e-05, 'epoch': 0.15}
+{'loss': 0.0667, 'learning_rate': 4.67336173666058e-05, 'epoch': 0.15}
+{'loss': 0.1446, 'learning_rate': 4.665246500304322e-05, 'epoch': 0.15}
+{'loss': 0.0795, 'learning_rate': 4.657131263948063e-05, 'epoch': 0.15}
+{'loss': 0.0772, 'learning_rate': 4.6490160275918036e-05, 'epoch': 0.16}
+{'loss': 0.1025, 'learning_rate': 4.640900791235545e-05, 'epoch': 0.16}
+{'loss': 0.0836, 'learning_rate': 4.632785554879286e-05, 'epoch': 0.16}
+{'loss': 0.0665, 'learning_rate': 4.624670318523027e-05, 'epoch': 0.16}
+{'loss': 0.0891, 'learning_rate': 4.6165550821667686e-05, 'epoch': 0.16}
+{'loss': 0.0629, 'learning_rate': 4.6084398458105094e-05, 'epoch': 0.16}
+{'loss': 0.1035, 'learning_rate': 4.600324609454251e-05, 'epoch': 0.17}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.0708007663488388, 'eval_accuracy': 0.9766895741962219, 'eval_f1': 0.9765152042307425, 'eval_precision': 0.9873359833960671, 'eval_recall': 0.9659290360326255, 'eval_runtime': 246.1903, 'eval_samples_per_second': 235.241, 'eval_steps_per_second': 29.408, 'epoch': 0.17}
+{'loss': 0.0839, 'learning_rate': 4.592209373097991e-05, 'epoch': 0.17}
+{'loss': 0.1024, 'learning_rate': 4.584094136741733e-05, 'epoch': 0.17}
+{'loss': 0.0502, 'learning_rate': 4.5759789003854744e-05, 'epoch': 0.17}
+{'loss': 0.0926, 'learning_rate': 4.567863664029215e-05, 'epoch': 0.17}
+{'loss': 0.0799, 'learning_rate': 4.559748427672956e-05, 'epoch': 0.17}
+{'loss': 0.0709, 'learning_rate': 4.551633191316697e-05, 'epoch': 0.17}
+{'loss': 0.1271, 'learning_rate': 4.5435179549604386e-05, 'epoch': 0.18}
+{'loss': 0.0575, 'learning_rate': 4.5354027186041795e-05, 'epoch': 0.18}
+{'loss': 0.0859, 'learning_rate': 4.5272874822479204e-05, 'epoch': 0.18}
+{'loss': 0.0778, 'learning_rate': 4.519172245891662e-05, 'epoch': 0.18}
+{'loss': 0.0472, 'learning_rate': 4.511057009535403e-05, 'epoch': 0.18}
+{'loss': 0.0747, 'learning_rate': 4.502941773179144e-05, 'epoch': 0.18}
+{'loss': 0.0753, 'learning_rate': 4.494826536822885e-05, 'epoch': 0.18}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.06389034539461136, 'eval_accuracy': 0.9781227337086024, 'eval_f1': 0.9781630788852314, 'eval_precision': 0.979733462228974, 'eval_recall': 0.9765977217193792, 'eval_runtime': 245.8169, 'eval_samples_per_second': 235.598, 'eval_steps_per_second': 29.453, 'epoch': 0.18}
+{'loss': 0.0877, 'learning_rate': 4.486711300466626e-05, 'epoch': 0.19}
+{'loss': 0.0604, 'learning_rate': 4.478596064110368e-05, 'epoch': 0.19}
+{'loss': 0.0894, 'learning_rate': 4.470480827754109e-05, 'epoch': 0.19}
+{'loss': 0.0347, 'learning_rate': 4.4623655913978496e-05, 'epoch': 0.19}
+{'loss': 0.0894, 'learning_rate': 4.454250355041591e-05, 'epoch': 0.19}
+{'loss': 0.0709, 'learning_rate': 4.446135118685332e-05, 'epoch': 0.19}
+{'loss': 0.0612, 'learning_rate': 4.438019882329073e-05, 'epoch': 0.19}
+{'loss': 0.1048, 'learning_rate': 4.4299046459728145e-05, 'epoch': 0.2}
+{'loss': 0.0583, 'learning_rate': 4.4217894096165554e-05, 'epoch': 0.2}
+{'loss': 0.0413, 'learning_rate': 4.413674173260296e-05, 'epoch': 0.2}
+{'loss': 0.0988, 'learning_rate': 4.405558936904037e-05, 'epoch': 0.2}
+{'loss': 0.0836, 'learning_rate': 4.397443700547779e-05, 'epoch': 0.2}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.0589718334376812, 'eval_accuracy': 0.9791069516869841, 'eval_f1': 0.9791228130715346, 'eval_precision': 0.9817653368395557, 'eval_recall': 0.9764944763740234, 'eval_runtime': 277.834, 'eval_samples_per_second': 208.448, 'eval_steps_per_second': 26.059, 'epoch': 0.2}
+{'loss': 0.0516, 'learning_rate': 4.38932846419152e-05, 'epoch': 0.2}
+{'loss': 0.0735, 'learning_rate': 4.3812132278352605e-05, 'epoch': 0.2}
+{'loss': 0.0544, 'learning_rate': 4.373097991479002e-05, 'epoch': 0.21}
+{'loss': 0.0793, 'learning_rate': 4.364982755122743e-05, 'epoch': 0.21}
+{'loss': 0.1017, 'learning_rate': 4.3568675187664845e-05, 'epoch': 0.21}
+{'loss': 0.08, 'learning_rate': 4.3487522824102254e-05, 'epoch': 0.21}
+{'loss': 0.0495, 'learning_rate': 4.340637046053966e-05, 'epoch': 0.21}
+{'loss': 0.0451, 'learning_rate': 4.332521809697708e-05, 'epoch': 0.21}
+{'loss': 0.0389, 'learning_rate': 4.324406573341449e-05, 'epoch': 0.22}
+{'loss': 0.1144, 'learning_rate': 4.31629133698519e-05, 'epoch': 0.22}
+{'loss': 0.0629, 'learning_rate': 4.308176100628931e-05, 'epoch': 0.22}
+{'loss': 0.0604, 'learning_rate': 4.300060864272672e-05, 'epoch': 0.22}
+{'loss': 0.0821, 'learning_rate': 4.291945627916413e-05, 'epoch': 0.22}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.06375512480735779, 'eval_accuracy': 0.9790896847049073, 'eval_f1': 0.9790495303011953, 'eval_precision': 0.9843456480901691, 'eval_recall': 0.9738100973947758, 'eval_runtime': 279.4655, 'eval_samples_per_second': 207.231, 'eval_steps_per_second': 25.907, 'epoch': 0.22}
+{'loss': 0.0835, 'learning_rate': 4.2838303915601546e-05, 'epoch': 0.22}
+{'loss': 0.0632, 'learning_rate': 4.2757151552038955e-05, 'epoch': 0.22}
+{'loss': 0.1287, 'learning_rate': 4.267599918847637e-05, 'epoch': 0.23}
+{'loss': 0.0633, 'learning_rate': 4.259484682491377e-05, 'epoch': 0.23}
+{'loss': 0.0922, 'learning_rate': 4.251369446135119e-05, 'epoch': 0.23}
+{'loss': 0.0564, 'learning_rate': 4.2432542097788604e-05, 'epoch': 0.23}
+{'loss': 0.0988, 'learning_rate': 4.235138973422601e-05, 'epoch': 0.23}
+{'loss': 0.0546, 'learning_rate': 4.227023737066342e-05, 'epoch': 0.23}
+{'loss': 0.0791, 'learning_rate': 4.218908500710083e-05, 'epoch': 0.23}
+{'loss': 0.0881, 'learning_rate': 4.210793264353825e-05, 'epoch': 0.24}
+{'loss': 0.0619, 'learning_rate': 4.2026780279975656e-05, 'epoch': 0.24}
+{'loss': 0.0848, 'learning_rate': 4.1945627916413064e-05, 'epoch': 0.24}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.06562197208404541, 'eval_accuracy': 0.979262354525676, 'eval_f1': 0.9791677507762223, 'eval_precision': 0.9870951947961111, 'eval_recall': 0.971366624221358, 'eval_runtime': 281.4061, 'eval_samples_per_second': 205.802, 'eval_steps_per_second': 25.728, 'epoch': 0.24}
+{'loss': 0.0594, 'learning_rate': 4.186447555285048e-05, 'epoch': 0.24}
+{'loss': 0.0471, 'learning_rate': 4.178332318928789e-05, 'epoch': 0.24}
+{'loss': 0.0663, 'learning_rate': 4.17021708257253e-05, 'epoch': 0.24}
+{'loss': 0.1067, 'learning_rate': 4.1621018462162714e-05, 'epoch': 0.24}
+{'loss': 0.0771, 'learning_rate': 4.153986609860012e-05, 'epoch': 0.25}
+{'loss': 0.0647, 'learning_rate': 4.145871373503754e-05, 'epoch': 0.25}
+{'loss': 0.0631, 'learning_rate': 4.137756137147495e-05, 'epoch': 0.25}
+{'loss': 0.0521, 'learning_rate': 4.1296409007912356e-05, 'epoch': 0.25}
+{'loss': 0.088, 'learning_rate': 4.121525664434977e-05, 'epoch': 0.25}
+{'loss': 0.0394, 'learning_rate': 4.113410428078718e-05, 'epoch': 0.25}
+{'loss': 0.0791, 'learning_rate': 4.105295191722459e-05, 'epoch': 0.25}
+{'loss': 0.054, 'learning_rate': 4.0971799553662005e-05, 'epoch': 0.26}
+{'loss': 0.0998, 'learning_rate': 4.0890647190099414e-05, 'epoch': 0.26}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.08201248943805695, 'eval_accuracy': 0.9687467624408606, 'eval_f1': 0.9680561928629418, 'eval_precision': 0.9935156674515486, 'eval_recall': 0.9438689472416285, 'eval_runtime': 281.181, 'eval_samples_per_second': 205.967, 'eval_steps_per_second': 25.749, 'epoch': 0.26}
+{'loss': 0.0624, 'learning_rate': 4.080949482653682e-05, 'epoch': 0.26}
+{'loss': 0.0649, 'learning_rate': 4.072834246297423e-05, 'epoch': 0.26}
+{'loss': 0.0412, 'learning_rate': 4.064719009941165e-05, 'epoch': 0.26}
+{'loss': 0.0763, 'learning_rate': 4.0566037735849064e-05, 'epoch': 0.26}
+{'loss': 0.0733, 'learning_rate': 4.0484885372286466e-05, 'epoch': 0.27}
+{'loss': 0.0633, 'learning_rate': 4.040373300872388e-05, 'epoch': 0.27}
+{'loss': 0.0657, 'learning_rate': 4.032258064516129e-05, 'epoch': 0.27}
+{'loss': 0.0684, 'learning_rate': 4.0241428281598706e-05, 'epoch': 0.27}
+{'loss': 0.0815, 'learning_rate': 4.0160275918036115e-05, 'epoch': 0.27}
+{'loss': 0.0868, 'learning_rate': 4.0079123554473524e-05, 'epoch': 0.27}
+{'loss': 0.0728, 'learning_rate': 3.999797119091094e-05, 'epoch': 0.27}
+{'loss': 0.0599, 'learning_rate': 3.991681882734835e-05, 'epoch': 0.28}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.07161223888397217, 'eval_accuracy': 0.9796076941672135, 'eval_f1': 0.9796887092613294, 'eval_precision': 0.9791666666666666, 'eval_recall': 0.9802113088068279, 'eval_runtime': 246.0628, 'eval_samples_per_second': 235.363, 'eval_steps_per_second': 29.423, 'epoch': 0.28}
+{'loss': 0.0695, 'learning_rate': 3.983566646378576e-05, 'epoch': 0.28}
+{'loss': 0.0602, 'learning_rate': 3.975451410022317e-05, 'epoch': 0.28}
+{'loss': 0.101, 'learning_rate': 3.967336173666058e-05, 'epoch': 0.28}
+{'loss': 0.054, 'learning_rate': 3.959220937309799e-05, 'epoch': 0.28}
+{'loss': 0.0551, 'learning_rate': 3.9511057009535407e-05, 'epoch': 0.28}
+{'loss': 0.0615, 'learning_rate': 3.9429904645972815e-05, 'epoch': 0.28}
+{'loss': 0.0753, 'learning_rate': 3.934875228241023e-05, 'epoch': 0.29}
+{'loss': 0.0758, 'learning_rate': 3.926759991884763e-05, 'epoch': 0.29}
+{'loss': 0.062, 'learning_rate': 3.918644755528505e-05, 'epoch': 0.29}
+{'loss': 0.0282, 'learning_rate': 3.9105295191722465e-05, 'epoch': 0.29}
+{'loss': 0.0577, 'learning_rate': 3.9024142828159874e-05, 'epoch': 0.29}
+{'loss': 0.1498, 'learning_rate': 3.894299046459728e-05, 'epoch': 0.29}
+{'loss': 0.0786, 'learning_rate': 3.886183810103469e-05, 'epoch': 0.29}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'eval_loss': 0.06334476917982101, 'eval_accuracy': 0.9790206167765998, 'eval_f1': 0.9789256413369644, 'eval_precision': 0.9868163379493635, 'eval_recall': 0.9711601335306467, 'eval_runtime': 246.3164, 'eval_samples_per_second': 235.12, 'eval_steps_per_second': 29.393, 'epoch': 0.29}
+{'train_runtime': 9166.3774, 'train_samples_per_second': 37.909, 'train_steps_per_second': 0.592, 'train_loss': 0.11844341713935137, 'epoch': 0.29}

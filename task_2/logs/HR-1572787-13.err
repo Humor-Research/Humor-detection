@@ -1,0 +1,178 @@
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Some weights of the model checkpoint at /home/ambaranov/roberta-base/ were not used when initializing RobertaForSequenceClassification: ['lm_head.decoder.weight', 'lm_head.layer_norm.bias', 'roberta.pooler.dense.weight', 'lm_head.bias', 'lm_head.layer_norm.weight', 'lm_head.dense.weight', 'lm_head.dense.bias', 'roberta.pooler.dense.bias']
+- This IS expected if you are initializing RobertaForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/ambaranov/roberta-base/ and are newly initialized: ['classifier.out_proj.bias', 'classifier.dense.weight', 'classifier.dense.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Map:   0%|          | 0/2819 [00:00<?, ? examples/s]Map: 100%|██████████| 2819/2819 [00:00<00:00, 15750.96 examples/s]                                                                  Map:   0%|          | 0/403 [00:00<?, ? examples/s]                                                   Map:   0%|          | 0/805 [00:00<?, ? examples/s]                                                   /home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+/home/ambaranov/.local/lib/python3.10/site-packages/transformers/optimization.py:391: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+  0%|          | 0/44 [00:00<?, ?it/s]  2%|▏         | 1/44 [00:04<03:17,  4.59s/it]  5%|▍         | 2/44 [00:07<02:37,  3.76s/it]  7%|▋         | 3/44 [00:10<02:23,  3.49s/it]  9%|▉         | 4/44 [00:14<02:14,  3.37s/it] 11%|█▏        | 5/44 [00:17<02:08,  3.30s/it]
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 33.91it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 31.29it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 30.31it/s][A
+ 31%|███▏      | 16/51 [00:00<00:01, 30.03it/s][A
+ 39%|███▉      | 20/51 [00:00<00:01, 29.73it/s][A
+ 45%|████▌     | 23/51 [00:00<00:00, 29.59it/s][A
+ 51%|█████     | 26/51 [00:00<00:00, 29.56it/s][A
+ 57%|█████▋    | 29/51 [00:00<00:00, 29.67it/s][A
+ 63%|██████▎   | 32/51 [00:01<00:00, 29.73it/s][A
+ 69%|██████▊   | 35/51 [00:01<00:00, 29.78it/s][A
+ 76%|███████▋  | 39/51 [00:01<00:00, 30.24it/s][A
+ 84%|████████▍ | 43/51 [00:01<00:00, 30.98it/s][A
+ 92%|█████████▏| 47/51 [00:01<00:00, 31.50it/s][A
+100%|██████████| 51/51 [00:01<00:00, 31.89it/s][A                                              
+                                               [A 11%|█▏        | 5/44 [00:19<02:08,  3.30s/it]
+100%|██████████| 51/51 [00:01<00:00, 31.89it/s][A
+                                               [A 14%|█▎        | 6/44 [00:24<02:57,  4.68s/it] 16%|█▌        | 7/44 [00:27<02:34,  4.17s/it] 18%|█▊        | 8/44 [00:30<02:19,  3.87s/it]                                               18%|█▊        | 8/44 [00:30<02:19,  3.87s/it] 20%|██        | 9/44 [00:34<02:07,  3.65s/it] 23%|██▎       | 10/44 [00:37<01:59,  3.51s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 33.89it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 30.45it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 29.61it/s][A
+ 29%|██▉       | 15/51 [00:00<00:01, 29.43it/s][A
+ 35%|███▌      | 18/51 [00:00<00:01, 29.21it/s][A
+ 41%|████      | 21/51 [00:00<00:01, 29.11it/s][A
+ 47%|████▋     | 24/51 [00:00<00:00, 28.39it/s][A
+ 53%|█████▎    | 27/51 [00:00<00:00, 28.36it/s][A
+ 59%|█████▉    | 30/51 [00:01<00:00, 28.42it/s][A
+ 65%|██████▍   | 33/51 [00:01<00:00, 28.51it/s][A
+ 71%|███████   | 36/51 [00:01<00:00, 28.46it/s][A
+ 76%|███████▋  | 39/51 [00:01<00:00, 28.75it/s][A
+ 82%|████████▏ | 42/51 [00:01<00:00, 28.95it/s][A
+ 88%|████████▊ | 45/51 [00:01<00:00, 28.96it/s][A
+ 94%|█████████▍| 48/51 [00:01<00:00, 28.97it/s][A
+100%|██████████| 51/51 [00:01<00:00, 28.94it/s][A                                               
+                                               [A 23%|██▎       | 10/44 [00:39<01:59,  3.51s/it]
+100%|██████████| 51/51 [00:01<00:00, 28.94it/s][A
+                                               [A 25%|██▌       | 11/44 [00:44<02:36,  4.74s/it] 27%|██▋       | 12/44 [00:48<02:16,  4.27s/it] 30%|██▉       | 13/44 [00:51<02:01,  3.93s/it] 32%|███▏      | 14/44 [00:54<01:51,  3.70s/it] 34%|███▍      | 15/44 [00:57<01:42,  3.55s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 38.61it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 32.11it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 30.51it/s][A
+ 31%|███▏      | 16/51 [00:00<00:01, 29.67it/s][A
+ 37%|███▋      | 19/51 [00:00<00:01, 29.42it/s][A
+ 43%|████▎     | 22/51 [00:00<00:00, 29.28it/s][A
+ 49%|████▉     | 25/51 [00:00<00:00, 29.07it/s][A
+ 55%|█████▍    | 28/51 [00:00<00:00, 28.90it/s][A
+ 61%|██████    | 31/51 [00:01<00:00, 28.94it/s][A
+ 67%|██████▋   | 34/51 [00:01<00:00, 29.01it/s][A
+ 73%|███████▎  | 37/51 [00:01<00:00, 29.10it/s][A
+ 78%|███████▊  | 40/51 [00:01<00:00, 29.19it/s][A
+ 84%|████████▍ | 43/51 [00:01<00:00, 29.16it/s][A
+ 90%|█████████ | 46/51 [00:01<00:00, 29.30it/s][A
+ 96%|█████████▌| 49/51 [00:01<00:00, 29.42it/s][A                                               
+                                               [A 34%|███▍      | 15/44 [00:59<01:42,  3.55s/it]
+100%|██████████| 51/51 [00:01<00:00, 29.42it/s][A
+                                               [A 36%|███▋      | 16/44 [01:05<02:14,  4.81s/it]                                                36%|███▋      | 16/44 [01:05<02:14,  4.81s/it] 39%|███▊      | 17/44 [01:08<01:56,  4.32s/it] 41%|████      | 18/44 [01:11<01:43,  3.97s/it] 43%|████▎     | 19/44 [01:14<01:32,  3.71s/it] 45%|████▌     | 20/44 [01:17<01:25,  3.55s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 30.96it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 29.23it/s][A
+ 22%|██▏       | 11/51 [00:00<00:01, 29.15it/s][A
+ 27%|██▋       | 14/51 [00:00<00:01, 29.10it/s][A
+ 33%|███▎      | 17/51 [00:00<00:01, 29.10it/s][A
+ 39%|███▉      | 20/51 [00:00<00:01, 28.85it/s][A
+ 45%|████▌     | 23/51 [00:00<00:00, 28.71it/s][A
+ 51%|█████     | 26/51 [00:00<00:00, 28.67it/s][A
+ 57%|█████▋    | 29/51 [00:01<00:00, 28.73it/s][A
+ 63%|██████▎   | 32/51 [00:01<00:00, 28.76it/s][A
+ 69%|██████▊   | 35/51 [00:01<00:00, 28.72it/s][A
+ 75%|███████▍  | 38/51 [00:01<00:00, 28.94it/s][A
+ 80%|████████  | 41/51 [00:01<00:00, 29.14it/s][A
+ 86%|████████▋ | 44/51 [00:01<00:00, 29.30it/s][A
+ 94%|█████████▍| 48/51 [00:01<00:00, 29.70it/s][A                                               
+                                               [A 45%|████▌     | 20/44 [01:20<01:25,  3.55s/it]
+100%|██████████| 51/51 [00:01<00:00, 29.70it/s][A
+                                               [A 48%|████▊     | 21/44 [01:25<01:50,  4.81s/it] 50%|█████     | 22/44 [01:28<01:35,  4.32s/it] 52%|█████▏    | 23/44 [01:32<01:23,  3.98s/it] 55%|█████▍    | 24/44 [01:35<01:14,  3.74s/it]                                                55%|█████▍    | 24/44 [01:35<01:14,  3.74s/it] 57%|█████▋    | 25/44 [01:38<01:07,  3.57s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 33.21it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 30.47it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 29.48it/s][A
+ 29%|██▉       | 15/51 [00:00<00:01, 29.26it/s][A
+ 35%|███▌      | 18/51 [00:00<00:01, 29.12it/s][A
+ 41%|████      | 21/51 [00:00<00:01, 29.07it/s][A
+ 47%|████▋     | 24/51 [00:00<00:00, 29.04it/s][A
+ 53%|█████▎    | 27/51 [00:00<00:00, 28.91it/s][A
+ 59%|█████▉    | 30/51 [00:01<00:00, 28.82it/s][A
+ 65%|██████▍   | 33/51 [00:01<00:00, 28.79it/s][A
+ 71%|███████   | 36/51 [00:01<00:00, 28.79it/s][A
+ 76%|███████▋  | 39/51 [00:01<00:00, 28.99it/s][A
+ 82%|████████▏ | 42/51 [00:01<00:00, 29.08it/s][A
+ 88%|████████▊ | 45/51 [00:01<00:00, 29.19it/s][A
+ 94%|█████████▍| 48/51 [00:01<00:00, 29.33it/s][A
+100%|██████████| 51/51 [00:01<00:00, 29.43it/s][A                                               
+                                               [A 57%|█████▋    | 25/44 [01:40<01:07,  3.57s/it]
+100%|██████████| 51/51 [00:01<00:00, 29.43it/s][A
+                                               [A 59%|█████▉    | 26/44 [01:46<01:26,  4.83s/it] 61%|██████▏   | 27/44 [01:49<01:13,  4.33s/it] 64%|██████▎   | 28/44 [01:52<01:03,  3.98s/it] 66%|██████▌   | 29/44 [01:55<00:56,  3.74s/it] 68%|██████▊   | 30/44 [01:58<00:49,  3.57s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 33.17it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 30.27it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 29.71it/s][A
+ 29%|██▉       | 15/51 [00:00<00:01, 29.41it/s][A
+ 35%|███▌      | 18/51 [00:00<00:01, 28.95it/s][A
+ 41%|████      | 21/51 [00:00<00:01, 28.66it/s][A
+ 47%|████▋     | 24/51 [00:00<00:00, 28.79it/s][A
+ 53%|█████▎    | 27/51 [00:00<00:00, 28.84it/s][A
+ 59%|█████▉    | 30/51 [00:01<00:00, 28.95it/s][A
+ 65%|██████▍   | 33/51 [00:01<00:00, 28.41it/s][A
+ 71%|███████   | 36/51 [00:01<00:00, 28.53it/s][A
+ 76%|███████▋  | 39/51 [00:01<00:00, 28.85it/s][A
+ 82%|████████▏ | 42/51 [00:01<00:00, 29.06it/s][A
+ 88%|████████▊ | 45/51 [00:01<00:00, 29.21it/s][A
+ 94%|█████████▍| 48/51 [00:01<00:00, 29.35it/s][A
+100%|██████████| 51/51 [00:01<00:00, 29.46it/s][A                                               
+                                               [A 68%|██████▊   | 30/44 [02:01<00:49,  3.57s/it]
+100%|██████████| 51/51 [00:01<00:00, 29.46it/s][A
+                                               [A 70%|███████   | 31/44 [02:06<01:02,  4.82s/it] 73%|███████▎  | 32/44 [02:09<00:51,  4.32s/it]                                                73%|███████▎  | 32/44 [02:09<00:51,  4.32s/it] 75%|███████▌  | 33/44 [02:12<00:43,  3.97s/it] 77%|███████▋  | 34/44 [02:16<00:37,  3.73s/it] 80%|███████▉  | 35/44 [02:19<00:32,  3.57s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 32.27it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 30.31it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 29.96it/s][A
+ 31%|███▏      | 16/51 [00:00<00:01, 29.74it/s][A
+ 37%|███▋      | 19/51 [00:00<00:01, 29.66it/s][A
+ 43%|████▎     | 22/51 [00:00<00:00, 29.64it/s][A
+ 49%|████▉     | 25/51 [00:00<00:00, 29.43it/s][A
+ 55%|█████▍    | 28/51 [00:00<00:00, 29.26it/s][A
+ 61%|██████    | 31/51 [00:01<00:00, 29.39it/s][A
+ 67%|██████▋   | 34/51 [00:01<00:00, 29.41it/s][A
+ 75%|███████▍  | 38/51 [00:01<00:00, 30.01it/s][A
+ 82%|████████▏ | 42/51 [00:01<00:00, 30.76it/s][A
+ 90%|█████████ | 46/51 [00:01<00:00, 31.17it/s][A
+ 98%|█████████▊| 50/51 [00:01<00:00, 31.58it/s][A                                               
+                                               [A 80%|███████▉  | 35/44 [02:21<00:32,  3.57s/it]
+100%|██████████| 51/51 [00:01<00:00, 31.58it/s][A
+                                               [A 82%|████████▏ | 36/44 [02:26<00:38,  4.79s/it] 84%|████████▍ | 37/44 [02:30<00:30,  4.30s/it] 86%|████████▋ | 38/44 [02:33<00:23,  3.96s/it] 89%|████████▊ | 39/44 [02:36<00:18,  3.72s/it] 91%|█████████ | 40/44 [02:39<00:14,  3.56s/it]                                                91%|█████████ | 40/44 [02:39<00:14,  3.56s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/51 [00:00<?, ?it/s][A
+  8%|▊         | 4/51 [00:00<00:01, 34.55it/s][A
+ 16%|█▌        | 8/51 [00:00<00:01, 31.12it/s][A
+ 24%|██▎       | 12/51 [00:00<00:01, 29.96it/s][A
+ 31%|███▏      | 16/51 [00:00<00:01, 29.54it/s][A
+ 37%|███▋      | 19/51 [00:00<00:01, 29.42it/s][A
+ 43%|████▎     | 22/51 [00:00<00:00, 29.21it/s][A
+ 49%|████▉     | 25/51 [00:00<00:00, 29.05it/s][A
+ 55%|█████▍    | 28/51 [00:00<00:00, 29.09it/s][A
+ 61%|██████    | 31/51 [00:01<00:00, 28.88it/s][A
+ 67%|██████▋   | 34/51 [00:01<00:00, 28.84it/s][A
+ 73%|███████▎  | 37/51 [00:01<00:00, 29.04it/s][A
+ 78%|███████▊  | 40/51 [00:01<00:00, 29.27it/s][A
+ 84%|████████▍ | 43/51 [00:01<00:00, 29.44it/s][A
+ 90%|█████████ | 46/51 [00:01<00:00, 29.37it/s][A
+ 96%|█████████▌| 49/51 [00:01<00:00, 29.45it/s][A                                               
+                                               [A 91%|█████████ | 40/44 [02:41<00:14,  3.56s/it]
+100%|██████████| 51/51 [00:01<00:00, 29.45it/s][A
+                                               [A 93%|█████████▎| 41/44 [02:47<00:14,  4.83s/it] 95%|█████████▌| 42/44 [02:50<00:08,  4.33s/it] 98%|█████████▊| 43/44 [02:53<00:03,  3.97s/it]100%|██████████| 44/44 [02:56<00:00,  3.72s/it]                                               100%|██████████| 44/44 [02:57<00:00,  3.72s/it]100%|██████████| 44/44 [02:57<00:00,  4.03s/it]

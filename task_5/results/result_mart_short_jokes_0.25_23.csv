@@ -1,0 +1,6 @@
+,trained_on,train_percent,random_state,test_on,f1
+0,short_jokes,0.25,23,short_jokes,0.6531793830898747
+1,short_jokes,0.25,23,comb,0.748065229408513
+2,short_jokes,0.25,23,reddit_jokes_last_laught,0.6673984632272228
+3,short_jokes,0.25,23,the_naughtyformer,0.9507921006944444
+4,short_jokes,0.25,23,one_liners,0.7205586459936086

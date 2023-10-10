@@ -1,0 +1,2 @@
+,dataset,rs,best_model_path
+0,short_jokes,23,./models/results_short_jokes_23/checkpoint-2600

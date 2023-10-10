@@ -1,0 +1,3 @@
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+/home/ambaranov/.local/lib/python3.10/site-packages/transformers/pipelines/text_classification.py:104: UserWarning: `return_all_scores` is now deprecated,  if want a similar funcionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(

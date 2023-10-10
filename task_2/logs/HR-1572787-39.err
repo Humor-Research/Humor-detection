@@ -1,0 +1,49 @@
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Some weights of the model checkpoint at /home/ambaranov/roberta-base/ were not used when initializing RobertaForSequenceClassification: ['lm_head.decoder.weight', 'roberta.pooler.dense.weight', 'lm_head.dense.bias', 'lm_head.dense.weight', 'lm_head.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'roberta.pooler.dense.bias']
+- This IS expected if you are initializing RobertaForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/ambaranov/roberta-base/ and are newly initialized: ['classifier.out_proj.bias', 'classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Map:   0%|          | 0/1253 [00:00<?, ? examples/s]Map: 100%|██████████| 1253/1253 [00:00<00:00, 11599.65 examples/s]                                                                  Map:   0%|          | 0/179 [00:00<?, ? examples/s]                                                   Map:   0%|          | 0/358 [00:00<?, ? examples/s]                                                   /home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+/home/ambaranov/.local/lib/python3.10/site-packages/transformers/optimization.py:391: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+  0%|          | 0/19 [00:00<?, ?it/s]  5%|▌         | 1/19 [00:04<01:25,  4.74s/it] 11%|█         | 2/19 [00:07<01:02,  3.70s/it] 16%|█▌        | 3/19 [00:10<00:55,  3.45s/it] 21%|██        | 4/19 [00:14<00:49,  3.33s/it] 26%|██▋       | 5/19 [00:17<00:45,  3.27s/it]
+  0%|          | 0/23 [00:00<?, ?it/s][A
+ 13%|█▎        | 3/23 [00:00<00:00, 29.38it/s][A
+ 26%|██▌       | 6/23 [00:00<00:00, 22.85it/s][A
+ 39%|███▉      | 9/23 [00:00<00:00, 21.53it/s][A
+ 52%|█████▏    | 12/23 [00:00<00:00, 21.06it/s][A
+ 65%|██████▌   | 15/23 [00:00<00:00, 20.74it/s][A
+ 78%|███████▊  | 18/23 [00:00<00:00, 20.56it/s][A
+ 91%|█████████▏| 21/23 [00:00<00:00, 20.45it/s][A                                              
+                                               [A 26%|██▋       | 5/19 [00:18<00:45,  3.27s/it]
+100%|██████████| 23/23 [00:01<00:00, 20.45it/s][A
+                                               [A 32%|███▏      | 6/19 [00:24<01:00,  4.63s/it] 37%|███▋      | 7/19 [00:27<00:48,  4.07s/it] 42%|████▏     | 8/19 [00:30<00:41,  3.74s/it]                                               42%|████▏     | 8/19 [00:30<00:41,  3.74s/it] 47%|████▋     | 9/19 [00:33<00:34,  3.50s/it] 53%|█████▎    | 10/19 [00:36<00:30,  3.33s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/23 [00:00<?, ?it/s][A
+ 13%|█▎        | 3/23 [00:00<00:00, 28.84it/s][A
+ 26%|██▌       | 6/23 [00:00<00:00, 22.12it/s][A
+ 39%|███▉      | 9/23 [00:00<00:00, 20.85it/s][A
+ 52%|█████▏    | 12/23 [00:00<00:00, 20.32it/s][A
+ 65%|██████▌   | 15/23 [00:00<00:00, 20.13it/s][A
+ 78%|███████▊  | 18/23 [00:00<00:00, 20.00it/s][A
+ 91%|█████████▏| 21/23 [00:01<00:00, 19.88it/s][A
+100%|██████████| 23/23 [00:01<00:00, 19.76it/s][A                                               
+                                               [A 53%|█████▎    | 10/19 [00:37<00:30,  3.33s/it]
+100%|██████████| 23/23 [00:01<00:00, 19.76it/s][A
+                                               [A 58%|█████▊    | 11/19 [00:43<00:36,  4.55s/it] 63%|██████▎   | 12/19 [00:46<00:28,  4.10s/it] 68%|██████▊   | 13/19 [00:49<00:22,  3.78s/it] 74%|███████▎  | 14/19 [00:52<00:17,  3.53s/it] 79%|███████▉  | 15/19 [00:55<00:13,  3.37s/it]/home/ambaranov/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py:561: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+
+  0%|          | 0/23 [00:00<?, ?it/s][A
+ 13%|█▎        | 3/23 [00:00<00:00, 29.46it/s][A
+ 26%|██▌       | 6/23 [00:00<00:00, 20.16it/s][A
+ 39%|███▉      | 9/23 [00:00<00:00, 20.07it/s][A
+ 52%|█████▏    | 12/23 [00:00<00:00, 20.16it/s][A
+ 65%|██████▌   | 15/23 [00:00<00:00, 20.13it/s][A
+ 78%|███████▊  | 18/23 [00:00<00:00, 20.17it/s][A
+ 91%|█████████▏| 21/23 [00:01<00:00, 20.22it/s][A                                               
+                                               [A 79%|███████▉  | 15/19 [00:57<00:13,  3.37s/it]
+100%|██████████| 23/23 [00:01<00:00, 20.22it/s][A
+                                               [A 84%|████████▍ | 16/19 [01:03<00:13,  4.61s/it]                                                84%|████████▍ | 16/19 [01:03<00:13,  4.61s/it] 89%|████████▉ | 17/19 [01:06<00:08,  4.10s/it] 95%|█████████▍| 18/19 [01:09<00:03,  3.81s/it]100%|██████████| 19/19 [01:12<00:00,  3.59s/it]                                               100%|██████████| 19/19 [01:12<00:00,  3.59s/it]100%|██████████| 19/19 [01:12<00:00,  3.83s/it]

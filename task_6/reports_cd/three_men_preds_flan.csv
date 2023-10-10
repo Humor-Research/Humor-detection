@@ -1,0 +1,821 @@
+,dataset,label,text,predicted
+0,three_men,tensor(1),"“So mysterious!”
+“Why, here it is all the time,”",<pad> unfunny</s>
+1,three_men,tensor(1),"“Ah, well,” we feel, “he did his best.”
+“Going to clear up, d’ye think?”",<pad> unfunny</s>
+2,three_men,tensor(1),"“What did Tom say about those cheeses?”
+“Nobody’s likely to touch them. Had he smelt them?”",<pad> funny</s><pad><pad><pad><pad>
+3,three_men,tensor(1),"“No oil,”
+“never again.”",<pad> unfunny</s>
+4,three_men,tensor(1),"“Yes,” you answer, rubbing your eyes; “what’s happened?”
+“Bally tent’s blown down, I think,” he says. “Where’s Bill?”",<pad> unfunny</s>
+5,three_men,tensor(1),"“You are a chemist?”
+“I am a chemist. If I was a co-operative stores and family hotel
+combined, I might be able to oblige you. Being only a chemist hampers
+me.”",<pad> funny</s><pad><pad><pad><pad>
+6,three_men,tensor(1),"“What time shall I wake you fellows?”
+“Seven.”",<pad> unfunny</s>
+7,three_men,tensor(1),"“Most extraordinary thing I ever heard of,”
+“So mysterious!”",<pad> unfunny</s>
+8,three_men,tensor(1),"“What’s yours?”
+“I’ll have half-a-crown’s worth of brandy, neat, if you please, miss,”",<pad> unfunny</s>
+9,three_men,tensor(1),"“I’m a-coming, sur, I’m a-coming. I’m a little lame. I ain’t as spry as
+I used to be. This way, sur.”
+“Go away, you miserable old man,”",<pad> funny</s><pad><pad><pad><pad>
+10,three_men,tensor(1),"“Well, won’t you come and see the memorial window?”
+“I’ve got a couple of skulls down in the crypt,” he said; “come and see
+those. Oh, do come and see the skulls! You are a young man out for a
+holiday, and you want to enjoy yourself. Come and see the skulls!”",<pad> funny</s><pad><pad><pad><pad>
+11,three_men,tensor(1),"“Ah!” said the carrier, “then, of course, how should you? It was nearly
+five years ago that I caught that trout.”
+“Oh! was it you who caught it, then?”",<pad> funny</s><pad><pad><pad><pad>
+12,three_men,tensor(1),"“Oh, it’s all right!” I said. “We’ll be through the next lock before
+seven, and then there is only one more;”
+“Oh!”",<pad> unfunny</s>
+13,three_men,tensor(1),"“I beg your pardon, I hope you will forgive the liberty that we—perfect
+strangers in the neighbourhood—are taking, but my friend here and
+myself would be so much obliged if you would tell us how you caught
+that trout up there.”
+“Why, who told you I caught that trout!”",<pad> unfunny</s>
+14,three_men,tensor(1),"“Well, and how many did you want it to go?”
+“Why, nine,”",<pad> unfunny</s>
+15,three_men,tensor(1),"“Very sorry, sir,” said the landlord; “but I’m afraid we can’t manage
+it.”
+“Oh, well, never mind,” said George, “two will do. Two of us can sleep
+in one bed, can’t we?”",<pad> funny</s><pad><pad><pad><pad>
+16,three_men,tensor(1),"“The Pig and Whistle,” said George. “Why?”
+“Ah, no, then it isn’t the same,”",<pad> unfunny</s>
+17,three_men,tensor(1),"“What a doctor wants,” I said, “is practice.
+He shall have me. He will get more practice out of me than out of
+seventeen hundred of your ordinary, commonplace patients, with only one
+or two diseases each.”
+“Well, what’s the matter with you?”",<pad> unfunny</s>
+18,three_men,tensor(1),"“How have you got on?”
+“Well, to tell you the truth, my man’s chucked _me_ out.”",<pad> unfunny</s>
+19,three_men,tensor(1),"“Go away,” I repeated; “leave me before I get over the wall, and slay
+you.”
+“Don’t you want to see the tombs?”",<pad> unfunny</s>
+20,three_men,tensor(1),"“Yes it’s almost a pity we’ve made up our minds to stick to this boat,”
+“If we _hadn’t_ made up our minds to contract our certain deaths in
+this bally old coffin,” observed George, casting a glance of intense
+malevolence over the boat, “it might be worth while to mention that
+there’s a train leaves Pangbourne, I know, soon after five, which would
+just land us in town in comfortable time to get a chop, and then go on
+to the place you mentioned afterwards.”",<pad> funny</s><pad><pad><pad><pad>
+21,three_men,tensor(1),"“I never knew you played the banjo!”
+“Not exactly,” replied George: “but it’s very easy, they tell me; and
+I’ve got the instruction book!”",<pad> funny</s><pad><pad><pad><pad>
+22,three_men,tensor(1),"“None,”
+“What on earth are we to do?”",<pad> unfunny</s>
+23,three_men,tensor(1),"“By Jove! old J.’s gone in,” I heard Harris say, as I came blowing to
+the surface. “I didn’t think he’d have the pluck to do it. Did you?”
+“Is it all right?”",<pad> unfunny</s>
+24,three_men,tensor(1),"“No,” I answered, “I don’t. I want to stop here, leaning up against
+this gritty old wall. Go away, and don’t disturb me. I am chock full
+of beautiful and noble thoughts, and I want to stop like it, because
+it feels nice and good. Don’t you come fooling about, making me mad,
+chivying away all my better feelings with this silly tombstone nonsense
+of yours. Go away, and get somebody to bury you cheap, and I’ll pay
+half the expense.”
+“Yuise a stranger in these parts? You don’t live here?”",<pad> unfunny</s>
+25,three_men,tensor(1),"“Ah! you may well say that, sir,” replied the man; and then, after a
+pull at his beer, he added, “Maybe you wasn’t here, sir, when that fish
+was caught?”
+“No,”",<pad> funny</s><pad><pad><pad><pad>
+26,three_men,tensor(1),"“Why, bless us, where’s your eyes?” was the man’s comment, as he
+twisted George round and pointed up and down the stream. “There’s
+enough of it to see, ain’t there?”
+“Oh!” exclaimed George, grasping the idea; “but we can’t drink the
+river, you know!”",<pad> funny</s><pad><pad><pad><pad>
+27,three_men,tensor(1),"“Hi! come further in,” I said, shaking him by the shoulder. “You’ll be
+overboard.”
+“Oh my! I wish I was,”",<pad> funny</s><pad><pad><pad><pad>
+28,three_men,tensor(1),"“Now then, old man, you start off, and
+I’ll follow. We won’t bother about any prelude.”
+“By Jove! I beg your pardon. Of course—I’ve been
+mixing up the two songs. It was Jenkins confused me, you know. Now then.
+
+[_Singing_; _his voice appearing to come from the cellar_, _and
+suggesting the first low warnings of an approaching earthquake_.
+
+    “‘When I was young I served a term
+    As office-boy to an attorney’s firm.’
+
+(_Aside to pianist_): “It is too low, old man; we’ll have that over
+again, if you don’t mind.”",<pad> funny</s><pad><pad><pad><pad>
+29,three_men,tensor(1),"“Well, I had a haul on Tuesday evening that it’s not much good my
+telling anybody about.”
+“Oh! why’s that?”",<pad> unfunny</s>
+30,three_men,tensor(1),"“Is it all right?”
+“Lovely,” I spluttered back. “You are duffers not to come in. I
+wouldn’t have missed this for worlds. Why won’t you try it? It only
+wants a little determination.”",<pad> unfunny</s>
+31,three_men,tensor(1),"“Madam,” I replied, “for myself I like the smell of cheese, and the
+journey the other day with them from Liverpool I shall ever look back
+upon as a happy ending to a pleasant holiday. But, in this world, we
+must consider others. The lady under whose roof I have the honour of
+residing is a widow, and, for all I know, possibly an orphan too. She
+has a strong, I may say an eloquent, objection to being what she terms
+‘put upon.’ The presence of your husband’s cheeses in her house she
+would, I instinctively feel, regard as a ‘put upon’; and it shall never
+be said that I put upon the widow and the orphan.”
+“Very well, then,” said my friend’s wife, rising, “all I have to say
+is, that I shall take the children and go to an hotel until those
+cheeses are eaten. I decline to live any longer in the same house with
+them.”",<pad> funny</s><pad><pad><pad><pad>
+32,three_men,tensor(1),"“I saw you do it myself, not a minute ago,”
+“Most extraordinary thing I ever heard of,”",<pad> unfunny</s>
+33,three_men,tensor(1),"“Oh, that _is_ nice,” says the hostess. “Do sing one, Mr. Harris;”
+“Now, silence, please, everybody” says the hostess, turning round; “Mr.
+Harris is going to sing a comic song!”",<pad> funny</s><pad><pad><pad><pad>
+34,three_men,tensor(1),"“Bally tent’s blown down, I think,” he says. “Where’s Bill?”
+“Bill!”",<pad> unfunny</s>
+35,three_men,tensor(1),"“No,” said George, with a strange, wild look glittering in his eyes;
+“they are all the rage this season; everybody has got them up the
+river. It’s a banjo.”
+“I never knew you played the banjo!”",<pad> funny</s><pad><pad><pad><pad>
+36,three_men,tensor(1),"“Oh, we had been there, and didn’t like it—no honeysuckle over it.”
+“Well, then,” he said, “there’s the Manor House, just opposite. Have
+you tried that?”",<pad> unfunny</s>
+37,three_men,tensor(1),"“Oh, drat the man!” she would exclaim, when some unfortunate sculler
+would get in her way; “why don’t he look where he’s going?”
+“Oh, bother the silly old thing!”",<pad> funny</s><pad><pad><pad><pad>
+38,three_men,tensor(1),"“Well, it’s an extraordinary thing, Tom,” answered the other; “but I’m
+blest if there isn’t a man in my bed, too!”
+“What are you going to do?”",<pad> unfunny</s>
+39,three_men,tensor(1),"“But, great Cæsar! man,” expostulated my friend; “you don’t mean to say
+you have covered over carved oak with blue wall-paper?”
+“Yes,” was the reply: “it was expensive work. Had to match-board it all
+over first, of course. But the room looks cheerful now. It was awful
+gloomy before.”",<pad> unfunny</s>
+40,three_men,tensor(1),"“Oh, one of the largest in Europe,”
+“Yes, it must be,” replied the cousin, “because we’ve walked a good two
+miles already.”",<pad> funny</s><pad><pad><pad><pad>
+41,three_men,tensor(1),"“It doesn’t seem difficult at all. I thought it was so hard.”
+“Oh, no, it’s simple enough. You want to keep on steady at it, that’s
+all.”",<pad> unfunny</s>
+42,three_men,tensor(1),"“It’s all right. You’re doing it
+very well, indeed—go on.”
+“I’m afraid there’s a mistake somewhere. What are you
+singing?”",<pad> unfunny</s>
+43,three_men,tensor(1),"“Has he been snatched up to heaven?”
+“They’d hardly have taken the pie too,”",<pad> funny</s><pad><pad><pad><pad>
+44,three_men,tensor(1),"“It’s always in the same place my boy,” was the stolid reply: “just
+behind you.”
+“I don’t see it,”",<pad> unfunny</s>
+45,three_men,tensor(1),"“Oh no, sir, I think it will clear up all right. It will break all
+right enough, sir.”
+“Ah, he knows”, we say, as we wish him good-morning, and start off;
+“wonderful how these old fellows can tell!”",<pad> funny</s><pad><pad><pad><pad>
+46,three_men,tensor(1),"“Some way—you must keep the boat moving.”
+“Oh, all right, I’ll tell ’em. Are we doing it all right?”",<pad> unfunny</s>
+47,three_men,tensor(1),"“Why, nine,”
+“Do you know where you live?”",<pad> unfunny</s>
+48,three_men,tensor(1),"“You haven’t injured the fish, have you?”
+“I hope not,”",<pad> unfunny</s>
+49,three_men,tensor(1),"“Not at all—quite a pleasure. Sure you don’t want anything,
+now?”
+“Not at all, thanks—not at all—very kind
+of you. Good morning.”",<pad> unfunny</s>
+50,three_men,tensor(1),"“Yuise a stranger in these parts? You don’t live here?”
+“No,” I said, “I don’t. _You_ wouldn’t if _I_ did.”",<pad> funny</s><pad><pad><pad><pad>
+51,three_men,tensor(1),"“What is it? Tell me the worst.”
+“It’s cheeses. Tom bought them in Liverpool, and asked me to bring them
+up with me.”",<pad> unfunny</s>
+52,three_men,tensor(1),"“Very close in here,”
+“Quite oppressive,”",<pad> unfunny</s>
+53,three_men,tensor(1),"“Good sailor!” he replied in answer to a mild young man’s envious
+query; “well, I did feel a little queer _once_, I confess. It was off
+Cape Horn. The vessel was wrecked the next morning.”
+“Weren’t you a little shaky by Southend Pier one day, and wanted to be
+thrown overboard?”",<pad> unfunny</s>
+54,three_men,tensor(1),"“I am a chemist. If I was a co-operative stores and family hotel
+combined, I might be able to oblige you. Being only a chemist hampers
+me.”
+“1 lb. beefsteak, with
+    1 pt. bitter beer
+
+                                                          every 6 hours.
+
+    1 ten-mile walk every morning.
+
+    1 bed at 11 sharp every night.
+
+    And don’t stuff up your head with things you don’t understand.”",<pad> unfunny</s>
+55,three_men,tensor(1),"“Good-sized trout, that,”
+“Ah! you may well say that, sir,” replied the man; and then, after a
+pull at his beer, he added, “Maybe you wasn’t here, sir, when that fish
+was caught?”",<pad> funny</s><pad><pad><pad><pad>
+56,three_men,tensor(1),"“Bill!”
+“Get off my head, can’t you?”",<pad> funny</s><pad><pad><pad><pad>
+57,three_men,tensor(1),"“Yes!”
+“How have you got on?”",<pad> unfunny</s>
+58,three_men,tensor(1),"“The Blue
+Posts”
+“They ain’t a-going to starve, are they?”",<pad> unfunny</s>
+59,three_men,tensor(1),"“Do you know where you live?”
+“Oh! that’s where it is, is it?” replied the man; “well, you take my
+advice and go there quietly, and take that watch of yours with you; and
+don’t let’s have any more of it.”",<pad> unfunny</s>
+60,three_men,tensor(1),"“Well, you couldn’t very well have done less,”
+“I suppose J. thinks he is the passenger,”",<pad> unfunny</s>
+61,three_men,tensor(1),"“Well, I don’t know what you’ll do, I’m sure,” said our informant;
+“because they are the only two inns in the place.”
+“No other inns!”",<pad> unfunny</s>
+62,three_men,tensor(1),"“Don’t you mind speaking, if you really want anything, you
+know.”
+“Oh, no—not at
+all—certainly—don’t you trouble. I—I am afraid I’ve made a mistake. I
+thought I knew you. Sorry I disturbed you.”",<pad> unfunny</s>
+63,three_men,tensor(1),"“With a little supper at the --- {311} to follow,”
+“Yes it’s almost a pity we’ve made up our minds to stick to this boat,”",<pad> unfunny</s>
+64,three_men,tensor(1),"“Doesn’t anybody in the whole house know where my
+coat is? I never came across such a set in all my life—upon my word I
+didn’t. Six of you!—and you can’t find a coat that I put down not five
+minutes ago! Well, of all the—”
+“Oh, you can give it up! I’ve found it myself now. Might just as well
+ask the cat to find anything as expect you people to find it.”",<pad> funny</s><pad><pad><pad><pad>
+65,three_men,tensor(1),"“Oh! you here!” and Henry would have
+blushed and said, “Yes; he’d just come over to see a man;” and Anne
+would have said, “Oh, I’m so glad to see you! Isn’t it funny? I’ve just
+met Mr. Henry VIII. in the lane, and he’s going the same way I am.”
+“Oh!
+we’d better get out of here while this billing and cooing is on. We’ll
+go down to Kent.”",<pad> funny</s><pad><pad><pad><pad>
+66,three_men,tensor(1),"“Oh, please could you spare us a little water?”
+“Certainly,” replied the old gentleman; “take as much as you want, and
+leave the rest.”",<pad> funny</s><pad><pad><pad><pad>
+67,three_men,tensor(1),"“How many swans did you say there were?”
+“Thirty-two,”",<pad> unfunny</s>
+68,three_men,tensor(1),"“So I did,” I answered; “why didn’t you wake me?”
+“How could I wake you, when you didn’t wake me?” he retorted. “Now
+we shan’t get on the water till after twelve. I wonder you take the
+trouble to get up at all.”",<pad> unfunny</s>
+69,three_men,tensor(1),"“Yes; going down to Yarmouth, last Friday three weeks.”
+“Oh, ah—yes,” he answered, brightening up; “I remember now. I did have
+a headache that afternoon. It was the pickles, you know. They were the
+most disgraceful pickles I ever tasted in a respectable boat. Did _you_
+have any?”",<pad> funny</s><pad><pad><pad><pad>
+70,three_men,tensor(1),"“Ah! they’ll come in the afternoon, you’ll find,” we said to each
+other. “Oh, _won’t_ those people get wet. What a lark!”
+“No, no,” we replied, with a knowing chuckle, “not we. _We_ don’t mean
+to get wet—no, no.”",<pad> funny</s><pad><pad><pad><pad>
+71,three_men,tensor(1),"“Do you know that it’s nearly nine o’clock, sir?”
+“Nine o’ what?”",<pad> funny</s><pad><pad><pad><pad>
+72,three_men,tensor(1),"“those grand old artists that flourished in the nineteenth century, and
+produced those china dogs.”
+“sampler” that the eldest daughter did at school will be spoken
+of as “tapestry of the Victorian era,” and be almost priceless. The
+blue-and-white mugs of the present-day roadside inn will be hunted up,
+all cracked and chipped, and sold for their weight in gold, and rich
+people will use them for claret cups; and travellers from Japan will
+buy up all the “Presents from Ramsgate,” and “Souvenirs of Margate,”",<pad> Unfunny</s>
+73,three_men,tensor(1),"“Oh!” you say, pausing at the door, “I didn’t know anybody was here.”
+“Oh! didn’t you?”",<pad> unfunny</s>
+74,three_men,tensor(1),"“Cats!”
+“Please don’t.”",<pad> unfunny</s>
+75,three_men,tensor(1),"“I tell you what it is: you’ve got my sculls,” he cries, turning to
+bow; “pass yours over.”
+“Well, do you know, I’ve been wondering how it was I couldn’t get on
+with these,” answers bow, quite brightening up, and most willingly
+assisting in the exchange. “_Now_ we shall be all right.”",<pad> unfunny</s>
+76,three_men,tensor(1),"“Now then, you girls,” said our friend Bow to them, cheerily, after it
+was all over, “come along, you’ve got to wash up!”
+“Oh, I’ll soon show you,” he cried; “it’s rare fun! You lie down on
+your—I mean you lean over the bank, you know, and sloush the things
+about in the water.”",<pad> funny</s><pad><pad><pad><pad>
+77,three_men,tensor(1),"“What’s he want to howl like that for when I’m playing?”
+“What do you want to play like that for when he is howling?” Harris
+would retort, catching the boot. “You let him alone. He can’t help
+howling. He’s got a musical ear, and your playing _makes_ him howl.”",<pad> funny</s><pad><pad><pad><pad>
+78,three_men,tensor(1),"“Ah!”
+“Ah!” too, and threw his plate
+out on the bank; and, three minutes later than that, Montmorency gave
+the first sign of contentment he had exhibited since we had started,
+and rolled over on his side, and spread his legs out; and then I said,
+“Ah!”",<pad> unfunny</s>
+79,three_men,tensor(1),"“About thirty-four miles, I suppose, it must have been,”
+“No—no; don’t exaggerate, Tom,” murmurs Jack, reprovingly;
+“thirty-three at the outside.”",<pad> Unfunny</s>
+80,three_men,tensor(1),"“Oh, don’t be a stupid ass!” said Harris’s head. “I believe you did it
+on purpose.”
+“Did what?”",<pad> funny</s><pad><pad><pad><pad>
+81,three_men,tensor(1),"“You don’t happen to remember which of the islands it was, do you?”
+“No,” I replied, beginning to grow thoughtful too, “I don’t. How many
+are there?”",<pad> unfunny</s>
+82,three_men,tensor(1),"“Why, you are coming away from them. You must turn right round and go
+back, and then you will come to the Stag.”
+“Oh, we had been there, and didn’t like it—no honeysuckle over it.”",<pad> unfunny</s>
+83,three_men,tensor(1),"“Where?”
+“Stand still, can’t you!”",<pad> unfunny</s>
+84,three_men,tensor(1),"“No, I haven’t,” he yells back; “let go your side!”
+“I tell you you’ve got it all wrong!”",<pad> unfunny</s>
+85,three_men,tensor(1),"“Well, what’s the matter with you?”
+“I will not take up your time, dear boy, with telling you what is the
+matter with me. Life is brief, and you might pass away before I had
+finished. But I will tell you what is _not_ the matter with me. I have
+not got housemaid’s knee. Why I have not got housemaid’s knee, I cannot
+tell you; but the fact remains that I have not got it. Everything else,
+however, I _have_ got.”",<pad> unfunny</s>
+86,three_men,tensor(1),"“Look at your nose, you stupid ass!”
+“Push your nose out, can’t you, you—you two with the dog!”",<pad> funny</s><pad><pad><pad><pad>
+87,three_men,tensor(1),"“It’s very dark. Why don’t you light the gas?”
+“Oh!”",<pad> funny</s><pad><pad><pad><pad>
+88,three_men,tensor(1),"“What are you going to do?”
+“Well, I’m going to chuck him out,”",<pad> funny</s><pad><pad><pad><pad>
+89,three_men,tensor(1),"“Don’t stop—go on—go on!”
+“Go back, Emily, and see what it is they want,”",<pad> unfunny</s>
+90,three_men,tensor(1),"“Well, I
+can only sing a _comic_ song, you know;”
+“Oh, that _is_ nice,” says the hostess. “Do sing one, Mr. Harris;”",<pad> funny</s><pad><pad><pad><pad>
+91,three_men,tensor(1),"“Very sorry, sir,” again repeated the landlord: “but we really haven’t
+got a bed vacant in the whole house. In fact, we are putting two, and
+even three gentlemen in one bed, as it is.”
+“Oh, well, we can’t help it. We must rough it. You must give us a
+shake-down in the billiard-room.”",<pad> unfunny</s>
+92,three_men,tensor(1),"“No—no, thanks.”
+“Don’t you mind speaking, if you really want anything, you
+know.”",<pad> unfunny</s>
+93,three_men,tensor(1),"“What was the name of that inn?”
+“The Pig and Whistle,” said George. “Why?”",<pad> funny</s><pad><pad><pad><pad>
+94,three_men,tensor(1),"“Seven.”
+“No—six,”",<pad> unfunny</s>
+95,three_men,tensor(1),"“Oh, I’m so
+sorry, old chap; I hope I haven’t hurt you.”
+“Not at all;”",<pad> unfunny</s>
+96,three_men,tensor(1),"“rain, cold, wet
+to fine” (whatever more than usually ghastly thing in weather that
+may be), “occasional local thunder-storms, east wind, with general
+depression over the Midland Counties (London and Channel). Bar.
+falling.”
+“weather-forecast” fraud is about the most
+aggravating. It “forecasts”",<pad> unfunny</s>
+97,three_men,tensor(1),"“What are _you_ up to?” he retorts; “leggo, can’t you?”
+“Don’t pull it; you’ve got it all wrong, you stupid ass!”",<pad> funny</s><pad><pad><pad><pad>
+98,three_men,tensor(1),"“Ah, he knows”, we say, as we wish him good-morning, and start off;
+“wonderful how these old fellows can tell!”
+“Ah, well,” we feel, “he did his best.”",<pad> unfunny</s>
+99,three_men,tensor(1),"“It isn’t my shirt—it’s _yours_!”
+“What!” he yelled, springing up. “You silly cuckoo! Why can’t you be
+more careful what you’re doing? Why the deuce don’t you go and dress
+on the bank? You’re not fit to be in a boat, you’re not. Gimme the
+hitcher.”",<pad> funny</s><pad><pad><pad><pad>
+100,three_men,tensor(1),"“_Trial by Jury_” _by
+nervous Pianist_. _Moment arrives for Harris to join in_. _Harris takes
+no notice of it_. _Nervous pianist commences prelude over again, and
+Harris_, _commencing singing at the same time_, _dashes off the first
+two lines of the First Lord’s song out of_ “_Pinafore_.” _Nervous
+pianist tries to push on with prelude_, _gives it up_, _and tries to
+follow Harris with accompaniment to Judge’s song out of_ “_Trial by
+Jury_,”
+“It’s all right. You’re doing it
+very well, indeed—go on.”",<pad> funny</s><pad><pad><pad><pad>
+101,three_men,tensor(1),"“Ah! you’d want to take a thing or two with _you_,” retorted “The Blue
+Posts,” “if you was a-going to cross the Atlantic in a small boat.”
+“They ain’t a-going to cross the Atlantic,” struck in Biggs’s boy;
+“they’re a-going to find Stanley.”",<pad> funny</s><pad><pad><pad><pad>
+102,three_men,tensor(1),"“Thank you so much,” murmured George, looking about him. “Where—where
+do you keep it?”
+“It’s always in the same place my boy,” was the stolid reply: “just
+behind you.”",<pad> unfunny</s>
+103,three_men,tensor(1),"“Weren’t you a little shaky by Southend Pier one day, and wanted to be
+thrown overboard?”
+“Southend Pier!”",<pad> funny</s><pad><pad><pad><pad>
+104,three_men,tensor(1),"“Why, here it is all the time,”
+“Where?”",<pad> unfunny</s>
+105,three_men,tensor(1),"“Oh!” exclaimed George, grasping the idea; “but we can’t drink the
+river, you know!”
+“No; but you can drink _some_ of it,” replied the old fellow. “It’s
+what _I’ve_ drunk for the last fifteen years.”",<pad> unfunny</s>
+106,three_men,tensor(1),"“Why, there’s a man in my bed,” said George’s father; “here’s his feet
+on my pillow.”
+“Well, it’s an extraordinary thing, Tom,” answered the other; “but I’m
+blest if there isn’t a man in my bed, too!”",<pad> funny</s><pad><pad><pad><pad>
+107,three_men,tensor(1),"“What’s that?” said Harris—“a frying-pan?”
+“No,” said George, with a strange, wild look glittering in his eyes;
+“they are all the rage this season; everybody has got them up the
+river. It’s a banjo.”",<pad> funny</s><pad><pad><pad><pad>
+108,three_men,tensor(1),"“I can’t,”
+“But you don’t try,”",<pad> unfunny</s>
+109,three_men,tensor(1),"“Go back, Emily, and see what it is they want,”
+“What do you want?” she says; “anything happened?”",<pad> unfunny</s>
+110,three_men,tensor(1),"“Southend Pier!”
+“Yes; going down to Yarmouth, last Friday three weeks.”",<pad> unfunny</s>
+111,three_men,tensor(1),"“Only four,” answered George. “It will be all right, if he’s awake.”
+“And if not?”",<pad> unfunny</s>
+112,three_men,tensor(1),"“Do you prefer the inside or the outside, J.?”
+“What time shall I wake you fellows?”",<pad> unfunny</s>
+113,three_men,tensor(1),"“Oh, yes;”
+“Very sorry, sir,” again repeated the landlord: “but we really haven’t
+got a bed vacant in the whole house. In fact, we are putting two, and
+even three gentlemen in one bed, as it is.”",<pad> unfunny</s>
+114,three_men,tensor(1),"“Don’t what?”
+“Don’t stop—go on—go on!”",<pad> unfunny</s>
+115,three_men,tensor(1),"“What can I get you, sir?”
+“Get me out of this,”",<pad> unfunny</s>
+116,three_men,tensor(1),"“Oh, all right, I’ll tell ’em. Are we doing it all right?”
+“Oh, yes, very nicely, indeed, only don’t stop.”",<pad> unfunny</s>
+117,three_men,tensor(1),"“I thought you wanted to get up at six?”
+“So I did,” I answered; “why didn’t you wake me?”",<pad> funny</s><pad><pad><pad><pad>
+118,three_men,tensor(1),"“Oak,” he explained. “All carved oak, right up to the ceiling, just the
+same as you saw on the staircase.”
+“But, great Cæsar! man,” expostulated my friend; “you don’t mean to say
+you have covered over carved oak with blue wall-paper?”",<pad> Unfunny</s>
+119,three_men,tensor(1),"“I say, Tom!”
+“Yes!”",<pad> unfunny</s>
+120,three_men,tensor(1),"“How about when it rained?”
+“weeps, he knows not why.”",<pad> unfunny</s>
+121,three_men,tensor(1),"“Oh, well, we can’t help it. We must rough it. You must give us a
+shake-down in the billiard-room.”
+“Very sorry, sir. Three gentlemen sleeping on the billiard-table
+already, and two in the coffee-room. Can’t possibly take you in
+to-night.”",<pad> unfunny</s>
+122,three_men,tensor(1),"“So am I,”
+“I say, Tom!”",<pad> unfunny</s>
+123,three_men,tensor(1),"“No,” you reply, “it’s all right; only go on, you know—don’t stop.”
+“Why not?”",<pad> unfunny</s>
+124,three_men,tensor(1),"“No,” I said, “I don’t. _You_ wouldn’t if _I_ did.”
+“Well then,” he said, “you want to see the tombs—graves—folks been
+buried, you know—coffins!”",<pad> unfunny</s>
+125,three_men,tensor(1),"“What do you want?” she says; “anything happened?”
+“No,” you reply, “it’s all right; only go on, you know—don’t stop.”",<pad> unfunny</s>
+126,three_men,tensor(1),"“Hi! stop a minute, will you?” he shouts
+cheerily. “I’ve dropped my hat over-board.”
+“Hi! Tom—Dick! can’t you hear?”",<pad> unfunny</s>
+127,three_men,tensor(1),"“Why, the Alhambra would be almost more
+lively,”
+“With a little supper at the --- {311} to follow,”",<pad> unfunny</s>
+128,three_men,tensor(1),"“No—six,”
+“Wake us at 6.30, George,”",<pad> unfunny</s>
+129,three_men,tensor(1),"“Very sorry, sir. Three gentlemen sleeping on the billiard-table
+already, and two in the coffee-room. Can’t possibly take you in
+to-night.”
+“Oh, yes,”",<pad> unfunny</s>
+130,three_men,tensor(1),"“Oh! was it you who caught it, then?”
+“Yes, sir,” replied the genial old fellow. “I caught him just below the
+lock—leastways, what was the lock then—one Friday afternoon; and the
+remarkable thing about it is that I caught him with a fly. I’d gone out
+pike fishing, bless you, never thinking of a trout, and when I saw that
+whopper on the end of my line, blest if it didn’t quite take me aback.
+Well, you see, he weighed twenty-six pound. Good-night, gentlemen,
+good-night.”",<pad> funny</s><pad><pad><pad><pad>
+131,three_men,tensor(1),"“Nobody’s likely to touch them. Had he smelt them?”
+“You think he would be upset,” she queried, “if I gave a man a
+sovereign to take them away and bury them?”",<pad> funny</s><pad><pad><pad><pad>
+132,three_men,tensor(1),"“Don’t go to sleep, old man,”
+“Not much fear of that while this stew’s on,”",<pad> unfunny</s>
+133,three_men,tensor(1),"“What’s the matter, Tom?”
+“Why, there’s a man in my bed,” said George’s father; “here’s his feet
+on my pillow.”",<pad> funny</s><pad><pad><pad><pad>
+134,three_men,tensor(1),"“Ah, no, then it isn’t the same,”
+“What do you mean?”",<pad> unfunny</s>
+135,three_men,tensor(1),"“Oh! didn’t you?”
+“It’s very dark. Why don’t you light the gas?”",<pad> unfunny</s>
+136,three_men,tensor(1),"“Not at all, thanks—not at all—very kind
+of you. Good morning.”
+“Good-morning.”",<pad> unfunny</s>
+137,three_men,tensor(1),"“Oh! why’s that?”
+“Because I don’t expect anybody would believe me if I did,”",<pad> unfunny</s>
+138,three_men,tensor(1),"“I’ll take my oath I put it down on that chair,”
+“I saw you do it myself, not a minute ago,”",<pad> unfunny</s>
+139,three_men,tensor(1),"“Work!” After beefsteak and porter, it says, “Sleep!” After
+a cup of tea (two spoonsful for each cup, and don’t let it stand
+more than three minutes), it says to the brain, “Now, rise, and show
+your strength. Be eloquent, and deep, and tender; see, with a clear
+eye, into Nature and into life; spread your white wings of quivering
+thought, and soar, a god-like spirit, over the whirling world beneath
+you, up through long lanes of flaming stars to the gates of eternity!”
+“Be dull and soulless, like a beast of the
+field—a brainless animal, with listless eye, unlit by any ray of fancy,
+or of hope, or fear, or love, or life.” And after brandy, taken in
+sufficient quantity, it says, “Now, come, fool, grin and tumble, that
+your fellow-men may laugh—drivel in folly, and splutter in senseless
+sounds, and show what a helpless ninny is poor man whose wit and will
+are drowned, like kittens, side by side, in half an inch of alcohol.”",<pad> funny</s><pad><pad><pad><pad>
+140,three_men,tensor(1),"“Come, come, my lad!” said our captain sharply, “don’t let us have any
+nonsense. You take your mother’s washing-tub home again, and bring us a
+boat.”
+“double sculling skiff”",<pad> Unfunny</s>
+141,three_men,tensor(1),"“No,”
+“Ah!” said the carrier, “then, of course, how should you? It was nearly
+five years ago that I caught that trout.”",<pad> funny</s><pad><pad><pad><pad>
+142,three_men,tensor(1),"“Yes. What’s the matter?”
+“Don’t stop,”",<pad> unfunny</s>
+143,three_men,tensor(1),"“Can I do anything for you?”
+“No—no, thanks.”",<pad> unfunny</s>
+144,three_men,tensor(1),"“Oh, Henry, then _where_ is auntie?”
+“Did they ever recover the old lady?”",<pad> unfunny</s>
+145,three_men,tensor(1),"“But it’s only gone three!”
+“Well, and how many did you want it to go?”",<pad> funny</s><pad><pad><pad><pad>
+146,three_men,tensor(1),"“Oh, I’ll soon show you,” he cried; “it’s rare fun! You lie down on
+your—I mean you lean over the bank, you know, and sloush the things
+about in the water.”
+“Oh, they’ll be all right,” said he light-heartedly; “tuck ’em up.”",<pad> funny</s><pad><pad><pad><pad>
+147,three_men,tensor(1),"“Well then,” he said, “you want to see the tombs—graves—folks been
+buried, you know—coffins!”
+“You are an untruther,” I replied, getting roused; “I do not want to
+see tombs—not your tombs. Why should I? We have graves of our own, our
+family has. Why my uncle Podger has a tomb in Kensal Green Cemetery,
+that is the pride of all that country-side; and my grandfather’s vault
+at Bow is capable of accommodating eight visitors, while my great-aunt
+Susan has a brick grave in Finchley Churchyard, with a headstone with
+a coffee-pot sort of thing in bas-relief upon it, and a six-inch best
+white stone coping all the way round, that cost pounds. When I want
+graves, it is to those places that I go and revel. I do not want other
+folk’s. When you yourself are buried, I will come and see yours. That
+is all I can do for you.”",<pad> unfunny</s>
+148,three_men,tensor(1),"“I tell you you’ve got it all wrong!”
+“Ah, the bally idiot!”",<pad> funny</s><pad><pad><pad><pad>
+149,three_men,tensor(1),"“What we want is rest,”
+“Rest and a complete change,” said George. “The overstrain upon our
+brains has produced a general depression throughout the system. Change
+of scene, and absence of the necessity for thought, will restore the
+mental equilibrium.”",<pad> unfunny</s>
+150,three_men,tensor(1),"“Well, then,” he said, “there’s the Manor House, just opposite. Have
+you tried that?”
+“Well, I don’t know what you’ll do, I’m sure,” said our informant;
+“because they are the only two inns in the place.”",<pad> unfunny</s>
+151,three_men,tensor(1),"“Well, do you know, I _thought_ I heard something!”
+“Pull your right—you, you idiot! back with your left. No, not _you_—the
+other one—leave the lines alone, can’t you—now, both together. NOT
+_that_ way. Oh, you—!”",<pad> funny</s><pad><pad><pad><pad>
+152,three_men,tensor(1),"“Oh!”
+“No,” she said; “I can’t see any signs of a lock.”",<pad> unfunny</s>
+153,three_men,tensor(1),"“Are you all right, sir?”
+“Right it is,”",<pad> unfunny</s>
+154,three_men,tensor(1),"“I’m afraid there’s a mistake somewhere. What are you
+singing?”
+“Why the Judge’s song out of Trial by Jury. Don’t
+you know it?”",<pad> funny</s><pad><pad><pad><pad>
+155,three_men,tensor(1),"“Oh, good evening,” said George; “we want three beds, please.”
+“Very sorry, sir,” said the landlord; “but I’m afraid we can’t manage
+it.”",<pad> unfunny</s>
+156,three_men,tensor(1),"“You said eighteen just now,”
+“No, I didn’t,” grunted Harris; “I said twelve. Think I can’t count?”",<pad> funny</s><pad><pad><pad><pad>
+157,three_men,tensor(1),"“Who is Mrs. Thomas?”
+“How should I know?” replied Harris. “She’s a lady that’s got a funny
+tomb, and I want to see it.”",<pad> funny</s><pad><pad><pad><pad>
+158,three_men,tensor(1),"“No other inns!”
+“None,”",<pad> unfunny</s>
+159,three_men,tensor(1),"“Good evening, gentlemen.”
+“Oh, good evening,” said George; “we want three beds, please.”",<pad> unfunny</s>
+160,three_men,tensor(1),"“Oh!
+we’d better get out of here while this billing and cooing is on. We’ll
+go down to Kent.”
+“Oh, drat this!” they would have said. “Here, let’s go away. I can’t
+stand any more of it. Let’s go to St. Albans—nice quiet place, St.
+Albans.”",<pad> unfunny</s>
+161,three_men,tensor(1),"“Harris had a glass of bitter in this house;” “Harris had
+two of Scotch cold here in the summer of ’88;” “Harris was chucked from
+here in December, 1886.”
+“Only house in South London
+that Harris never had a drink in!”",<pad> unfunny</s>
+162,three_men,tensor(1),"“It’s all very well for you fellows,” he says; “you like it, but _I_
+don’t. There’s nothing for me to do. Scenery is not in my line, and I
+don’t smoke. If I see a rat, you won’t stop; and if I go to sleep, you
+get fooling about with the boat, and slop me overboard. If you ask me,
+I call the whole thing bally foolishness.”
+“camping-out,”",<pad> unfunny</s>
+163,three_men,tensor(1),"“No, I didn’t,” grunted Harris; “I said twelve. Think I can’t count?”
+“What
+swans?”",<pad> unfunny</s>
+164,three_men,tensor(1),"“Why, we can’t steer, if you keep stopping. You must keep some way on
+the boat.”
+“Keep some what?”",<pad> funny</s><pad><pad><pad><pad>
+165,three_men,tensor(1),"“I suppose the truth of the matter is,” suggested George, descending to
+the commonplace and practicable, “that there has been an earthquake.”
+“I wish he
+hadn’t been carving that pie.”",<pad> unfunny</s>
+166,three_men,tensor(1),"“Fancy old George talking about work!” he laughed; “why, about
+half-an-hour of it would kill him. Have you ever seen George work?”
+“Well, I don’t see how _you_ can know much about it, one way or the
+other,” George retorted on Harris; “for I’m blest if you haven’t been
+asleep half the time. Have you ever seen Harris fully awake, except at
+meal-time?”",<pad> funny</s><pad><pad><pad><pad>
+167,three_men,tensor(1),"“Hulloa! what’s that for?”
+“What’s that for? Why—”",<pad> unfunny</s>
+168,three_men,tensor(1),"“What’s the time?” said the man,
+eyeing George up and down with evident suspicion; “why, if you listen
+you will hear it strike.”
+“But it’s only gone three!”",<pad> unfunny</s>
+169,three_men,tensor(1),"“Quite uncommon,”
+“Eighteen pounds six ounces,” said our friend, rising and taking down
+his coat. “Yes,” he continued, “it wur sixteen year ago, come the third
+o’ next month, that I landed him. I caught him just below the bridge
+with a minnow. They told me he wur in the river, and I said I’d have
+him, and so I did. You don’t see many fish that size about here now,
+I’m thinking. Good-night, gentlemen, good-night.”",<pad> unfunny</s>
+170,three_men,tensor(1),"“No,” she said; “I can’t see any signs of a lock.”
+“You—you are sure you know a lock, when you do see one?”",<pad> unfunny</s>
+171,three_men,tensor(1),"“Nobody will ever know, on this line,” we said, “what you are, or
+where you’re going. You know the way, you slip off quietly and go to
+Kingston.”
+“Well, I don’t know, gents,” replied the noble fellow, “but I suppose
+_some_ train’s got to go to Kingston; and I’ll do it. Gimme the
+half-crown.”",<pad> funny</s><pad><pad><pad><pad>
+172,three_men,tensor(1),"“Don’t you want to see the tombs?”
+“No,” I answered, “I don’t. I want to stop here, leaning up against
+this gritty old wall. Go away, and don’t disturb me. I am chock full
+of beautiful and noble thoughts, and I want to stop like it, because
+it feels nice and good. Don’t you come fooling about, making me mad,
+chivying away all my better feelings with this silly tombstone nonsense
+of yours. Go away, and get somebody to bury you cheap, and I’ll pay
+half the expense.”",<pad> funny</s><pad><pad><pad><pad>
+173,three_men,tensor(1),"“Oh, no—not at
+all—certainly—don’t you trouble. I—I am afraid I’ve made a mistake. I
+thought I knew you. Sorry I disturbed you.”
+“Not at all—quite a pleasure. Sure you don’t want anything,
+now?”",<pad> unfunny</s>
+174,three_men,tensor(1),"“Go away, you miserable old man,”
+“I’ve come as soon as I could, sur,” he replied. “My missis never see
+you till just this minute. You follow me, sur.”",<pad> unfunny</s>
+175,three_men,tensor(1),"“Certainly,” replied the old gentleman; “take as much as you want, and
+leave the rest.”
+“Thank you so much,” murmured George, looking about him. “Where—where
+do you keep it?”",<pad> unfunny</s>
+176,three_men,tensor(1),"“Keep some what?”
+“Some way—you must keep the boat moving.”",<pad> unfunny</s>
+177,three_men,tensor(1),"“Don’t stop,”
+“Don’t what?”",<pad> funny</s><pad><pad><pad><pad>
+178,three_men,tensor(1),"“What’s that?”
+“What’s what?”",<pad> unfunny</s>
+179,three_men,tensor(1),"“Oh, no, it’s simple enough. You want to keep on steady at it, that’s
+all.”
+“I see. Give me out my red shawl, it’s under the cushion.”",<pad> unfunny</s>
+180,three_men,tensor(1),"“Why, who told you I caught that trout!”
+“Well, it’s a most remarkable thing—most remarkable,” answered the
+stolid stranger, laughing; “because, as a matter of fact, you are quite
+right. I did catch it. But fancy your guessing it like that. Dear me,
+it’s really a most remarkable thing.”",<pad> funny</s><pad><pad><pad><pad>
+181,three_men,tensor(1),"“Joe!”
+“What’s the matter, Tom?”",<pad> unfunny</s>
+182,three_men,tensor(1),"“Oh, well, never mind,” said George, “two will do. Two of us can sleep
+in one bed, can’t we?”
+“Oh, yes;”",<pad> unfunny</s>
+183,three_men,tensor(1),"“Why not?”
+“Why, we can’t steer, if you keep stopping. You must keep some way on
+the boat.”",<pad> unfunny</s>
+184,three_men,tensor(1),"“Ah!” said the old gentleman, following the direction of my gaze, “fine
+fellow that, ain’t he?”
+“Quite uncommon,”",<pad> unfunny</s>
+185,three_men,tensor(1),"“I’ve got a couple of skulls down in the crypt,” he said; “come and see
+those. Oh, do come and see the skulls! You are a young man out for a
+holiday, and you want to enjoy yourself. Come and see the skulls!”
+“Oh, come and see the skulls; come back and see the skulls!”",<pad> funny</s><pad><pad><pad><pad>
+186,three_men,tensor(1),"“I’ve come as soon as I could, sur,” he replied. “My missis never see
+you till just this minute. You follow me, sur.”
+“Go away,” I repeated; “leave me before I get over the wall, and slay
+you.”",<pad> unfunny</s>
+187,three_men,tensor(1),"“Do you mind keeping them for him? Let me send them round to you.”
+“Madam,” I replied, “for myself I like the smell of cheese, and the
+journey the other day with them from Liverpool I shall ever look back
+upon as a happy ending to a pleasant holiday. But, in this world, we
+must consider others. The lady under whose roof I have the honour of
+residing is a widow, and, for all I know, possibly an orphan too. She
+has a strong, I may say an eloquent, objection to being what she terms
+‘put upon.’ The presence of your husband’s cheeses in her house she
+would, I instinctively feel, regard as a ‘put upon’; and it shall never
+be said that I put upon the widow and the orphan.”",<pad> unfunny</s>
+188,three_men,tensor(1),"“Well, hang it all, I’ve done more than old J., anyhow,”
+“Well, you couldn’t very well have done less,”",<pad> unfunny</s>
+189,three_men,tensor(1),"“Thirty-two,”
+“You said eighteen just now,”",<pad> unfunny</s>
+190,three_men,tensor(1),"“Oh, it’s you, is it?”
+“Yes,” you answer, rubbing your eyes; “what’s happened?”",<pad> unfunny</s>
+191,three_men,tensor(1),"“Going to clear up, d’ye think?”
+“Well, no, sir; I’m afraid it’s settled down for the day,”",<pad> unfunny</s>
+192,three_men,tensor(1),"“Oh, no; not now, sir. It did used to knock me over a bit at first,
+but, lor love you! me and the missus we listens to ’em all day now.
+It’s what you’re used to, you know. It’s what you’re used to.”
+“When I have caught forty fish,” said he, “then I will tell people that
+I have caught fifty, and so on. But I will not lie any more than that,
+because it is sinful to lie.”",<pad> unfunny</s>
+193,three_men,tensor(1),"“Very well, then,” said my friend’s wife, rising, “all I have to say
+is, that I shall take the children and go to an hotel until those
+cheeses are eaten. I decline to live any longer in the same house with
+them.”
+“What smell?”",<pad> unfunny</s>
+194,three_men,tensor(1),"“You think he would be upset,” she queried, “if I gave a man a
+sovereign to take them away and bury them?”
+“Do you mind keeping them for him? Let me send them round to you.”",<pad> unfunny</s>
+195,three_men,tensor(1),"“I’m afraid it’s a very old thing, you know. I
+expect you all know it, you know. But it’s the only thing I know.
+It’s the Judge’s song out of _Pinafore_—no, I don’t mean _Pinafore_—I
+mean—you know what I mean—the other thing, you know. You must all join
+in the chorus, you know.”
+“_Trial by Jury_” _by
+nervous Pianist_. _Moment arrives for Harris to join in_. _Harris takes
+no notice of it_. _Nervous pianist commences prelude over again, and
+Harris_, _commencing singing at the same time_, _dashes off the first
+two lines of the First Lord’s song out of_ “_Pinafore_.” _Nervous
+pianist tries to push on with prelude_, _gives it up_, _and tries to
+follow Harris with accompaniment to Judge’s song out of_ “_Trial by
+Jury_,”",<pad> funny</s><pad><pad><pad><pad>
+196,three_men,tensor(1),"“I don’t see it,”
+“Why, bless us, where’s your eyes?” was the man’s comment, as he
+twisted George round and pointed up and down the stream. “There’s
+enough of it to see, ain’t there?”",<pad> unfunny</s>
+197,three_men,tensor(1),"“Ar’n’t you—you—going to get it out?”
+“It isn’t my shirt—it’s _yours_!”",<pad> unfunny</s>
+198,three_men,tensor(1),"“Nine o’clock,” she replied, through the keyhole. “I thought you was
+a-oversleeping yourselves.”
+“I thought you wanted to get up at six?”",<pad> funny</s><pad><pad><pad><pad>
+199,three_men,tensor(1),"“Well, I don’t see how _you_ can know much about it, one way or the
+other,” George retorted on Harris; “for I’m blest if you haven’t been
+asleep half the time. Have you ever seen Harris fully awake, except at
+meal-time?”
+“Well, hang it all, I’ve done more than old J., anyhow,”",<pad> unfunny</s>
+200,three_men,tensor(1),"“They ain’t a-going to starve, are they?”
+“Ah! you’d want to take a thing or two with _you_,” retorted “The Blue
+Posts,” “if you was a-going to cross the Atlantic in a small boat.”",<pad> unfunny</s>
+201,three_men,tensor(1),"“It’s rather a rough day,” said the man to us, as we put off: “better
+take in a reef and luff sharp when you get round the bend.”
+“Good-morning,” wondering to ourselves how you “luffed,” and where we
+were to get a “reef”",<pad> unfunny</s>
+202,three_men,tensor(1),"“Don’t pull it; you’ve got it all wrong, you stupid ass!”
+“No, I haven’t,” he yells back; “let go your side!”",<pad> funny</s><pad><pad><pad><pad>
+203,three_men,tensor(1),"“Oh, yes, very nicely, indeed, only don’t stop.”
+“It doesn’t seem difficult at all. I thought it was so hard.”",<pad> unfunny</s>
+204,three_men,tensor(1),"“Why the Judge’s song out of Trial by Jury. Don’t
+you know it?”
+“No, you’re not,
+you chuckle-head, you’re singing the Admiral’s song from _Pinafore_.”",<pad> funny</s><pad><pad><pad><pad>
+205,three_men,tensor(1),"“Get up, you fat-headed chunk!” roared Harris. “It’s quarter to ten.”
+“What!” he shrieked, jumping out of bed into the bath; “Who the thunder
+put this thing here?”",<pad> funny</s><pad><pad><pad><pad>
+206,three_men,tensor(1),"“It’s only two days more,” said Harris, “and we are young and strong.
+We may get over it all right, after all.”
+“Another jolly evening!”",<pad> unfunny</s>
+207,three_men,tensor(1),"“Hark! do you not hear? Is it but the mermaids singing deep below the
+waving waters; or sad spirits, chanting dirges for white corpses, held
+by seaweed?”
+“I know what it is, old man; you’ve got a chill. Now, you come along
+with me. I know a place round the corner here, where you can get a drop
+of the finest Scotch whisky you ever tasted—put you right in less than
+no time.”",<pad> unfunny</s>
+208,three_men,tensor(1),"“Hi! Tom—Dick! can’t you hear?”
+“Hi! Confound _you_, you dunder-headed idiots! Hi! stop! Oh you—!”",<pad> funny</s><pad><pad><pad><pad>
+209,three_men,tensor(1),"“Speak!” he cried, “and tell us whether you are alive or dead—and where
+is the rest of you?”
+“Oh, don’t be a stupid ass!” said Harris’s head. “I believe you did it
+on purpose.”",<pad> funny</s><pad><pad><pad><pad>
+210,three_men,tensor(1),"“No,” I replied, beginning to grow thoughtful too, “I don’t. How many
+are there?”
+“Only four,” answered George. “It will be all right, if he’s awake.”",<pad> unfunny</s>
+211,three_men,tensor(1),"“Wasermarrer?”
+“Get up, you fat-headed chunk!” roared Harris. “It’s quarter to ten.”",<pad> funny</s><pad><pad><pad><pad>
+212,three_men,tensor(1),"“What’s what?”
+“Why that!”",<pad> unfunny</s>
+213,three_men,tensor(1),"“What do you mean?”
+“Why it’s so curious,” murmured Harris, “but precisely that very same
+thing happened to _my_ father once at a country inn. I’ve often heard
+him tell the tale. I thought it might have been the same inn.”",<pad> unfunny</s>
+214,three_men,tensor(1),"“I beg your pardon, I’m sure;”
+“Oh, it’s of no consequence,”",<pad> unfunny</s>
+215,three_men,tensor(1),"“Well, I’m going to chuck him out,”
+“So am I,”",<pad> unfunny</s>
+216,three_men,tensor(1),"“Two Lovely
+Black Eyes.”
+“Two Lovely Black Eyes”",<pad> unfunny</s>
+217,three_men,tensor(1),"“Two lovely black eyes;
+          Oh! what a surprise!
+    Only for telling a man he was wrong,
+          Two—”
+“two”",<pad> unfunny</s>
+218,three_men,tensor(1),"“There you are,” he would say, stepping heavily off the chair on to
+the charwoman’s corns, and surveying the mess he had made with evident
+pride. “Why, some people would have had a man in to do a little thing
+like that!”
+“No; _you_ get the paper, and the pencil, and the catalogue, and George
+write down, and I’ll do the work.”",<pad> unfunny</s>
+219,three_men,tensor(1),"“How could I wake you, when you didn’t wake me?” he retorted. “Now
+we shan’t get on the water till after twelve. I wonder you take the
+trouble to get up at all.”
+“Um,” I replied, “lucky for you that I do. If I hadn’t woke you, you’d
+have lain there for the whole fortnight.”",<pad> funny</s><pad><pad><pad><pad>
+220,three_men,tensor(1),"“Well, to tell you the truth, my man’s chucked _me_ out.”
+“So’s mine! I say, I don’t think much of this inn, do you?”",<pad> unfunny</s>
+221,three_men,tensor(1),"“Well, no, sir; I’m afraid it’s settled down for the day,”
+“Stupid old fool!” we mutter, “what’s _he_ know about it?”",<pad> funny</s><pad><pad><pad><pad>
+222,three_men,tensor(1),"“They’d hardly have taken the pie too,”
+“I suppose the truth of the matter is,” suggested George, descending to
+the commonplace and practicable, “that there has been an earthquake.”",<pad> unfunny</s>
+223,three_men,tensor(1),"“Here! what are you up to?”
+“What are _you_ up to?” he retorts; “leggo, can’t you?”",<pad> unfunny</s>
+224,three_men,tensor(1),"“Did what?”
+“Why, put me to sit here—darn silly trick! Here, catch hold of the pie.”",<pad> funny</s><pad><pad><pad><pad>
+225,three_men,tensor(1),"“Now, silence, please, everybody” says the hostess, turning round; “Mr.
+Harris is going to sing a comic song!”
+“Oh, how jolly!”",<pad> funny</s><pad><pad><pad><pad>
+226,three_men,tensor(1),"“Why, George, bless me, if here isn’t a steam launch!”
+“Well, do you know, I _thought_ I heard something!”",<pad> unfunny</s>
+227,three_men,tensor(1),"“Begin with breakfast.” (George is so practical.) “Now for breakfast
+we shall want a frying-pan”—(Harris said it was indigestible; but we
+merely urged him not to be an ass, and George went on)—“a tea-pot and a
+kettle, and a methylated spirit stove.”
+“No oil,”",<pad> funny</s><pad><pad><pad><pad>
+228,three_men,tensor(1),"“So’s mine! I say, I don’t think much of this inn, do you?”
+“What was the name of that inn?”",<pad> unfunny</s>
+229,three_men,tensor(1),"“Nine o’ what?”
+“Nine o’clock,” she replied, through the keyhole. “I thought you was
+a-oversleeping yourselves.”",<pad> funny</s><pad><pad><pad><pad>

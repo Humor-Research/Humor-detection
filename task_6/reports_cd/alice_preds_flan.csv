@@ -1,0 +1,2526 @@
+,dataset,label,text,predicted
+0,alice,tensor(1),"“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon;
+“but I must be on the look-out for serpents night and day! Why, I
+haven’t had a wink of sleep these three weeks!”
+“I’m very sorry you’ve been annoyed,”",<pad> unfunny</s>
+1,alice,tensor(1),"“I can’t go no lower,” said the Hatter: “I’m on the floor, as it is.”
+“Then you may _sit_ down,”",<pad> unfunny</s>
+2,alice,tensor(1),"“Hand it over here,”
+“We beg your acceptance of this elegant
+thimble;”",<pad> unfunny</s>
+3,alice,tensor(1),"“So he did, so he did,”
+“And how many hours a day did you do lessons?”",<pad> unfunny</s>
+4,alice,tensor(1),"“There might be some sense in your knocking,” the Footman went on
+without attending to her, “if we had the door between us. For instance,
+if you were _inside_, you might knock, and I could let you out, you
+know.” He was looking up into the sky all the time he was speaking, and
+this Alice thought decidedly uncivil. “But perhaps he can’t help it,”
+she said to herself; “his eyes are so _very_ nearly at the top of his
+head. But at any rate he might answer questions.—How am I to get in?”
+“I shall sit here,” the Footman remarked, “till tomorrow—”",<pad> unfunny</s>
+5,alice,tensor(1),"“I _have_ tasted eggs, certainly,” said Alice, who was a very truthful
+child; “but little girls eat eggs quite as much as serpents do, you
+know.”
+“I don’t believe it,” said the Pigeon; “but if they do, why then
+they’re a kind of serpent, that’s all I can say.”",<pad> funny</s><pad><pad><pad><pad>
+6,alice,tensor(1),"“Now, I give you fair warning,” shouted the Queen, stamping on the
+ground as she spoke; “either you or your head must be off, and that in
+about half no time! Take your choice!”
+“Let’s go on with the game,”",<pad> unfunny</s>
+7,alice,tensor(1),"“Dear, dear! How
+queer everything is to-day! And yesterday things went on just as usual.
+I wonder if I’ve been changed in the night? Let me think: was I the
+same when I got up this morning? I almost think I can remember feeling
+a little different. But if I’m not the same, the next question is, Who
+in the world am I? Ah, _that’s_ the great puzzle!”
+“I’m sure I’m not Ada,” she said, “for her hair goes in such long
+ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t
+be Mabel, for I know all sorts of things, and she, oh! she knows such a
+very little! Besides, _she’s_ she, and _I’m_ I, and—oh dear, how
+puzzling it all is! I’ll try if I know all the things I used to know.
+Let me see: four times five is twelve, and four times six is thirteen,
+and four times seven is—oh dear! I shall never get to twenty at that
+rate! However, the Multiplication Table doesn’t signify: let’s try
+Geography. London is the capital of Paris, and Paris is the capital of
+Rome, and Rome—no, _that’s_ all wrong, I’m certain! I must have been
+changed for Mabel! I’ll try and say ‘_How doth the little_—’”",<pad> funny</s><pad><pad><pad><pad>
+8,alice,tensor(1),"“What a pity it wouldn’t stay!” sighed the Lory, as soon as it was
+quite out of sight; and an old Crab took the opportunity of saying to
+her daughter “Ah, my dear! Let this be a lesson to you never to lose
+_your_ temper!” “Hold your tongue, Ma!” said the young Crab, a little
+snappishly. “You’re enough to try the patience of an oyster!”
+“I wish I had our Dinah here, I know I do!” said Alice aloud,
+addressing nobody in particular. “She’d soon fetch it back!”",<pad> funny</s><pad><pad><pad><pad>
+9,alice,tensor(1),"“A likely story indeed!” said the Pigeon in a tone of the deepest
+contempt. “I’ve seen a good many little girls in my time, but never
+_one_ with such a neck as that! No, no! You’re a serpent; and there’s
+no use denying it. I suppose you’ll be telling me next that you never
+tasted an egg!”
+“I _have_ tasted eggs, certainly,” said Alice, who was a very truthful
+child; “but little girls eat eggs quite as much as serpents do, you
+know.”",<pad> funny</s><pad><pad><pad><pad>
+10,alice,tensor(1),"“You mean you can’t take _less_,” said the Hatter: “it’s very easy to
+take _more_ than nothing.”
+“Nobody asked _your_ opinion,”",<pad> unfunny</s>
+11,alice,tensor(1),"“That’s nothing to what I could say if I chose,”
+“Pray don’t trouble yourself to say it any longer than that,”",<pad> unfunny</s>
+12,alice,tensor(1),"“I think you might do something better with the
+time,” she said, “than waste it in asking riddles that have no
+answers.”
+“If you knew Time as well as I do,” said the Hatter, “you wouldn’t talk
+about wasting _it_. It’s _him_.”",<pad> funny</s><pad><pad><pad><pad>
+13,alice,tensor(1),"“Stuff and nonsense!” said Alice loudly. “The idea of having the
+sentence first!”
+“Hold your tongue!”",<pad> funny</s><pad><pad><pad><pad>
+14,alice,tensor(1),"“That’s the reason they’re called lessons,” the Gryphon remarked:
+“because they lessen from day to day.”
+“Then the eleventh day must have been
+a holiday?”",<pad> funny</s><pad><pad><pad><pad>
+15,alice,tensor(1),"“What for?”
+“That’s none of _your_ business, Two!”",<pad> unfunny</s>
+16,alice,tensor(1),"“If you’re going to turn into a pig, my dear,”
+said Alice, seriously, “I’ll have nothing more to do with you. Mind
+now!”
+“Now, what am I to do
+with this creature when I get it home?”",<pad> unfunny</s>
+17,alice,tensor(1),"“It must have been that,” said the King, “unless it was written to
+nobody, which isn’t usual, you know.”
+“Who is it directed to?”",<pad> unfunny</s>
+18,alice,tensor(1),"“I don’t think they play at all fairly,” Alice began, in rather a
+complaining tone, “and they all quarrel so dreadfully one can’t hear
+oneself speak—and they don’t seem to have any rules in particular; at
+least, if there are, nobody attends to them—and you’ve no idea how
+confusing it is all the things being alive; for instance, there’s the
+arch I’ve got to go through next walking about at the other end of the
+ground—and I should have croqueted the Queen’s hedgehog just now, only
+it ran away when it saw mine coming!”
+“How do you like the Queen?”",<pad> unfunny</s>
+19,alice,tensor(1),"“Would you tell me,” said Alice, a little timidly, “why you are
+painting those roses?”
+“Why the fact is, you see, Miss, this here ought to have been a
+_red_ rose-tree, and we put a white one in by mistake; and if the Queen
+was to find it out, we should all have our heads cut off, you know. So
+you see, Miss, we’re doing our best, afore she comes, to—” At this
+moment Five, who had been anxiously looking across the garden, called
+out “The Queen! The Queen!”",<pad> funny</s><pad><pad><pad><pad>
+20,alice,tensor(1),"“Take some more tea,”
+“I’ve had nothing yet,” Alice replied in an offended tone, “so I can’t
+take more.”",<pad> unfunny</s>
+21,alice,tensor(1),"“Nobody asked _your_ opinion,”
+“Who’s making personal remarks now?”",<pad> unfunny</s>
+22,alice,tensor(1),"“Of course not,” Alice replied very readily: “but that’s because it
+stays the same year for such a long time together.”
+“Which is just the case with _mine_,”",<pad> unfunny</s>
+23,alice,tensor(1),"“Can’t remember _what_ things?”
+“Well, I’ve tried to say “How doth the little busy bee,” but it all
+came different!”",<pad> funny</s><pad><pad><pad><pad>
+24,alice,tensor(1),"“I don’t know what you mean,”
+“Of course you don’t!” the Hatter said, tossing his head
+contemptuously. “I dare say you never even spoke to Time!”",<pad> funny</s><pad><pad><pad><pad>
+25,alice,tensor(1),"“Come, let’s try the first figure!” said the Mock Turtle to the
+Gryphon. “We can do without lobsters, you know. Which shall sing?”
+“Oh, _you_ sing,” said the Gryphon. “I’ve forgotten the words.”",<pad> funny</s><pad><pad><pad><pad>
+26,alice,tensor(1),"“It _began_ with the tea,”
+“Of course twinkling begins with a T!” said the King sharply. “Do you
+take me for a dunce? Go on!”",<pad> funny</s><pad><pad><pad><pad>
+27,alice,tensor(1),"“I
+think, you ought to tell me who _you_ are, first.”
+“Why?”",<pad> unfunny</s>
+28,alice,tensor(1),"“You ought to have finished,” said the King. “When did you begin?”
+“Fourteenth of March, I _think_ it
+was,”",<pad> unfunny</s>
+29,alice,tensor(1),"“I haven’t opened it yet,” said the White Rabbit, “but it seems to be a
+letter, written by the prisoner to—to somebody.”
+“It must have been that,” said the King, “unless it was written to
+nobody, which isn’t usual, you know.”",<pad> unfunny</s>
+30,alice,tensor(1),"“Bring me the list of the singers in the last concert!”
+“Give your evidence,” the King repeated angrily, “or I’ll have you
+executed, whether you’re nervous or not.”",<pad> unfunny</s>
+31,alice,tensor(1),"“This is Bill,”
+“There goes Bill!”
+then the Rabbit’s voice along—“Catch him, you by the hedge!” then
+silence, and then another confusion of voices—“Hold up his head—Brandy
+now—Don’t choke him—How was it, old fellow? What happened to you? Tell
+us all about it!”",<pad> unfunny</s>
+32,alice,tensor(1),"“Well, perhaps you haven’t found it so yet,” said Alice; “but when you
+have to turn into a chrysalis—you will some day, you know—and then
+after that into a butterfly, I should think you’ll feel it a little
+queer, won’t you?”
+“Not a bit,”",<pad> unfunny</s>
+33,alice,tensor(1),"“_Un_important, of course, I meant,”
+“important—unimportant—unimportant—important—”",<pad> unfunny</s>
+34,alice,tensor(1),"“Then you keep moving round, I suppose?”
+“Exactly so,” said the Hatter: “as the things get used up.”",<pad> funny</s><pad><pad><pad><pad>
+35,alice,tensor(1),"“Consider your verdict,”
+“Not yet, not yet!” the Rabbit hastily interrupted. “There’s a great
+deal to come before that!”",<pad> unfunny</s>
+36,alice,tensor(1),"“It wasn’t very civil of you to sit down without being invited,”
+“I didn’t know it was _your_ table,” said Alice; “it’s laid for a great
+many more than three.”",<pad> unfunny</s>
+37,alice,tensor(1),"“_It does the boots and shoes_,”
+“Does the boots and shoes!”",<pad> funny</s><pad><pad><pad><pad>
+38,alice,tensor(1),"“Tell us a story!”
+“Yes, please do!”",<pad> unfunny</s>
+39,alice,tensor(1),"“Pat! Pat! Where are you?” And
+then a voice she had never heard before, “Sure then I’m here! Digging
+for apples, yer honour!”
+“Digging for apples, indeed!” said the Rabbit angrily. “Here! Come and
+help me out of _this!_”",<pad> unfunny</s>
+40,alice,tensor(1),"“How fond she is of finding morals in things!”
+“I dare say you’re wondering why I don’t put my arm round your waist,”
+the Duchess said after a pause: “the reason is, that I’m doubtful about
+the temper of your flamingo. Shall I try the experiment?”",<pad> funny</s><pad><pad><pad><pad>
+41,alice,tensor(1),"“Cheshire Puss,” she began, rather timidly, as she did not at all know
+whether it would like the name: however, it only grinned a little
+wider. “Come, it’s pleased so far,” thought Alice, and she went on.
+“Would you tell me, please, which way I ought to go from here?”
+“That depends a good deal on where you want to get to,”",<pad> funny</s><pad><pad><pad><pad>
+42,alice,tensor(1),"“With extras?”
+“Yes,” said Alice, “we learned French and music.”",<pad> unfunny</s>
+43,alice,tensor(1),"“—you advance twice—”
+“Each with a lobster as a partner!”",<pad> funny</s><pad><pad><pad><pad>
+44,alice,tensor(1),"“Very much indeed,”
+“Come, let’s try the first figure!” said the Mock Turtle to the
+Gryphon. “We can do without lobsters, you know. Which shall sing?”",<pad> unfunny</s>
+45,alice,tensor(1),"“Well, there was Mystery,” the Mock Turtle replied, counting off the
+subjects on his flappers, “—Mystery, ancient and modern, with
+Seaography: then Drawling—the Drawling-master was an old conger-eel,
+that used to come once a week: _he_ taught us Drawling, Stretching, and
+Fainting in Coils.”
+“What was _that_ like?”",<pad> unfunny</s>
+46,alice,tensor(1),"“I beg pardon, your
+Majesty,” he began, “for bringing these in: but I hadn’t quite finished
+my tea when I was sent for.”
+“You ought to have finished,” said the King. “When did you begin?”",<pad> funny</s><pad><pad><pad><pad>
+47,alice,tensor(1),"“Oh, you can’t help that,” said the Cat: “we’re all mad here. I’m mad.
+You’re mad.”
+“How do you know I’m mad?”",<pad> funny</s><pad><pad><pad><pad>
+48,alice,tensor(1),"“I’m very sorry you’ve been annoyed,”
+“And just as I’d taken the highest tree in the wood,” continued the
+Pigeon, raising its voice to a shriek, “and just as I was thinking I
+should be free of them at last, they must needs come wriggling down
+from the sky! Ugh, Serpent!”",<pad> unfunny</s>
+49,alice,tensor(1),"“The game’s going on rather better now,”
+“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,
+’tis love, that makes the world go round!’”",<pad> unfunny</s>
+50,alice,tensor(1),"“Sixteenth,”
+“Write that down,”",<pad> unfunny</s>
+51,alice,tensor(1),"“Well, if I must, I must,” the King said, with a melancholy air, and,
+after folding his arms and frowning at the cook till his eyes were
+nearly out of sight, he said in a deep voice, “What are tarts made of?”
+“Pepper, mostly,”",<pad> unfunny</s>
+52,alice,tensor(1),"“Hush! Hush!” said the Rabbit in a low, hurried tone. He looked
+anxiously over his shoulder as he spoke, and then raised himself upon
+tiptoe, put his mouth close to her ear, and whispered “She’s under
+sentence of execution.”
+“What for?”",<pad> unfunny</s>
+53,alice,tensor(1),"“I’m sure those are not the right words,” said poor Alice, and her eyes
+filled with tears again as she went on, “I must be Mabel after all, and
+I shall have to go and live in that poky little house, and have next to
+no toys to play with, and oh! ever so many lessons to learn! No, I’ve
+made up my mind about it; if I’m Mabel, I’ll stay down here! It’ll be
+no use their putting their heads down and saying ‘Come up again, dear!’
+I shall only look up and say ‘Who am I then? Tell me that first, and
+then, if I like being that person, I’ll come up: if not, I’ll stay down
+here till I’m somebody else’—but, oh dear!” cried Alice, with a sudden
+burst of tears, “I do wish they _would_ put their heads down! I am so
+_very_ tired of being all alone here!”
+“How _can_ I have done that?” she thought. “I must be
+growing small again.”",<pad> unfunny</s>
+54,alice,tensor(1),"“I keep them to sell,” the Hatter added as an explanation; “I’ve none
+of my own. I’m a hatter.”
+“Give your evidence,” said the King; “and don’t be nervous, or I’ll
+have you executed on the spot.”",<pad> unfunny</s>
+55,alice,tensor(1),"“_You are old, Father William_,” to the
+Caterpillar, and the words all coming different, and then the Mock
+Turtle drew a long breath, and said “That’s very curious.”
+“It’s all about as curious as it can be,”",<pad> unfunny</s>
+56,alice,tensor(1),"“Fifteenth,”
+“Sixteenth,”",<pad> unfunny</s>
+57,alice,tensor(1),"“Have some wine,”
+“I don’t see any wine,”",<pad> funny</s><pad><pad><pad><pad>
+58,alice,tensor(1),"“important,” and some “unimportant.”
+Alice could see this, as she was near enough to look over their slates;
+“but it doesn’t matter a bit,”
+“Silence!” and read out from his book, “Rule
+Forty-two. _All persons more than a mile high to leave the court_.”",<pad> funny</s><pad><pad><pad><pad>
+59,alice,tensor(1),"“That I can’t remember,”
+“You _must_ remember,” remarked the King, “or I’ll have you executed.”",<pad> funny</s><pad><pad><pad><pad>
+60,alice,tensor(1),"“Come, that finished the guinea-pigs!” thought Alice. “Now we shall get
+on better.”
+“I’d rather finish my tea,”",<pad> unfunny</s>
+61,alice,tensor(1),"“Please, then,” said Alice, “how am I to get in?”
+“There might be some sense in your knocking,” the Footman went on
+without attending to her, “if we had the door between us. For instance,
+if you were _inside_, you might knock, and I could let you out, you
+know.” He was looking up into the sky all the time he was speaking, and
+this Alice thought decidedly uncivil. “But perhaps he can’t help it,”
+she said to herself; “his eyes are so _very_ nearly at the top of his
+head. But at any rate he might answer questions.—How am I to get in?”",<pad> unfunny</s>
+62,alice,tensor(1),"“What _is_ the fun?”
+“Why, _she_,” said the Gryphon. “It’s all her fancy, that: they never
+executes nobody, you know. Come on!”",<pad> unfunny</s>
+63,alice,tensor(1),"“Off with her head!”
+“Who cares for you?” said Alice, (she had grown to her full size by
+this time.) “You’re nothing but a pack of cards!”",<pad> funny</s><pad><pad><pad><pad>
+64,alice,tensor(1),"“Your Majesty must cross-examine _this_ witness.”
+“Well, if I must, I must,” the King said, with a melancholy air, and,
+after folding his arms and frowning at the cook till his eyes were
+nearly out of sight, he said in a deep voice, “What are tarts made of?”",<pad> funny</s><pad><pad><pad><pad>
+65,alice,tensor(1),"“There’s no such thing!” Alice was beginning very angrily, but the
+Hatter and the March Hare went “Sh! sh!” and the Dormouse sulkily
+remarked, “If you can’t be civil, you’d better finish the story for
+yourself.”
+“No, please go on!” Alice said very humbly; “I won’t interrupt again. I
+dare say there may be _one_.”",<pad> unfunny</s>
+66,alice,tensor(1),"“Oh, you foolish Alice!” she answered herself. “How can you learn
+lessons in here? Why, there’s hardly room for _you_, and no room at all
+for any lesson-books!”
+“Mary Ann! Mary Ann!” said the voice. “Fetch me my gloves this moment!”",<pad> unfunny</s>
+67,alice,tensor(1),"“Go on with the next verse,” the Gryphon repeated impatiently: “it
+begins ‘_I passed by his garden_.’”
+“I passed by his garden, and marked, with one eye,
+How the Owl and the Panther were sharing a pie—”",<pad> unfunny</s>
+68,alice,tensor(1),"“Come, we shall have some fun now!” thought Alice. “I’m glad they’ve
+begun asking riddles.—I believe I can guess that,”
+“Do you mean that you think you can find out the answer to it?”",<pad> funny</s><pad><pad><pad><pad>
+69,alice,tensor(1),"“There isn’t any,”
+“Then it wasn’t very civil of you to offer it,”",<pad> funny</s><pad><pad><pad><pad>
+70,alice,tensor(1),"“But she must have a prize herself, you know,”
+“Of course,” the Dodo replied very gravely. “What else have you got in
+your pocket?”",<pad> unfunny</s>
+71,alice,tensor(1),"“Turn a somersault in the sea!”
+“Change lobsters again!”",<pad> funny</s><pad><pad><pad><pad>
+72,alice,tensor(1),"“Then it wasn’t very civil of you to offer it,”
+“It wasn’t very civil of you to sit down without being invited,”",<pad> unfunny</s>
+73,alice,tensor(1),"“Don’t you mean ‘purpose’?”
+“I mean what I say,” the Mock Turtle replied in an offended tone. And
+the Gryphon added “Come, let’s hear some of _your_ adventures.”",<pad> unfunny</s>
+74,alice,tensor(1),"“One side will make you grow taller, and the other side will make you
+grow shorter.”
+“One side of _what?_ The other side of _what?_”",<pad> funny</s><pad><pad><pad><pad>
+75,alice,tensor(1),"“Soles and eels, of course,” the Gryphon replied rather impatiently:
+“any shrimp could have told you that.”
+“If I’d been the whiting,” said Alice, whose thoughts were still
+running on the song, “I’d have said to the porpoise, ‘Keep back,
+please: we don’t want _you_ with us!’”",<pad> funny</s><pad><pad><pad><pad>
+76,alice,tensor(1),"“You may go,”
+“—and just take his head off outside,”",<pad> funny</s><pad><pad><pad><pad>
+77,alice,tensor(1),"“Nothing whatever,”
+“That’s very important,” the King said, turning to the jury. They were
+just beginning to write this down on their slates, when the White
+Rabbit interrupted: “_Un_important, your Majesty means, of course,”",<pad> funny</s><pad><pad><pad><pad>
+78,alice,tensor(1),"“It’s a friend of mine—a Cheshire Cat,” said Alice: “allow me to
+introduce it.”
+“I don’t like the look of it at all,” said the King: “however, it may
+kiss my hand if it likes.”",<pad> funny</s><pad><pad><pad><pad>
+79,alice,tensor(1),"“Is that the reason so many
+tea-things are put out here?”
+“Yes, that’s it,” said the Hatter with a sigh: “it’s always tea-time,
+and we’ve no time to wash the things between whiles.”",<pad> funny</s><pad><pad><pad><pad>
+80,alice,tensor(1),"“Why did you call him Tortoise, if he wasn’t one?”
+“We called him Tortoise because he taught us,” said the Mock Turtle
+angrily: “really you are very dull!”",<pad> funny</s><pad><pad><pad><pad>
+81,alice,tensor(1),"“One side of _what?_ The other side of _what?_”
+“Of the mushroom,”",<pad> funny</s><pad><pad><pad><pad>
+82,alice,tensor(1),"“which certainly was not here
+before,” said Alice,) and round the neck of the bottle was a paper
+label, with the words “DRINK ME,”
+“Drink me,” but the wise little Alice was
+not going to do _that_ in a hurry. “No, I’ll look first,” she said,
+“and see whether it’s marked ‘_poison_’ or not”; for she had read
+several nice little histories about children who had got burnt, and
+eaten up by wild beasts and other unpleasant things, all because they
+_would_ not remember the simple rules their friends had taught them:
+such as, that a red-hot poker will burn you if you hold it too long;
+and that if you cut your finger _very_ deeply with a knife, it usually
+bleeds; and she had never forgotten that, if you drink much from a
+bottle marked “poison,”",<pad> unfunny</s>
+83,alice,tensor(1),"“It’s a pun!” the King added in an offended tone, and everybody
+laughed, “Let the jury consider their verdict,”
+“No, no!” said the Queen. “Sentence first—verdict afterwards.”",<pad> funny</s><pad><pad><pad><pad>
+84,alice,tensor(1),"“Come back!” the Caterpillar called after her. “I’ve something
+important to say!”
+“Keep your temper,”",<pad> unfunny</s>
+85,alice,tensor(1),"“It’s—it’s a very fine day!”
+“Very,” said Alice: “—where’s the Duchess?”",<pad> unfunny</s>
+86,alice,tensor(1),"“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real
+Turtle.”
+“Hjckrrh!” from the Gryphon, and the constant
+heavy sobbing of the Mock Turtle. Alice was very nearly getting up and
+saying, “Thank you, sir, for your interesting story,”",<pad> unfunny</s>
+87,alice,tensor(1),"“Well!” thought Alice to herself, “after such a fall as this, I shall
+think nothing of tumbling down stairs! How brave they’ll all think me
+at home! Why, I wouldn’t say anything about it, even if I fell off the
+top of the house!”
+“I wonder how
+many miles I’ve fallen by this time?” she said aloud. “I must be
+getting somewhere near the centre of the earth. Let me see: that would
+be four thousand miles down, I think—” (for, you see, Alice had learnt
+several things of this sort in her lessons in the schoolroom, and
+though this was not a _very_ good opportunity for showing off her
+knowledge, as there was no one to listen to her, still it was good
+practice to say it over) “—yes, that’s about the right distance—but
+then I wonder what Latitude or Longitude I’ve got to?”",<pad> funny</s><pad><pad><pad><pad>
+88,alice,tensor(1),"“It’s really
+dreadful,” she muttered to herself, “the way all the creatures argue.
+It’s enough to drive one crazy!”
+“I shall sit here,” he said, “on and off, for
+days and days.”",<pad> unfunny</s>
+89,alice,tensor(1),"“No, please go on!” Alice said very humbly; “I won’t interrupt again. I
+dare say there may be _one_.”
+“One, indeed!” said the Dormouse indignantly. However, he consented to
+go on. “And so these three little sisters—they were learning to draw,
+you know—”",<pad> unfunny</s>
+90,alice,tensor(1),"“You may not have lived much under the sea—” (“I haven’t,” said
+Alice)—“and perhaps you were never even introduced to a lobster—”
+(Alice began to say “I once tasted—” but checked herself hastily, and
+said “No, never”) “—so you can have no idea what a delightful thing a
+Lobster Quadrille is!”
+“No, indeed,” said Alice. “What sort of a dance is it?”",<pad> unfunny</s>
+91,alice,tensor(1),"“So they were,” said the Dormouse; “_very_ ill.”
+“But
+why did they live at the bottom of a well?”",<pad> funny</s><pad><pad><pad><pad>
+92,alice,tensor(1),"“Nothing,”
+“Nothing _whatever?_”",<pad> unfunny</s>
+93,alice,tensor(1),"“Ah! then yours wasn’t a really good school,” said the Mock Turtle in a
+tone of great relief. “Now at _ours_ they had at the end of the bill,
+‘French, music, _and washing_—extra.’”
+“You couldn’t have wanted it much,” said Alice; “living at the bottom
+of the sea.”",<pad> funny</s><pad><pad><pad><pad>
+94,alice,tensor(1),"“Who is this?”
+“Idiot!” said the Queen, tossing her head impatiently; and, turning to
+Alice, she went on, “What’s your name, child?”",<pad> unfunny</s>
+95,alice,tensor(1),"“I shall sit here,” he said, “on and off, for
+days and days.”
+“But what am _I_ to do?”",<pad> unfunny</s>
+96,alice,tensor(1),"“—as far out to sea as you can—”
+“Swim after them!”",<pad> unfunny</s>
+97,alice,tensor(1),"“Of course,” the Mock Turtle said: “advance twice, set to partners—”
+“—change lobsters, and retire in same order,”",<pad> unfunny</s>
+98,alice,tensor(1),"“That depends a good deal on where you want to get to,”
+“I don’t much care where—”",<pad> unfunny</s>
+99,alice,tensor(1),"“Yes, please do!”
+“And be quick about it,” added the Hatter, “or you’ll be asleep again
+before it’s done.”",<pad> funny</s><pad><pad><pad><pad>
+100,alice,tensor(1),"“At any rate I’ll never go _there_ again!” said Alice as she picked her
+way through the wood. “It’s the stupidest tea-party I ever was at in
+all my life!”
+“That’s very curious!” she thought. “But
+everything’s curious today. I think I may as well go in at once.”",<pad> unfunny</s>
+101,alice,tensor(1),"“Oh, as to the whiting,” said the Mock Turtle, “they—you’ve seen them,
+of course?”
+“Yes,” said Alice, “I’ve often seen them at dinn—”",<pad> unfunny</s>
+102,alice,tensor(1),"“Of course it is,” said the Duchess, who seemed ready to agree to
+everything that Alice said; “there’s a large mustard-mine near here.
+And the moral of that is—‘The more there is of mine, the less there is
+of yours.’”
+“Oh, I know!” exclaimed Alice, who had not attended to this last
+remark, “it’s a vegetable. It doesn’t look like one, but it is.”",<pad> funny</s><pad><pad><pad><pad>
+103,alice,tensor(1),"“It isn’t directed at all,” said the White Rabbit; “in fact, there’s
+nothing written on the _outside_.” He unfolded the paper as he spoke,
+and added “It isn’t a letter, after all: it’s a set of verses.”
+“Are they in the prisoner’s handwriting?”",<pad> funny</s><pad><pad><pad><pad>
+104,alice,tensor(1),"“But I don’t understand. Where did they draw the treacle
+from?”
+“You can draw water out of a water-well,” said the Hatter; “so I should
+think you could draw treacle out of a treacle-well—eh, stupid?”",<pad> funny</s><pad><pad><pad><pad>
+105,alice,tensor(1),"“When _I’m_ a Duchess,” she said to herself, (not in a very hopeful
+tone though), “I won’t have any pepper in my kitchen _at all_. Soup
+does very well without—Maybe it’s always pepper that makes people
+hot-tempered,” she went on, very much pleased at having found out a new
+kind of rule, “and vinegar that makes them sour—and camomile that makes
+them bitter—and—and barley-sugar and such things that make children
+sweet-tempered. I only wish people knew _that_: then they wouldn’t be
+so stingy about it, you know—”
+“You’re thinking
+about something, my dear, and that makes you forget to talk. I can’t
+tell you just now what the moral of that is, but I shall remember it in
+a bit.”",<pad> unfunny</s>
+106,alice,tensor(1),"“_Everybody_ has won, and all must have prizes.”
+“But who is to give the prizes?”",<pad> unfunny</s>
+107,alice,tensor(1),"“Why, there they are!” said the King triumphantly, pointing to the
+tarts on the table. “Nothing can be clearer than _that_. Then
+again—‘_before she had this fit_—’ you never had fits, my dear, I
+think?”
+“Never!”",<pad> funny</s><pad><pad><pad><pad>
+108,alice,tensor(1),"“How am I to get in?”
+“_Are_ you to get in at all?” said the Footman. “That’s the first
+question, you know.”",<pad> funny</s><pad><pad><pad><pad>
+109,alice,tensor(1),"“I didn’t know it was _your_ table,” said Alice; “it’s laid for a great
+many more than three.”
+“Your hair wants cutting,”",<pad> unfunny</s>
+110,alice,tensor(1),"“My name is Alice, so please your Majesty,” said Alice very politely;
+but she added, to herself, “Why, they’re only a pack of cards, after
+all. I needn’t be afraid of them!”
+“And who are _these?_”",<pad> unfunny</s>
+111,alice,tensor(1),"“Does the boots and shoes!”
+“Why, what are _your_ shoes done with?” said the Gryphon. “I mean, what
+makes them so shiny?”",<pad> unfunny</s>
+112,alice,tensor(1),"“Exactly so,” said the Hatter: “as the things get used up.”
+“But what happens when you come to the beginning again?”",<pad> funny</s><pad><pad><pad><pad>
+113,alice,tensor(1),"“That’s very curious!” she thought. “But
+everything’s curious today. I think I may as well go in at once.”
+“Now, I’ll manage better this time,”",<pad> unfunny</s>
+114,alice,tensor(1),"“Who’s making personal remarks now?”
+“Why did they live at the bottom of a well?”",<pad> funny</s><pad><pad><pad><pad>
+115,alice,tensor(1),"“I _don’t_ know,”
+“Are you content now?”",<pad> unfunny</s>
+116,alice,tensor(1),"“_You’d_ better not talk!” said Five. “I heard the Queen say only
+yesterday you deserved to be beheaded!”
+“What for?”",<pad> unfunny</s>
+117,alice,tensor(1),"“I beg your pardon,” said Alice very humbly: “you had got to the fifth
+bend, I think?”
+“I had _not!_”",<pad> unfunny</s>
+118,alice,tensor(1),"“Well, it must be removed,” said the King very decidedly, and he called
+the Queen, who was passing at the moment, “My dear! I wish you would
+have this cat removed!”
+“Off with his head!”",<pad> funny</s><pad><pad><pad><pad>
+119,alice,tensor(1),"“No,” said Alice. “I don’t even know what a Mock Turtle is.”
+“It’s the thing Mock Turtle Soup is made from,”",<pad> funny</s><pad><pad><pad><pad>
+120,alice,tensor(1),"“_She_ doesn’t believe there’s
+an atom of meaning in it,”
+“If there’s no meaning in it,” said the King, “that saves a world of
+trouble, you know, as we needn’t try to find any. And yet I don’t
+know,” he went on, spreading out the verses on his knee, and looking at
+them with one eye; “I seem to see some meaning in them, after all.
+“—_said I could not swim_—” you can’t swim, can you?”",<pad> unfunny</s>
+121,alice,tensor(1),"“We called him Tortoise because he taught us,” said the Mock Turtle
+angrily: “really you are very dull!”
+“You ought to be ashamed of yourself for asking such a simple
+question,” added the Gryphon; and then they both sat silent and looked
+at poor Alice, who felt ready to sink into the earth. At last the
+Gryphon said to the Mock Turtle, “Drive on, old fellow! Don’t be all
+day about it!”",<pad> unfunny</s>
+122,alice,tensor(1),"“No, I didn’t,” said Alice: “I don’t think it’s at all a pity. I said
+‘What for?’”
+“She boxed the Queen’s ears—” the Rabbit began. Alice gave a little
+scream of laughter. “Oh, hush!” the Rabbit whispered in a frightened
+tone. “The Queen will hear you! You see, she came rather late, and the
+Queen said—”",<pad> funny</s><pad><pad><pad><pad>
+123,alice,tensor(1),"“I wish I had our Dinah here, I know I do!” said Alice aloud,
+addressing nobody in particular. “She’d soon fetch it back!”
+“And who is Dinah, if I might venture to ask the question?”",<pad> unfunny</s>
+124,alice,tensor(1),"“I never thought about it,” said Alice. “Why?”
+“_It does the boots and shoes_,”",<pad> unfunny</s>
+125,alice,tensor(1),"“In that case,” said the Dodo solemnly, rising to its feet, “I move
+that the meeting adjourn, for the immediate adoption of more energetic
+remedies—”
+“Speak English!” said the Eaglet. “I don’t know the meaning of half
+those long words, and, what’s more, I don’t believe you do either!”",<pad> unfunny</s>
+126,alice,tensor(1),"“He denies it,” said the King: “leave out that part.”
+“Well, at any rate, the Dormouse said—”",<pad> unfunny</s>
+127,alice,tensor(1),"“What! Never heard of
+uglifying!” it exclaimed. “You know what to beautify is, I suppose?”
+“Yes,” said Alice doubtfully: “it means—to—make—anything—prettier.”",<pad> unfunny</s>
+128,alice,tensor(1),"“Then you may _sit_ down,”
+“Come, that finished the guinea-pigs!” thought Alice. “Now we shall get
+on better.”",<pad> funny</s><pad><pad><pad><pad>
+129,alice,tensor(1),"“I’m afraid I am, sir,” said Alice; “I can’t remember things as I
+used—and I don’t keep the same size for ten minutes together!”
+“Can’t remember _what_ things?”",<pad> unfunny</s>
+130,alice,tensor(1),"“Then I’ll
+go round and get in at the window.”
+“_That_ you won’t!”",<pad> funny</s><pad><pad><pad><pad>
+131,alice,tensor(1),"“Of course,” the Dodo replied very gravely. “What else have you got in
+your pocket?”
+“Only a thimble,”",<pad> funny</s><pad><pad><pad><pad>
+132,alice,tensor(1),"“It matters a good deal to _me_,” said Alice hastily; “but I’m not
+looking for eggs, as it happens; and if I was, I shouldn’t want
+_yours_: I don’t like them raw.”
+“Well, be off, then!”",<pad> unfunny</s>
+133,alice,tensor(1),"“Do I look like it?”
+“All right, so far,” said the King, and he went on muttering over the
+verses to himself: “‘_We know it to be true_—’ that’s the jury, of
+course—‘_I gave her one, they gave him two_—’ why, that must be what he
+did with the tarts, you know—”",<pad> funny</s><pad><pad><pad><pad>
+134,alice,tensor(1),"“Of course, of course; just what I was going to remark myself.”
+“Have you guessed the riddle yet?”",<pad> unfunny</s>
+135,alice,tensor(1),"“Well, I’d hardly finished the first verse,” said the Hatter, “when the
+Queen jumped up and bawled out, ‘He’s murdering the time! Off with his
+head!’”
+“How dreadfully savage!”",<pad> funny</s><pad><pad><pad><pad>
+136,alice,tensor(1),"“Well, I can’t show it you myself,” the Mock Turtle said: “I’m too
+stiff. And the Gryphon never learnt it.”
+“Hadn’t time,” said the Gryphon: “I went to the Classics master,
+though. He was an old crab, _he_ was.”",<pad> funny</s><pad><pad><pad><pad>
+137,alice,tensor(1),"“Of course it was,”
+“And how did you manage on the twelfth?”",<pad> unfunny</s>
+138,alice,tensor(1),"“He took me for his housemaid,” she said to herself as she ran. “How
+surprised he’ll be when he finds out who I am! But I’d better take him
+his fan and gloves—that is, if I can find them.” As she said this, she
+came upon a neat little house, on the door of which was a bright brass
+plate with the name “W. RABBIT,”
+“How queer it seems,” Alice said to herself, “to be going messages for
+a rabbit! I suppose Dinah’ll be sending me on messages next!” And she
+began fancying the sort of thing that would happen: “‘Miss Alice! Come
+here directly, and get ready for your walk!’ ‘Coming in a minute,
+nurse! But I’ve got to see that the mouse doesn’t get out.’ Only I
+don’t think,” Alice went on, “that they’d let Dinah stop in the house
+if it began ordering people about like that!”",<pad> funny</s><pad><pad><pad><pad>
+139,alice,tensor(1),"“Where shall I begin, please
+your Majesty?”
+“Begin at the beginning,” the King said gravely, “and go on till you
+come to the end: then stop.”",<pad> unfunny</s>
+140,alice,tensor(1),"“Have you guessed the riddle yet?”
+“No, I give it up,” Alice replied: “what’s the answer?”",<pad> funny</s><pad><pad><pad><pad>
+141,alice,tensor(1),"“Thank you, it’s a very interesting dance to watch,” said Alice,
+feeling very glad that it was over at last: “and I do so like that
+curious song about the whiting!”
+“Oh, as to the whiting,” said the Mock Turtle, “they—you’ve seen them,
+of course?”",<pad> unfunny</s>
+142,alice,tensor(1),"“Each with a lobster as a partner!”
+“Of course,” the Mock Turtle said: “advance twice, set to partners—”",<pad> unfunny</s>
+143,alice,tensor(1),"“Only a thimble,”
+“Hand it over here,”",<pad> unfunny</s>
+144,alice,tensor(1),"“I don’t see any wine,”
+“There isn’t any,”",<pad> unfunny</s>
+145,alice,tensor(1),"“You are old,” said the youth, “as I mentioned before,
+    And have grown most uncommonly fat;
+Yet you turned a back-somersault in at the door—
+    Pray, what is the reason of that?”
+“In my youth,” said the sage, as he shook his grey locks,
+    “I kept all my limbs very supple
+By the use of this ointment—one shilling the box—
+    Allow me to sell you a couple?”",<pad> funny</s><pad><pad><pad><pad>
+146,alice,tensor(1),"“No, they’re not,” said the White Rabbit, “and that’s the queerest
+thing about it.”
+“He must have imitated somebody else’s hand,”",<pad> funny</s><pad><pad><pad><pad>
+147,alice,tensor(1),"“I’m afraid I don’t know one,”
+“Then the Dormouse shall!” they both cried. “Wake up, Dormouse!”",<pad> funny</s><pad><pad><pad><pad>
+148,alice,tensor(1),"“Very
+uncomfortable for the Dormouse,” thought Alice; “only, as it’s asleep,
+I suppose it doesn’t mind.”
+“No room! No room!” they cried out when they saw
+Alice coming. “There’s _plenty_ of room!”",<pad> funny</s><pad><pad><pad><pad>
+149,alice,tensor(1),"“They’re putting down their names,” the Gryphon whispered in reply,
+“for fear they should forget them before the end of the trial.”
+“Stupid things!” Alice began in a loud, indignant voice, but she
+stopped hastily, for the White Rabbit cried out, “Silence in the
+court!”",<pad> funny</s><pad><pad><pad><pad>
+150,alice,tensor(1),"“But, it goes on ‘_they all returned from him to you_,’”
+“Why, there they are!” said the King triumphantly, pointing to the
+tarts on the table. “Nothing can be clearer than _that_. Then
+again—‘_before she had this fit_—’ you never had fits, my dear, I
+think?”",<pad> funny</s><pad><pad><pad><pad>
+151,alice,tensor(1),"“Two days wrong!” sighed the Hatter. “I told you butter wouldn’t suit
+the works!”
+“It was the _best_ butter,”",<pad> unfunny</s>
+152,alice,tensor(1),"“You are old,” said the youth, “and your jaws are too weak
+    For anything tougher than suet;
+Yet you finished the goose, with the bones and the beak—
+    Pray, how did you manage to do it?”
+“In my youth,” said his father, “I took to the law,
+    And argued each case with my wife;
+And the muscular strength, which it gave to my jaw,
+    Has lasted the rest of my life.”",<pad> funny</s><pad><pad><pad><pad>
+153,alice,tensor(1),"“Please would you tell me,” said Alice, a little timidly, for she was
+not quite sure whether it was good manners for her to speak first, “why
+your cat grins like that?”
+“It’s a Cheshire cat,” said the Duchess, “and that’s why. Pig!”",<pad> funny</s><pad><pad><pad><pad>
+154,alice,tensor(1),"“You are old, Father William,” the young man said,
+    “And your hair has become very white;
+And yet you incessantly stand on your head—
+    Do you think, at your age, it is right?”
+“In my youth,” Father William replied to his son,
+    “I feared it might injure the brain;
+But, now that I’m perfectly sure I have none,
+    Why, I do it again and again.”",<pad> funny</s><pad><pad><pad><pad>
+155,alice,tensor(1),"“Anything you like,”
+“Oh, there’s no use in talking to him,” said Alice desperately: “he’s
+perfectly idiotic!”",<pad> funny</s><pad><pad><pad><pad>
+156,alice,tensor(1),"“I—I hardly know, sir, just at present—at least I know
+who I _was_ when I got up this morning, but I think I must have been
+changed several times since then.”
+“What do you mean by that?” said the Caterpillar sternly. “Explain
+yourself!”",<pad> unfunny</s>
+157,alice,tensor(1),"“Why,” said the Gryphon, “you first form into a line along the
+sea-shore—”
+“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on;
+then, when you’ve cleared all the jelly-fish out of the way—”",<pad> funny</s><pad><pad><pad><pad>
+158,alice,tensor(1),"“It all came different!” the Mock Turtle repeated thoughtfully. “I
+should like to hear her try and repeat something now. Tell her to
+begin.”
+“Stand up and repeat ‘’_Tis the voice of the sluggard_,’”",<pad> unfunny</s>
+159,alice,tensor(1),"“They were learning to draw,” the Dormouse went on, yawning and rubbing
+its eyes, for it was getting very sleepy; “and they drew all manner of
+things—everything that begins with an M—”
+“Why with an M?”",<pad> funny</s><pad><pad><pad><pad>
+160,alice,tensor(1),"“It’s the thing Mock Turtle Soup is made from,”
+“I never saw one, or heard of one,”",<pad> unfunny</s>
+161,alice,tensor(1),"“I never saw one, or heard of one,”
+“Come on, then,” said the Queen, “and he shall tell you his history,”",<pad> unfunny</s>
+162,alice,tensor(1),"“Well, perhaps not,” said Alice in a soothing tone: “don’t be angry
+about it. And yet I wish I could show you our cat Dinah: I think you’d
+take a fancy to cats if you could only see her. She is such a dear
+quiet thing,” Alice went on, half to herself, as she swam lazily about
+in the pool, “and she sits purring so nicely by the fire, licking her
+paws and washing her face—and she is such a nice soft thing to
+nurse—and she’s such a capital one for catching mice—oh, I beg your
+pardon!” cried Alice again, for this time the Mouse was bristling all
+over, and she felt certain it must be really offended. “We won’t talk
+about her any more if you’d rather not.”
+“We indeed!” cried the Mouse, who was trembling down to the end of his
+tail. “As if _I_ would talk on such a subject! Our family always
+_hated_ cats: nasty, low, vulgar things! Don’t let me hear the name
+again!”",<pad> unfunny</s>
+163,alice,tensor(1),"“Then the words don’t _fit_ you,”
+“It’s a pun!” the King added in an offended tone, and everybody
+laughed, “Let the jury consider their verdict,”",<pad> funny</s><pad><pad><pad><pad>
+164,alice,tensor(1),"“What did they live on?”
+“They lived on treacle,”",<pad> funny</s><pad><pad><pad><pad>
+165,alice,tensor(1),"“And how
+do you know that you’re mad?”
+“To begin with,” said the Cat, “a dog’s not mad. You grant that?”",<pad> funny</s><pad><pad><pad><pad>
+166,alice,tensor(1),"“Digging for apples, indeed!” said the Rabbit angrily. “Here! Come and
+help me out of _this!_”
+“Now tell me, Pat, what’s that in the window?”",<pad> funny</s><pad><pad><pad><pad>
+167,alice,tensor(1),"“Not at all,” said Alice: “she’s so extremely—” Just then she noticed
+that the Queen was close behind her, listening: so she went on,
+“—likely to win, that it’s hardly worth while finishing the game.”
+“Who _are_ you talking to?”",<pad> unfunny</s>
+168,alice,tensor(1),"“Of course they were,” said the Dormouse; “—well in.”
+“They were learning to draw,” the Dormouse went on, yawning and rubbing
+its eyes, for it was getting very sleepy; “and they drew all manner of
+things—everything that begins with an M—”",<pad> funny</s><pad><pad><pad><pad>
+169,alice,tensor(1),"“You ought to be ashamed of yourself for asking such a simple
+question,” added the Gryphon; and then they both sat silent and looked
+at poor Alice, who felt ready to sink into the earth. At last the
+Gryphon said to the Mock Turtle, “Drive on, old fellow! Don’t be all
+day about it!”
+“Yes, we went to school in the sea, though you mayn’t believe it—”",<pad> unfunny</s>
+170,alice,tensor(1),"“Of course you don’t!” the Hatter said, tossing his head
+contemptuously. “I dare say you never even spoke to Time!”
+“Perhaps not,” Alice cautiously replied: “but I know I have to beat
+time when I learn music.”",<pad> funny</s><pad><pad><pad><pad>
+171,alice,tensor(1),"“That would be grand, certainly,” said Alice thoughtfully: “but then—I
+shouldn’t be hungry for it, you know.”
+“Not at first, perhaps,” said the Hatter: “but you could keep it to
+half-past one as long as you liked.”",<pad> funny</s><pad><pad><pad><pad>
+172,alice,tensor(1),"“I shall sit here,” the Footman remarked, “till tomorrow—”
+“—or next day, maybe,”",<pad> unfunny</s>
+173,alice,tensor(1),"“Ah! that accounts for it,” said the Hatter. “He won’t stand beating.
+Now, if you only kept on good terms with him, he’d do almost anything
+you liked with the clock. For instance, suppose it were nine o’clock in
+the morning, just time to begin lessons: you’d only have to whisper a
+hint to Time, and round goes the clock in a twinkling! Half-past one,
+time for dinner!”
+“I only wish it was,”",<pad> funny</s><pad><pad><pad><pad>
+174,alice,tensor(1),"“Your hair wants cutting,”
+“You should learn not to make personal remarks,” Alice said with some
+severity; “it’s very rude.”",<pad> unfunny</s>
+175,alice,tensor(1),"“Talking of axes,” said the Duchess, “chop off her head!”
+“Twenty-four hours, I _think_; or
+is it twelve? I—”",<pad> unfunny</s>
+176,alice,tensor(1),"“Pray don’t trouble yourself to say it any longer than that,”
+“Oh, don’t talk about trouble!” said the Duchess. “I make you a present
+of everything I’ve said as yet.”",<pad> unfunny</s>
+177,alice,tensor(1),"“Mine is a long and a sad tale!”
+“It _is_ a long tail, certainly,” said Alice, looking down with wonder
+at the Mouse’s tail; “but why do you call it sad?”",<pad> unfunny</s>
+178,alice,tensor(1),"“Yes, but some crumbs must have got in as well,” the Hatter grumbled:
+“you shouldn’t have put it in with the bread-knife.”
+“It was the _best_ butter,
+you know.”",<pad> unfunny</s>
+179,alice,tensor(1),"“It was the _best_ butter,”
+“Yes, but some crumbs must have got in as well,” the Hatter grumbled:
+“you shouldn’t have put it in with the bread-knife.”",<pad> funny</s><pad><pad><pad><pad>
+180,alice,tensor(1),"“That’s none of _your_ business, Two!”
+“Yes, it _is_ his business!” said Five, “and I’ll tell him—it was for
+bringing the cook tulip-roots instead of onions.”",<pad> funny</s><pad><pad><pad><pad>
+181,alice,tensor(1),"“That _was_ a narrow escape!” said Alice, a good deal frightened at the
+sudden change, but very glad to find herself still in existence; “and
+now for the garden!” and she ran with all speed back to the little
+door: but, alas! the little door was shut again, and the little golden
+key was lying on the glass table as before, “and things are worse than
+ever,” thought the poor child, “for I never was so small as this
+before, never! And I declare it’s too bad, that it is!”
+“and in that case I can go back by
+railway,”",<pad> unfunny</s>
+182,alice,tensor(1),"“I said pig,” replied Alice; “and I wish you wouldn’t keep appearing
+and vanishing so suddenly: you make one quite giddy.”
+“All right,”",<pad> unfunny</s>
+183,alice,tensor(1),"“This here young lady,” said the Gryphon, “she wants for to know your
+history, she do.”
+“I’ll tell it her,” said the Mock Turtle in a deep, hollow tone: “sit
+down, both of you, and don’t speak a word till I’ve finished.”",<pad> unfunny</s>
+184,alice,tensor(1),"“I don’t know of any that do,”
+“You don’t know much,” said the Duchess; “and that’s a fact.”",<pad> unfunny</s>
+185,alice,tensor(1),"“It belongs to the
+Duchess: you’d better ask _her_ about it.”
+“She’s in prison,” the Queen said to the executioner: “fetch her here.”",<pad> funny</s><pad><pad><pad><pad>
+186,alice,tensor(1),"“Then the eleventh day must have been
+a holiday?”
+“Of course it was,”",<pad> funny</s><pad><pad><pad><pad>
+187,alice,tensor(1),"“Of course not,” said the Mock Turtle: “why, if a fish came to _me_,
+and told me he was going a journey, I should say ‘With what porpoise?’”
+“Don’t you mean ‘purpose’?”",<pad> unfunny</s>
+188,alice,tensor(1),"“Is that all?”
+“No,”",<pad> unfunny</s>
+189,alice,tensor(1),"“But I don’t want to go among mad people,”
+“Oh, you can’t help that,” said the Cat: “we’re all mad here. I’m mad.
+You’re mad.”",<pad> funny</s><pad><pad><pad><pad>
+190,alice,tensor(1),"“There’s more evidence to come yet, please your Majesty,” said the
+White Rabbit, jumping up in a great hurry; “this paper has just been
+picked up.”
+“What’s in it?”",<pad> unfunny</s>
+191,alice,tensor(1),"“—so long as I get _somewhere_,”
+“Oh, you’re sure to do that,” said the Cat, “if you only walk long
+enough.”",<pad> funny</s><pad><pad><pad><pad>
+192,alice,tensor(1),"“I wish you wouldn’t squeeze so.” said the Dormouse, who was sitting
+next to her. “I can hardly breathe.”
+“I can’t help it,” said Alice very meekly: “I’m growing.”",<pad> funny</s><pad><pad><pad><pad>
+193,alice,tensor(1),"“Herald, read the accusation!”
+“The Queen of Hearts, she made some tarts,
+    All on a summer day:
+The Knave of Hearts, he stole those tarts,
+    And took them quite away!”",<pad> funny</s><pad><pad><pad><pad>
+194,alice,tensor(1),"“Which is just the case with _mine_,”
+“I don’t quite
+understand you,”",<pad> unfunny</s>
+195,alice,tensor(1),"“Where’s the other
+ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill!
+fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em
+together first—they don’t reach half high enough yet—Oh! they’ll do
+well enough; don’t be particular—Here, Bill! catch hold of this
+rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down!
+Heads below!” (a loud crash)—“Now, who did that?—It was Bill, I
+fancy—Who’s to go down the chimney?—Nay, _I_ shan’t! _You_ do
+it!—_That_ I won’t, then!—Bill’s to go down—Here, Bill! the master says
+you’re to go down the chimney!”
+“Oh! So Bill’s got to come down the chimney, has he?” said Alice to
+herself. “Shy, they seem to put everything upon Bill! I wouldn’t be in
+Bill’s place for a good deal: this fireplace is narrow, to be sure; but
+I _think_ I can kick a little!”",<pad> funny</s><pad><pad><pad><pad>
+196,alice,tensor(1),"“But
+why did they live at the bottom of a well?”
+“Take some more tea,”",<pad> unfunny</s>
+197,alice,tensor(1),"“What a
+funny watch!” she remarked. “It tells the day of the month, and doesn’t
+tell what o’clock it is!”
+“Why should it?” muttered the Hatter. “Does _your_ watch tell you what
+year it is?”",<pad> funny</s><pad><pad><pad><pad>
+198,alice,tensor(1),"“Yes,” said Alice doubtfully: “it means—to—make—anything—prettier.”
+“Well, then,” the Gryphon went on, “if you don’t know what to uglify
+is, you _are_ a simpleton.”",<pad> funny</s><pad><pad><pad><pad>
+199,alice,tensor(1),"“It’s the oldest rule in the book,”
+“Then it ought to be Number One,”",<pad> funny</s><pad><pad><pad><pad>
+200,alice,tensor(1),"“In my youth,” said the sage, as he shook his grey locks,
+    “I kept all my limbs very supple
+By the use of this ointment—one shilling the box—
+    Allow me to sell you a couple?”
+“You are old,” said the youth, “and your jaws are too weak
+    For anything tougher than suet;
+Yet you finished the goose, with the bones and the beak—
+    Pray, how did you manage to do it?”",<pad> funny</s><pad><pad><pad><pad>
+201,alice,tensor(1),"“And that’s the jury-box,” thought Alice, “and those twelve creatures,”
+(she was obliged to say “creatures,” you see, because some of them were
+animals, and some were birds,) “I suppose they are the jurors.” She
+said this last word two or three times over to herself, being rather
+proud of it: for she thought, and rightly too, that very few little
+girls of her age knew the meaning of it at all. However, “jury-men”
+“What are
+they doing?” Alice whispered to the Gryphon. “They can’t have anything
+to put down yet, before the trial’s begun.”",<pad> funny</s><pad><pad><pad><pad>
+202,alice,tensor(1),"“But what am _I_ to do?”
+“Anything you like,”",<pad> unfunny</s>
+203,alice,tensor(1),"“I’ll tell it her,” said the Mock Turtle in a deep, hollow tone: “sit
+down, both of you, and don’t speak a word till I’ve finished.”
+“I don’t see how he can _ever_ finish, if he doesn’t begin.”",<pad> unfunny</s>
+204,alice,tensor(1),"“Call the first witness,” said the King; and the White Rabbit blew
+three blasts on the trumpet, and called out, “First witness!”
+“I beg pardon, your
+Majesty,” he began, “for bringing these in: but I hadn’t quite finished
+my tea when I was sent for.”",<pad> funny</s><pad><pad><pad><pad>
+205,alice,tensor(1),"“In my youth,” Father William replied to his son,
+    “I feared it might injure the brain;
+But, now that I’m perfectly sure I have none,
+    Why, I do it again and again.”
+“You are old,” said the youth, “as I mentioned before,
+    And have grown most uncommonly fat;
+Yet you turned a back-somersault in at the door—
+    Pray, what is the reason of that?”",<pad> funny</s><pad><pad><pad><pad>
+206,alice,tensor(1),"“Wouldn’t it really?”
+“Of course not,” said the Mock Turtle: “why, if a fish came to _me_,
+and told me he was going a journey, I should say ‘With what porpoise?’”",<pad> funny</s><pad><pad><pad><pad>
+207,alice,tensor(1),"“How doth the little crocodile
+    Improve his shining tail,
+And pour the waters of the Nile
+    On every golden scale!
+
+“How cheerfully he seems to grin,
+    How neatly spread his claws,
+And welcome little fishes in
+    With gently smiling jaws!”
+“I’m sure those are not the right words,” said poor Alice, and her eyes
+filled with tears again as she went on, “I must be Mabel after all, and
+I shall have to go and live in that poky little house, and have next to
+no toys to play with, and oh! ever so many lessons to learn! No, I’ve
+made up my mind about it; if I’m Mabel, I’ll stay down here! It’ll be
+no use their putting their heads down and saying ‘Come up again, dear!’
+I shall only look up and say ‘Who am I then? Tell me that first, and
+then, if I like being that person, I’ll come up: if not, I’ll stay down
+here till I’m somebody else’—but, oh dear!” cried Alice, with a sudden
+burst of tears, “I do wish they _would_ put their heads down! I am so
+_very_ tired of being all alone here!”",<pad> unfunny</s>
+208,alice,tensor(1),"“Take off your hat,”
+“It isn’t mine,”",<pad> unfunny</s>
+209,alice,tensor(1),"“But what did the Dormouse say?”
+“That I can’t remember,”",<pad> funny</s><pad><pad><pad><pad>
+210,alice,tensor(1),"“That is not said right,”
+“Not _quite_ right, I’m afraid,” said Alice, timidly; “some of the
+words have got altered.”",<pad> unfunny</s>
+211,alice,tensor(1),"“A cat may look at a king,” said Alice. “I’ve read that in some book,
+but I don’t remember where.”
+“Well, it must be removed,” said the King very decidedly, and he called
+the Queen, who was passing at the moment, “My dear! I wish you would
+have this cat removed!”",<pad> funny</s><pad><pad><pad><pad>
+212,alice,tensor(1),"“It was much pleasanter at home,” thought poor Alice, “when one wasn’t
+always growing larger and smaller, and being ordered about by mice and
+rabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and
+yet—it’s rather curious, you know, this sort of life! I do wonder what
+_can_ have happened to me! When I used to read fairy-tales, I fancied
+that kind of thing never happened, and now here I am in the middle of
+one! There ought to be a book written about me, that there ought! And
+when I grow up, I’ll write one—but I’m grown up now,” she added in a
+sorrowful tone; “at least there’s no room to grow up any more _here_.”
+“But then,” thought Alice, “shall I _never_ get any older than I am
+now? That’ll be a comfort, one way—never to be an old woman—but
+then—always to have lessons to learn! Oh, I shouldn’t like _that!_”",<pad> unfunny</s>
+213,alice,tensor(1),"“Boots and shoes under the sea,” the Gryphon went on in a deep voice,
+“are done with a whiting. Now you know.”
+“And what are they made of?”",<pad> funny</s><pad><pad><pad><pad>
+214,alice,tensor(1),"“Are they in the prisoner’s handwriting?”
+“No, they’re not,” said the White Rabbit, “and that’s the queerest
+thing about it.”",<pad> funny</s><pad><pad><pad><pad>
+215,alice,tensor(1),"“Off with his head!” or “Off with her head!”
+“and then,” thought she, “what would become of me? They’re dreadfully
+fond of beheading people here; the great wonder is, that there’s any
+one left alive!”",<pad> unfunny</s>
+216,alice,tensor(1),"“Get up!”
+“Leave off that!” screamed the Queen. “You make me giddy.” And then,
+turning to the rose-tree, she went on, “What _have_ you been doing
+here?”",<pad> unfunny</s>
+217,alice,tensor(1),"“Why with an M?”
+“Why not?”",<pad> funny</s><pad><pad><pad><pad>
+218,alice,tensor(1),"“Well, it’s got no business there, at any rate: go and take it away!”
+“Sure, I don’t like it, yer honour, at all, at
+all!” “Do as I tell you, you coward!” and at last she spread out her
+hand again, and made another snatch in the air. This time there were
+_two_ little shrieks, and more sounds of broken glass. “What a number
+of cucumber-frames there must be!” thought Alice. “I wonder what
+they’ll do next! As for pulling me out of the window, I only wish they
+_could!_ I’m sure _I_ don’t want to stay in here any longer!”",<pad> funny</s><pad><pad><pad><pad>
+219,alice,tensor(1),"“I don’t believe it,” said the Pigeon; “but if they do, why then
+they’re a kind of serpent, that’s all I can say.”
+“You’re
+looking for eggs, I know _that_ well enough; and what does it matter to
+me whether you’re a little girl or a serpent?”",<pad> unfunny</s>
+220,alice,tensor(1),"“Hjckrrh!” from the Gryphon, and the constant
+heavy sobbing of the Mock Turtle. Alice was very nearly getting up and
+saying, “Thank you, sir, for your interesting story,”
+“When we were little,” the Mock Turtle went on at last, more calmly,
+though still sobbing a little now and then, “we went to school in the
+sea. The master was an old Turtle—we used to call him Tortoise—”",<pad> unfunny</s>
+221,alice,tensor(1),"“Nothing _whatever?_”
+“Nothing whatever,”",<pad> unfunny</s>
+222,alice,tensor(1),"“You did,”
+“Hold your tongue!”",<pad> unfunny</s>
+223,alice,tensor(1),"“They told me you had been to her,
+    And mentioned me to him:
+She gave me a good character,
+    But said I could not swim.
+
+He sent them word I had not gone
+    (We know it to be true):
+If she should push the matter on,
+    What would become of you?
+
+I gave her one, they gave him two,
+    You gave us three or more;
+They all returned from him to you,
+    Though they were mine before.
+
+If I or she should chance to be
+    Involved in this affair,
+He trusts to you to set them free,
+    Exactly as we were.
+
+My notion was that you had been
+    (Before she had this fit)
+An obstacle that came between
+    Him, and ourselves, and it.
+
+Don’t let him know she liked them best,
+    For this must ever be
+A secret, kept from all the rest,
+    Between yourself and me.”
+“That’s the most important piece of evidence we’ve heard yet,” said the
+King, rubbing his hands; “so now let the jury—”",<pad> unfunny</s>
+224,alice,tensor(1),"“Then you should say what you mean,”
+“I do,” Alice hastily replied; “at least—at least I mean what I
+say—that’s the same thing, you know.”",<pad> unfunny</s>
+225,alice,tensor(1),"“It’s all about as curious as it can be,”
+“It all came different!” the Mock Turtle repeated thoughtfully. “I
+should like to hear her try and repeat something now. Tell her to
+begin.”",<pad> unfunny</s>
+226,alice,tensor(1),"“One, indeed!” said the Dormouse indignantly. However, he consented to
+go on. “And so these three little sisters—they were learning to draw,
+you know—”
+“What did they draw?”",<pad> funny</s><pad><pad><pad><pad>
+227,alice,tensor(1),"“Collar that Dormouse,” the Queen shrieked out. “Behead that Dormouse!
+Turn that Dormouse out of court! Suppress him! Pinch him! Off with his
+whiskers!”
+“Never mind!” said the King, with an air of great relief. “Call the
+next witness.” And he added in an undertone to the Queen, “Really, my
+dear, _you_ must cross-examine the next witness. It quite makes my
+forehead ache!”",<pad> funny</s><pad><pad><pad><pad>
+228,alice,tensor(1),"“They were obliged to have him with them,” the Mock Turtle said: “no
+wise fish would go anywhere without a porpoise.”
+“Wouldn’t it really?”",<pad> funny</s><pad><pad><pad><pad>
+229,alice,tensor(1),"“Serpent!”
+“I’m _not_ a serpent!” said Alice indignantly. “Let me alone!”",<pad> unfunny</s>
+230,alice,tensor(1),"“Yes,” said Alice, “we learned French and music.”
+“And washing?”",<pad> funny</s><pad><pad><pad><pad>
+231,alice,tensor(1),"“She boxed the Queen’s ears—” the Rabbit began. Alice gave a little
+scream of laughter. “Oh, hush!” the Rabbit whispered in a frightened
+tone. “The Queen will hear you! You see, she came rather late, and the
+Queen said—”
+“Get to your places!”",<pad> funny</s><pad><pad><pad><pad>
+232,alice,tensor(1),"“Oh, I know!” exclaimed Alice, who had not attended to this last
+remark, “it’s a vegetable. It doesn’t look like one, but it is.”
+“I quite agree with you,” said the Duchess; “and the moral of that
+is—‘Be what you would seem to be’—or if you’d like it put more
+simply—‘Never imagine yourself not to be otherwise than what it might
+appear to others that what you were or might have been was not
+otherwise than what you had been would have appeared to them to be
+otherwise.’”",<pad> unfunny</s>
+233,alice,tensor(1),"“I didn’t know that Cheshire cats always grinned; in fact, I didn’t
+know that cats _could_ grin.”
+“They all can,” said the Duchess; “and most of ’em do.”",<pad> funny</s><pad><pad><pad><pad>
+234,alice,tensor(1),"“Wake up, Alice dear!” said her sister; “Why, what a long sleep you’ve
+had!”
+“Oh, I’ve had such a curious dream!” said Alice, and she told her
+sister, as well as she could remember them, all these strange
+Adventures of hers that you have just been reading about; and when she
+had finished, her sister kissed her, and said, “It _was_ a curious
+dream, dear, certainly: but now run in to your tea; it’s getting late.”",<pad> unfunny</s>
+235,alice,tensor(1),"“I don’t quite
+understand you,”
+“The Dormouse is asleep again,”",<pad> unfunny</s>
+236,alice,tensor(1),"“Thinking again?”
+“I’ve a right to think,”",<pad> unfunny</s>
+237,alice,tensor(1),"“It _is_ a long tail, certainly,” said Alice, looking down with wonder
+at the Mouse’s tail; “but why do you call it sad?”
+“Fury said to a mouse, That he met in the house, ‘Let us both
+         go to law: _I_ will prosecute _you_.—Come, I’ll take no
+         denial; We must have a trial: For really this morning I’ve
+         nothing to do.’ Said the mouse to the cur, ‘Such a trial, dear
+         sir, With no jury or judge, would be wasting our breath.’
+         ‘I’ll be judge, I’ll be jury,’ Said cunning old Fury: ‘I’ll
+         try the whole cause, and condemn you to death.’”",<pad> unfunny</s>
+238,alice,tensor(1),"“Oh, _please_ mind what you’re doing!” cried Alice, jumping up and down
+in an agony of terror. “Oh, there goes his _precious_ nose!”
+“If everybody minded their own business,” the Duchess said in a hoarse
+growl, “the world would go round a deal faster than it does.”",<pad> unfunny</s>
+239,alice,tensor(1),"“Perhaps not,” Alice cautiously replied: “but I know I have to beat
+time when I learn music.”
+“Ah! that accounts for it,” said the Hatter. “He won’t stand beating.
+Now, if you only kept on good terms with him, he’d do almost anything
+you liked with the clock. For instance, suppose it were nine o’clock in
+the morning, just time to begin lessons: you’d only have to whisper a
+hint to Time, and round goes the clock in a twinkling! Half-past one,
+time for dinner!”",<pad> funny</s><pad><pad><pad><pad>
+240,alice,tensor(1),"“It proves nothing of the sort!” said Alice. “Why, you don’t even know
+what they’re about!”
+“Read them,”",<pad> unfunny</s>
+241,alice,tensor(1),"“Of course twinkling begins with a T!” said the King sharply. “Do you
+take me for a dunce? Go on!”
+“I’m a poor man,” the Hatter went on, “and most things twinkled after
+that—only the March Hare said—”",<pad> funny</s><pad><pad><pad><pad>
+242,alice,tensor(1),"“I haven’t the slightest idea,”
+“Nor I,”",<pad> unfunny</s>
+243,alice,tensor(1),"“Oh, a song, please, if the Mock Turtle would be so kind,” Alice
+replied, so eagerly that the Gryphon said, in a rather offended tone,
+“Hm! No accounting for tastes! Sing her ‘_Turtle Soup_,’ will you, old
+fellow?”
+“Beautiful Soup, so rich and green,
+Waiting in a hot tureen!
+Who for such dainties would not stoop?
+Soup of the evening, beautiful Soup!
+Soup of the evening, beautiful Soup!
+    Beau—ootiful Soo—oop!
+    Beau—ootiful Soo—oop!
+Soo—oop of the e—e—evening,
+    Beautiful, beautiful Soup!
+
+“Beautiful Soup! Who cares for fish,
+Game, or any other dish?
+Who would not give all else for two p
+ennyworth only of beautiful Soup?
+Pennyworth only of beautiful Soup?
+    Beau—ootiful Soo—oop!
+    Beau—ootiful Soo—oop!
+Soo—oop of the e—e—evening,
+    Beautiful, beauti—FUL SOUP!”",<pad> funny</s><pad><pad><pad><pad>
+244,alice,tensor(1),"“I dare say you’re wondering why I don’t put my arm round your waist,”
+the Duchess said after a pause: “the reason is, that I’m doubtful about
+the temper of your flamingo. Shall I try the experiment?”
+“He might bite,”",<pad> funny</s><pad><pad><pad><pad>
+245,alice,tensor(1),"“I believe so,” Alice replied thoughtfully. “They have their tails in
+their mouths—and they’re all over crumbs.”
+“You’re wrong about the crumbs,” said the Mock Turtle: “crumbs would
+all wash off in the sea. But they _have_ their tails in their mouths;
+and the reason is—” here the Mock Turtle yawned and shut his
+eyes.—“Tell her about the reason and all that,”",<pad> unfunny</s>
+246,alice,tensor(1),"“_I’ve_ been to a day-school, too,” said Alice; “you needn’t be so
+proud as all that.”
+“With extras?”",<pad> funny</s><pad><pad><pad><pad>
+247,alice,tensor(1),"“An arm, you goose! Who ever saw one that size? Why, it fills the whole
+window!”
+“Sure, it does, yer honour: but it’s an arm for all that.”",<pad> funny</s><pad><pad><pad><pad>
+248,alice,tensor(1),"“But I’m _not_ a serpent, I tell you!” said Alice. “I’m a—I’m a—”
+“Well! _What_ are you?” said the Pigeon. “I can see you’re trying to
+invent something!”",<pad> funny</s><pad><pad><pad><pad>
+249,alice,tensor(1),"“Do you mean that you think you can find out the answer to it?”
+“Exactly so,”",<pad> unfunny</s>
+250,alice,tensor(1),"“All right, so far,” said the King, and he went on muttering over the
+verses to himself: “‘_We know it to be true_—’ that’s the jury, of
+course—‘_I gave her one, they gave him two_—’ why, that must be what he
+did with the tarts, you know—”
+“But, it goes on ‘_they all returned from him to you_,’”",<pad> funny</s><pad><pad><pad><pad>
+251,alice,tensor(1),"“The fourth.”
+“Two days wrong!” sighed the Hatter. “I told you butter wouldn’t suit
+the works!”",<pad> funny</s><pad><pad><pad><pad>
+252,alice,tensor(1),"“I didn’t!”
+“You did!”",<pad> unfunny</s>
+253,alice,tensor(1),"“They couldn’t have done that, you know,” Alice gently remarked;
+“they’d have been ill.”
+“So they were,” said the Dormouse; “_very_ ill.”",<pad> funny</s><pad><pad><pad><pad>
+254,alice,tensor(1),"“Explain all that,”
+“No, no! The adventures first,” said the Gryphon in an impatient tone:
+“explanations take such a dreadful time.”",<pad> unfunny</s>
+255,alice,tensor(1),"“He might bite,”
+“Very true,” said the Duchess: “flamingoes and mustard both bite. And
+the moral of that is—‘Birds of a feather flock together.’”",<pad> funny</s><pad><pad><pad><pad>
+256,alice,tensor(1),"“He must have imitated somebody else’s hand,”
+“Please your Majesty,” said the Knave, “I didn’t write it, and they
+can’t prove I did: there’s no name signed at the end.”",<pad> funny</s><pad><pad><pad><pad>
+257,alice,tensor(1),"“Thank you,” said Alice, “it’s very interesting. I never knew so much
+about a whiting before.”
+“I can tell you more than that, if you like,” said the Gryphon. “Do you
+know why it’s called a whiting?”",<pad> unfunny</s>
+258,alice,tensor(1),"“Suppose we change the subject,” the March Hare interrupted, yawning.
+“I’m getting tired of this. I vote the young lady tells us a story.”
+“I’m afraid I don’t know one,”",<pad> unfunny</s>
+259,alice,tensor(1),"“Then, you know,” the Mock Turtle went on, “you throw the—”
+“The lobsters!”",<pad> funny</s><pad><pad><pad><pad>
+260,alice,tensor(1),"“Consider your
+verdict,”
+“There’s more evidence to come yet, please your Majesty,” said the
+White Rabbit, jumping up in a great hurry; “this paper has just been
+picked up.”",<pad> funny</s><pad><pad><pad><pad>
+261,alice,tensor(1),"“I never heard of ‘Uglification,’” Alice ventured to say. “What is it?”
+“What! Never heard of
+uglifying!” it exclaimed. “You know what to beautify is, I suppose?”",<pad> funny</s><pad><pad><pad><pad>
+262,alice,tensor(1),"“How do you know I’m mad?”
+“You must be,” said the Cat, “or you wouldn’t have come here.”",<pad> funny</s><pad><pad><pad><pad>
+263,alice,tensor(1),"“Well, I shan’t go, at any rate,” said Alice: “besides, that’s not a
+regular rule: you invented it just now.”
+“It’s the oldest rule in the book,”",<pad> unfunny</s>
+264,alice,tensor(1),"“Oh, don’t talk about trouble!” said the Duchess. “I make you a present
+of everything I’ve said as yet.”
+“A cheap sort of present!” thought Alice. “I’m glad they don’t give
+birthday presents like that!”",<pad> funny</s><pad><pad><pad><pad>
+265,alice,tensor(1),"“—change lobsters, and retire in same order,”
+“Then, you know,” the Mock Turtle went on, “you throw the—”",<pad> unfunny</s>
+266,alice,tensor(1),"“What do you mean by that?” said the Caterpillar sternly. “Explain
+yourself!”
+“I can’t explain _myself_, I’m afraid, sir,” said Alice, “because I’m
+not myself, you see.”",<pad> unfunny</s>
+267,alice,tensor(1),"“No, no!” said the Queen. “Sentence first—verdict afterwards.”
+“Stuff and nonsense!” said Alice loudly. “The idea of having the
+sentence first!”",<pad> funny</s><pad><pad><pad><pad>
+268,alice,tensor(1),"“It’s the first position in dancing.”
+“Go on with the next verse,” the Gryphon repeated impatiently: “it
+begins ‘_I passed by his garden_.’”",<pad> unfunny</s>
+269,alice,tensor(1),"“She can’t explain it,” said the Gryphon hastily. “Go on with the next
+verse.”
+“But about his toes?” the Mock Turtle persisted. “How _could_ he turn
+them out with his nose, you know?”",<pad> funny</s><pad><pad><pad><pad>
+270,alice,tensor(1),"“Fourteenth of March, I _think_ it
+was,”
+“Fifteenth,”",<pad> unfunny</s>
+271,alice,tensor(1),"“So you
+think you’re changed, do you?”
+“I’m afraid I am, sir,” said Alice; “I can’t remember things as I
+used—and I don’t keep the same size for ten minutes together!”",<pad> funny</s><pad><pad><pad><pad>
+272,alice,tensor(1),"“I had _not!_”
+“A knot!” said Alice, always ready to make herself useful, and looking
+anxiously about her. “Oh, do let me help to undo it!”",<pad> unfunny</s>
+273,alice,tensor(1),"“Not I!”
+“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,
+the earls of Mercia and Northumbria, declared for him: and even
+Stigand, the patriotic archbishop of Canterbury, found it advisable—’”",<pad> unfunny</s>
+274,alice,tensor(1),"“Never mind!” said the King, with an air of great relief. “Call the
+next witness.” And he added in an undertone to the Queen, “Really, my
+dear, _you_ must cross-examine the next witness. It quite makes my
+forehead ache!”
+“—for they
+haven’t got much evidence _yet_,” she said to herself. Imagine her
+surprise, when the White Rabbit read out, at the top of his shrill
+little voice, the name “Alice!”",<pad> funny</s><pad><pad><pad><pad>
+275,alice,tensor(1),"“How should _I_ know?” said Alice, surprised at her own courage. “It’s
+no business of _mine_.”
+“Off with her head! Off—”",<pad> unfunny</s>
+276,alice,tensor(1),"“You might just as well say,” added the Dormouse, who seemed to be
+talking in his sleep, “that ‘I breathe when I sleep’ is the same thing
+as ‘I sleep when I breathe’!”
+“It _is_ the same thing with you,”",<pad> unfunny</s>
+277,alice,tensor(1),"“Really, now you ask me,” said Alice, very much confused, “I don’t
+think—”
+“Then you shouldn’t talk,”",<pad> unfunny</s>
+278,alice,tensor(1),"“Don’t be impertinent,” said the King, “and don’t look at me like
+that!”
+“A cat may look at a king,” said Alice. “I’ve read that in some book,
+but I don’t remember where.”",<pad> funny</s><pad><pad><pad><pad>
+279,alice,tensor(1),"“I should like it very much,” said Alice, “but I haven’t been invited
+yet.”
+“You’ll see me there,”",<pad> unfunny</s>
+280,alice,tensor(1),"“I’m a poor man, your Majesty,”
+“You’re a _very_ poor _speaker_,”",<pad> funny</s><pad><pad><pad><pad>
+281,alice,tensor(1),"“I should like to have it explained,”
+“She can’t explain it,” said the Gryphon hastily. “Go on with the next
+verse.”",<pad> unfunny</s>
+282,alice,tensor(1),"“important—unimportant—unimportant—important—”
+“important,” and some “unimportant.”
+Alice could see this, as she was near enough to look over their slates;
+“but it doesn’t matter a bit,”",<pad> unfunny</s>
+283,alice,tensor(1),"“To begin with,” said the Cat, “a dog’s not mad. You grant that?”
+“I suppose so,”",<pad> funny</s><pad><pad><pad><pad>
+284,alice,tensor(1),"“Are their heads off?”
+“Their heads are gone, if it please your Majesty!”",<pad> funny</s><pad><pad><pad><pad>
+285,alice,tensor(1),"“What do you know about this business?”
+“Nothing,”",<pad> unfunny</s>
+286,alice,tensor(1),"“You’re
+looking for eggs, I know _that_ well enough; and what does it matter to
+me whether you’re a little girl or a serpent?”
+“It matters a good deal to _me_,” said Alice hastily; “but I’m not
+looking for eggs, as it happens; and if I was, I shouldn’t want
+_yours_: I don’t like them raw.”",<pad> unfunny</s>
+287,alice,tensor(1),"“It isn’t mine,”
+“_Stolen!_”",<pad> unfunny</s>
+288,alice,tensor(1),"“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,
+the earls of Mercia and Northumbria, declared for him: and even
+Stigand, the patriotic archbishop of Canterbury, found it advisable—’”
+“Found _what_?”",<pad> unfunny</s>
+289,alice,tensor(1),"“I’ve seen hatters before,” she
+said to herself; “the March Hare will be much the most interesting, and
+perhaps as this is May it won’t be raving mad—at least not so mad as it
+was in March.”
+“Did you say pig, or fig?”",<pad> unfunny</s>
+290,alice,tensor(1),"“You promised to tell me your history, you know,” said Alice, “and why
+it is you hate—C and D,”
+“Mine is a long and a sad tale!”",<pad> unfunny</s>
+291,alice,tensor(1),"“As wet as ever,” said Alice in a melancholy tone: “it doesn’t seem to
+dry me at all.”
+“In that case,” said the Dodo solemnly, rising to its feet, “I move
+that the meeting adjourn, for the immediate adoption of more energetic
+remedies—”",<pad> unfunny</s>
+292,alice,tensor(1),"“And just as I’d taken the highest tree in the wood,” continued the
+Pigeon, raising its voice to a shriek, “and just as I was thinking I
+should be free of them at last, they must needs come wriggling down
+from the sky! Ugh, Serpent!”
+“But I’m _not_ a serpent, I tell you!” said Alice. “I’m a—I’m a—”",<pad> funny</s><pad><pad><pad><pad>
+293,alice,tensor(1),"“I do,” Alice hastily replied; “at least—at least I mean what I
+say—that’s the same thing, you know.”
+“Not the same thing a bit!” said the Hatter. “You might just as well
+say that ‘I see what I eat’ is the same thing as ‘I eat what I see’!”",<pad> funny</s><pad><pad><pad><pad>
+294,alice,tensor(1),"“If you didn’t sign it,” said the King, “that only makes the matter
+worse. You _must_ have meant some mischief, or else you’d have signed
+your name like an honest man.”
+“That _proves_ his guilt,”",<pad> unfunny</s>
+295,alice,tensor(1),"“If everybody minded their own business,” the Duchess said in a hoarse
+growl, “the world would go round a deal faster than it does.”
+“Which would _not_ be an advantage,” said Alice, who felt very glad to
+get an opportunity of showing off a little of her knowledge. “Just
+think of what work it would make with the day and night! You see the
+earth takes twenty-four hours to turn round on its axis—”",<pad> funny</s><pad><pad><pad><pad>
+296,alice,tensor(1),"“It’s the Cheshire Cat: now I shall have somebody to talk
+to.”
+“How are you getting on?”",<pad> unfunny</s>
+297,alice,tensor(1),"“I wonder how
+many miles I’ve fallen by this time?” she said aloud. “I must be
+getting somewhere near the centre of the earth. Let me see: that would
+be four thousand miles down, I think—” (for, you see, Alice had learnt
+several things of this sort in her lessons in the schoolroom, and
+though this was not a _very_ good opportunity for showing off her
+knowledge, as there was no one to listen to her, still it was good
+practice to say it over) “—yes, that’s about the right distance—but
+then I wonder what Latitude or Longitude I’ve got to?”
+“I wonder if I shall fall right _through_
+the earth! How funny it’ll seem to come out among the people that walk
+with their heads downward! The Antipathies, I think—” (she was rather
+glad there _was_ no one listening, this time, as it didn’t sound at all
+the right word) “—but I shall have to ask them what the name of the
+country is, you know. Please, Ma’am, is this New Zealand or Australia?”
+(and she tried to curtsey as she spoke—fancy _curtseying_ as you’re
+falling through the air! Do you think you could manage it?) “And what
+an ignorant little girl she’ll think me for asking! No, it’ll never do
+to ask: perhaps I shall see it written up somewhere.”",<pad> funny</s><pad><pad><pad><pad>
+298,alice,tensor(1),"“Give your evidence,”
+“Shan’t,”",<pad> unfunny</s>
+299,alice,tensor(1),"“‘—found
+it advisable to go with Edgar Atheling to meet William and offer him
+the crown. William’s conduct at first was moderate. But the insolence
+of his Normans—’ How are you getting on now, my dear?”
+“As wet as ever,” said Alice in a melancholy tone: “it doesn’t seem to
+dry me at all.”",<pad> unfunny</s>
+300,alice,tensor(1),"“Found _it_,” the Mouse replied rather crossly: “of course you know
+what ‘it’ means.”
+“I know what ‘it’ means well enough, when _I_ find a thing,” said the
+Duck: “it’s generally a frog or a worm. The question is, what did the
+archbishop find?”",<pad> funny</s><pad><pad><pad><pad>
+301,alice,tensor(1),"“You can draw water out of a water-well,” said the Hatter; “so I should
+think you could draw treacle out of a treacle-well—eh, stupid?”
+“But they were _in_ the well,”",<pad> funny</s><pad><pad><pad><pad>
+302,alice,tensor(1),"“—or next day, maybe,”
+“How am I to get in?”",<pad> unfunny</s>
+303,alice,tensor(1),"“There goes Bill!”
+then the Rabbit’s voice along—“Catch him, you by the hedge!” then
+silence, and then another confusion of voices—“Hold up his head—Brandy
+now—Don’t choke him—How was it, old fellow? What happened to you? Tell
+us all about it!”
+“That’s Bill,” thought
+Alice,) “Well, I hardly know—No more, thank ye; I’m better now—but I’m
+a deal too flustered to tell you—all I know is, something comes at me
+like a Jack-in-the-box, and up I goes like a sky-rocket!”",<pad> funny</s><pad><pad><pad><pad>
+304,alice,tensor(1),"“I’m afraid I can’t put it more clearly,” Alice replied very politely,
+“for I can’t understand it myself to begin with; and being so many
+different sizes in a day is very confusing.”
+“It isn’t,”",<pad> unfunny</s>
+305,alice,tensor(1),"“Not a bit,”
+“Well, perhaps your feelings may be different,” said Alice; “all I know
+is, it would feel very queer to _me_.”",<pad> unfunny</s>
+306,alice,tensor(1),"“Ten hours the first day,” said the Mock Turtle: “nine the next, and so
+on.”
+“What a curious plan!”",<pad> funny</s><pad><pad><pad><pad>
+307,alice,tensor(1),"“You are,”
+“Nearly two miles high,”",<pad> unfunny</s>
+308,alice,tensor(1),"“Reeling and Writhing, of course, to begin with,” the Mock Turtle
+replied; “and then the different branches of Arithmetic—Ambition,
+Distraction, Uglification, and Derision.”
+“I never heard of ‘Uglification,’” Alice ventured to say. “What is it?”",<pad> unfunny</s>
+309,alice,tensor(1),"“Off with her head! Off—”
+“Nonsense!”",<pad> unfunny</s>
+310,alice,tensor(1),"“Drink me,” but the wise little Alice was
+not going to do _that_ in a hurry. “No, I’ll look first,” she said,
+“and see whether it’s marked ‘_poison_’ or not”; for she had read
+several nice little histories about children who had got burnt, and
+eaten up by wild beasts and other unpleasant things, all because they
+_would_ not remember the simple rules their friends had taught them:
+such as, that a red-hot poker will burn you if you hold it too long;
+and that if you cut your finger _very_ deeply with a knife, it usually
+bleeds; and she had never forgotten that, if you drink much from a
+bottle marked “poison,”
+“poison,”",<pad> unfunny</s>
+311,alice,tensor(1),"“Why, what are _your_ shoes done with?” said the Gryphon. “I mean, what
+makes them so shiny?”
+“They’re done with blacking, I believe.”",<pad> unfunny</s>
+312,alice,tensor(1),"“Stand up and repeat ‘’_Tis the voice of the sluggard_,’”
+“How the creatures order one about, and make one repeat lessons!”
+thought Alice; “I might as well be at school at once.”",<pad> funny</s><pad><pad><pad><pad>
+313,alice,tensor(1),"“What are
+they doing?” Alice whispered to the Gryphon. “They can’t have anything
+to put down yet, before the trial’s begun.”
+“They’re putting down their names,” the Gryphon whispered in reply,
+“for fear they should forget them before the end of the trial.”",<pad> funny</s><pad><pad><pad><pad>
+314,alice,tensor(1),"“How the creatures order one about, and make one repeat lessons!”
+thought Alice; “I might as well be at school at once.”
+“’Tis the voice of the Lobster; I heard him declare,
+“You have baked me too brown, I must sugar my hair.”
+As a duck with its eyelids, so he with his nose
+Trims his belt and his buttons, and turns out his toes.”",<pad> funny</s><pad><pad><pad><pad>
+315,alice,tensor(1),"“Nearly two miles high,”
+“Well, I shan’t go, at any rate,” said Alice: “besides, that’s not a
+regular rule: you invented it just now.”",<pad> unfunny</s>
+316,alice,tensor(1),"“What was that?”
+“Reeling and Writhing, of course, to begin with,” the Mock Turtle
+replied; “and then the different branches of Arithmetic—Ambition,
+Distraction, Uglification, and Derision.”",<pad> unfunny</s>
+317,alice,tensor(1),"“Shan’t,”
+“Your Majesty must cross-examine _this_ witness.”",<pad> unfunny</s>
+318,alice,tensor(1),"“Fury said to a mouse, That he met in the house, ‘Let us both
+         go to law: _I_ will prosecute _you_.—Come, I’ll take no
+         denial; We must have a trial: For really this morning I’ve
+         nothing to do.’ Said the mouse to the cur, ‘Such a trial, dear
+         sir, With no jury or judge, would be wasting our breath.’
+         ‘I’ll be judge, I’ll be jury,’ Said cunning old Fury: ‘I’ll
+         try the whole cause, and condemn you to death.’”
+“You are not attending!” said the Mouse to Alice severely. “What are
+you thinking of?”",<pad> unfunny</s>
+319,alice,tensor(1),"“Not _quite_ right, I’m afraid,” said Alice, timidly; “some of the
+words have got altered.”
+“It is wrong from beginning to end,”",<pad> unfunny</s>
+320,alice,tensor(1),"“Did you say pig, or fig?”
+“I said pig,” replied Alice; “and I wish you wouldn’t keep appearing
+and vanishing so suddenly: you make one quite giddy.”",<pad> funny</s><pad><pad><pad><pad>
+321,alice,tensor(1),"“If I’d been the whiting,” said Alice, whose thoughts were still
+running on the song, “I’d have said to the porpoise, ‘Keep back,
+please: we don’t want _you_ with us!’”
+“They were obliged to have him with them,” the Mock Turtle said: “no
+wise fish would go anywhere without a porpoise.”",<pad> unfunny</s>
+322,alice,tensor(1),"“It was a treacle-well.”
+“There’s no such thing!” Alice was beginning very angrily, but the
+Hatter and the March Hare went “Sh! sh!” and the Dormouse sulkily
+remarked, “If you can’t be civil, you’d better finish the story for
+yourself.”",<pad> unfunny</s>
+323,alice,tensor(1),"“Nonsense!”
+“Consider, my
+dear: she is only a child!”",<pad> unfunny</s>
+324,alice,tensor(1),"“Sure, it’s an arm, yer honour!” (He pronounced it “arrum.”
+“An arm, you goose! Who ever saw one that size? Why, it fills the whole
+window!”",<pad> funny</s><pad><pad><pad><pad>
+325,alice,tensor(1),"“Off with his head!”
+“I’ll fetch the executioner myself,”",<pad> unfunny</s>
+326,alice,tensor(1),"“Who are _you?_”
+“I—I hardly know, sir, just at present—at least I know
+who I _was_ when I got up this morning, but I think I must have been
+changed several times since then.”",<pad> unfunny</s>
+327,alice,tensor(1),"“Come on!”
+“What trial is it?” Alice panted as she ran; but the Gryphon only
+answered “Come on!”",<pad> unfunny</s>
+328,alice,tensor(1),"“Consider, my
+dear: she is only a child!”
+“Turn
+them over!”",<pad> unfunny</s>
+329,alice,tensor(1),"“You are not attending!” said the Mouse to Alice severely. “What are
+you thinking of?”
+“I beg your pardon,” said Alice very humbly: “you had got to the fifth
+bend, I think?”",<pad> unfunny</s>
+330,alice,tensor(1),"“Write that down,”
+“Take off your hat,”",<pad> unfunny</s>
+331,alice,tensor(1),"“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,
+’tis love, that makes the world go round!’”
+“Somebody said,” Alice whispered, “that it’s done by everybody minding
+their own business!”",<pad> funny</s><pad><pad><pad><pad>
+332,alice,tensor(1),"“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice,
+“—and I hadn’t begun my tea—not above a week or so—and what with the
+bread-and-butter getting so thin—and the twinkling of the tea—”
+“The twinkling of the _what?_”",<pad> unfunny</s>
+333,alice,tensor(1),"“Well! _What_ are you?” said the Pigeon. “I can see you’re trying to
+invent something!”
+“I—I’m a little girl,”",<pad> funny</s><pad><pad><pad><pad>
+334,alice,tensor(1),"“And who is Dinah, if I might venture to ask the question?”
+“Dinah’s our cat. And she’s such a capital one for catching mice you
+can’t think! And oh, I wish you could see her after the birds! Why,
+she’ll eat a little bird as soon as look at it!”",<pad> funny</s><pad><pad><pad><pad>
+335,alice,tensor(1),"“Why,” said the Dodo, “the best way to explain it is to do it.”
+“the exact
+shape doesn’t matter,” it said,) and then all the party were placed
+along the course, here and there. There was no “One, two, three, and
+away,” but they began running when they liked, and left off when they
+liked, so that it was not easy to know when the race was over. However,
+when they had been running half an hour or so, and were quite dry
+again, the Dodo suddenly called out “The race is over!” and they all
+crowded round it, panting, and asking, “But who has won?”",<pad> funny</s><pad><pad><pad><pad>
+336,alice,tensor(1),"“I wasn’t asleep,” he said in a
+hoarse, feeble voice: “I heard every word you fellows were saying.”
+“Tell us a story!”",<pad> unfunny</s>
+337,alice,tensor(1),"“That’s right!” shouted the Queen. “Can you play croquet?”
+“Yes!”",<pad> funny</s><pad><pad><pad><pad>
+338,alice,tensor(1),"“The Queen of Hearts, she made some tarts,
+    All on a summer day:
+The Knave of Hearts, he stole those tarts,
+    And took them quite away!”
+“Consider your verdict,”",<pad> funny</s><pad><pad><pad><pad>
+339,alice,tensor(1),"“I can tell you more than that, if you like,” said the Gryphon. “Do you
+know why it’s called a whiting?”
+“I never thought about it,” said Alice. “Why?”",<pad> unfunny</s>
+340,alice,tensor(1),"“Yes, that’s it,” said the Hatter with a sigh: “it’s always tea-time,
+and we’ve no time to wash the things between whiles.”
+“Then you keep moving round, I suppose?”",<pad> funny</s><pad><pad><pad><pad>
+341,alice,tensor(1),"“And how did you manage on the twelfth?”
+“That’s enough about lessons,” the Gryphon interrupted in a very
+decided tone: “tell her something about the games now.”",<pad> unfunny</s>
+342,alice,tensor(1),"“_Stolen!_”
+“I keep them to sell,” the Hatter added as an explanation; “I’ve none
+of my own. I’m a hatter.”",<pad> funny</s><pad><pad><pad><pad>
+343,alice,tensor(1),"“That’s very important,” the King said, turning to the jury. They were
+just beginning to write this down on their slates, when the White
+Rabbit interrupted: “_Un_important, your Majesty means, of course,”
+“_Un_important, of course, I meant,”",<pad> funny</s><pad><pad><pad><pad>
+344,alice,tensor(1),"“Please your Majesty,” said the Knave, “I didn’t write it, and they
+can’t prove I did: there’s no name signed at the end.”
+“If you didn’t sign it,” said the King, “that only makes the matter
+worse. You _must_ have meant some mischief, or else you’d have signed
+your name like an honest man.”",<pad> funny</s><pad><pad><pad><pad>
+345,alice,tensor(1),"“You are old,” said the youth, “one would hardly suppose
+    That your eye was as steady as ever;
+Yet you balanced an eel on the end of your nose—
+    What made you so awfully clever?”
+“I have answered three questions, and that is enough,”
+    Said his father; “don’t give yourself airs!
+Do you think I can listen all day to such stuff?
+    Be off, or I’ll kick you down stairs!”",<pad> funny</s><pad><pad><pad><pad>
+346,alice,tensor(1),"“The reason is,” said the Gryphon, “that they _would_ go with the
+lobsters to the dance. So they got thrown out to sea. So they had to
+fall a long way. So they got their tails fast in their mouths. So they
+couldn’t get them out again. That’s all.”
+“Thank you,” said Alice, “it’s very interesting. I never knew so much
+about a whiting before.”",<pad> funny</s><pad><pad><pad><pad>
+347,alice,tensor(1),"“It’s a mineral, I _think_,”
+“Of course it is,” said the Duchess, who seemed ready to agree to
+everything that Alice said; “there’s a large mustard-mine near here.
+And the moral of that is—‘The more there is of mine, the less there is
+of yours.’”",<pad> unfunny</s>
+348,alice,tensor(1),"“It’s a Cheshire cat,” said the Duchess, “and that’s why. Pig!”
+“I didn’t know that Cheshire cats always grinned; in fact, I didn’t
+know that cats _could_ grin.”",<pad> funny</s><pad><pad><pad><pad>
+349,alice,tensor(1),"“Yes, it _is_ his business!” said Five, “and I’ll tell him—it was for
+bringing the cook tulip-roots instead of onions.”
+“Well, of all the unjust
+things—”",<pad> unfunny</s>
+350,alice,tensor(1),"“But who is to give the prizes?”
+“Why, _she_, of course,” said the Dodo, pointing to Alice with one
+finger; and the whole party at once crowded round her, calling out in a
+confused way, “Prizes! Prizes!”",<pad> funny</s><pad><pad><pad><pad>
+351,alice,tensor(1),"“Repeat, “_You are old, Father William_,’”
+“You are old, Father William,” the young man said,
+    “And your hair has become very white;
+And yet you incessantly stand on your head—
+    Do you think, at your age, it is right?”",<pad> funny</s><pad><pad><pad><pad>
+352,alice,tensor(1),"“I won’t indeed!” said Alice, in a great hurry to change the subject of
+conversation. “Are you—are you fond—of—of dogs?” The Mouse did not
+answer, so Alice went on eagerly: “There is such a nice little dog near
+our house I should like to show you! A little bright-eyed terrier, you
+know, with oh, such long curly brown hair! And it’ll fetch things when
+you throw them, and it’ll sit up and beg for its dinner, and all sorts
+of things—I can’t remember half of them—and it belongs to a farmer, you
+know, and he says it’s so useful, it’s worth a hundred pounds! He says
+it kills all the rats and—oh dear!” cried Alice in a sorrowful tone,
+“I’m afraid I’ve offended it again!”
+“Mouse dear! Do come back again, and we
+won’t talk about cats or dogs either, if you don’t like them!” When the
+Mouse heard this, it turned round and swam slowly back to her: its face
+was quite pale (with passion, Alice thought), and it said in a low
+trembling voice, “Let us get to the shore, and then I’ll tell you my
+history, and you’ll understand why it is I hate cats and dogs.”",<pad> unfunny</s>
+353,alice,tensor(1),"“Read them,”
+“Where shall I begin, please
+your Majesty?”",<pad> unfunny</s>
+354,alice,tensor(1),"“Would you like to see a little of it?”
+“Very much indeed,”",<pad> unfunny</s>
+355,alice,tensor(1),"“I don’t like the look of it at all,” said the King: “however, it may
+kiss my hand if it likes.”
+“I’d rather not,”",<pad> unfunny</s>
+356,alice,tensor(1),"“I can’t explain _myself_, I’m afraid, sir,” said Alice, “because I’m
+not myself, you see.”
+“I don’t see,”",<pad> unfunny</s>
+357,alice,tensor(1),"“Not yet, not yet!” the Rabbit hastily interrupted. “There’s a great
+deal to come before that!”
+“Call the first witness,” said the King; and the White Rabbit blew
+three blasts on the trumpet, and called out, “First witness!”",<pad> funny</s><pad><pad><pad><pad>
+358,alice,tensor(1),"“Why did they live at the bottom of a well?”
+“It was a treacle-well.”",<pad> funny</s><pad><pad><pad><pad>
+359,alice,tensor(1),"“Sure, I don’t like it, yer honour, at all, at
+all!” “Do as I tell you, you coward!” and at last she spread out her
+hand again, and made another snatch in the air. This time there were
+_two_ little shrieks, and more sounds of broken glass. “What a number
+of cucumber-frames there must be!” thought Alice. “I wonder what
+they’ll do next! As for pulling me out of the window, I only wish they
+_could!_ I’m sure _I_ don’t want to stay in here any longer!”
+“Where’s the other
+ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill!
+fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em
+together first—they don’t reach half high enough yet—Oh! they’ll do
+well enough; don’t be particular—Here, Bill! catch hold of this
+rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down!
+Heads below!” (a loud crash)—“Now, who did that?—It was Bill, I
+fancy—Who’s to go down the chimney?—Nay, _I_ shan’t! _You_ do
+it!—_That_ I won’t, then!—Bill’s to go down—Here, Bill! the master says
+you’re to go down the chimney!”",<pad> funny</s><pad><pad><pad><pad>
+360,alice,tensor(1),"“It goes on, you know,” the Hatter continued, “in this way:—
+
+‘Up above the world you fly,
+Like a tea-tray in the sky.
+                    Twinkle, twinkle—’”
+“_Twinkle, twinkle, twinkle, twinkle_—”",<pad> funny</s><pad><pad><pad><pad>
+361,alice,tensor(1),"“What _is_ the use of repeating all that stuff,” the Mock Turtle
+interrupted, “if you don’t explain it as you go on? It’s by far the
+most confusing thing _I_ ever heard!”
+“Yes, I think you’d better leave off,”",<pad> unfunny</s>
+362,alice,tensor(1),"“Silence!” and read out from his book, “Rule
+Forty-two. _All persons more than a mile high to leave the court_.”
+“_I’m_ not a mile high,”",<pad> funny</s><pad><pad><pad><pad>
+363,alice,tensor(1),"“What fun!”
+“What _is_ the fun?”",<pad> unfunny</s>
+364,alice,tensor(1),"“It is a very good height indeed!”
+“But I’m not used to it!” pleaded poor Alice in a piteous tone. And she
+thought of herself, “I wish the creatures wouldn’t be so easily
+offended!”",<pad> unfunny</s>
+365,alice,tensor(1),"“In _that_ direction,” the Cat said, waving its right paw round, “lives
+a Hatter: and in _that_ direction,” waving the other paw, “lives a
+March Hare. Visit either you like: they’re both mad.”
+“But I don’t want to go among mad people,”",<pad> funny</s><pad><pad><pad><pad>
+366,alice,tensor(1),"“I—I’m a little girl,”
+“A likely story indeed!” said the Pigeon in a tone of the deepest
+contempt. “I’ve seen a good many little girls in my time, but never
+_one_ with such a neck as that! No, no! You’re a serpent; and there’s
+no use denying it. I suppose you’ll be telling me next that you never
+tasted an egg!”",<pad> funny</s><pad><pad><pad><pad>
+367,alice,tensor(1),"“When we were little,” the Mock Turtle went on at last, more calmly,
+though still sobbing a little now and then, “we went to school in the
+sea. The master was an old Turtle—we used to call him Tortoise—”
+“Why did you call him Tortoise, if he wasn’t one?”",<pad> unfunny</s>
+368,alice,tensor(1),"“Very,” said Alice: “—where’s the Duchess?”
+“Hush! Hush!” said the Rabbit in a low, hurried tone. He looked
+anxiously over his shoulder as he spoke, and then raised himself upon
+tiptoe, put his mouth close to her ear, and whispered “She’s under
+sentence of execution.”",<pad> unfunny</s>
+369,alice,tensor(1),"“Why, Mary Ann, what _are_ you
+doing out here? Run home this moment, and fetch me a pair of gloves and
+a fan! Quick, now!”
+“He took me for his housemaid,” she said to herself as she ran. “How
+surprised he’ll be when he finds out who I am! But I’d better take him
+his fan and gloves—that is, if I can find them.” As she said this, she
+came upon a neat little house, on the door of which was a bright brass
+plate with the name “W. RABBIT,”",<pad> unfunny</s>
+370,alice,tensor(1),"“Have
+you seen the Mock Turtle yet?”
+“No,” said Alice. “I don’t even know what a Mock Turtle is.”",<pad> unfunny</s>
+371,alice,tensor(1),"“Sit down, all of you, and listen to me! _I’ll_ soon make
+you dry enough!”
+“Ahem!” said the Mouse with an important air, “are you all ready? This
+is the driest thing I know. Silence all round, if you please! ‘William
+the Conqueror, whose cause was favoured by the pope, was soon submitted
+to by the English, who wanted leaders, and had been of late much
+accustomed to usurpation and conquest. Edwin and Morcar, the earls of
+Mercia and Northumbria—’”",<pad> unfunny</s>
+372,alice,tensor(1),"“ORANGE MARMALADE”
+“Well!” thought Alice to herself, “after such a fall as this, I shall
+think nothing of tumbling down stairs! How brave they’ll all think me
+at home! Why, I wouldn’t say anything about it, even if I fell off the
+top of the house!”",<pad> funny</s><pad><pad><pad><pad>
+373,alice,tensor(1),"“—and just take his head off outside,”
+“Call the next witness!”",<pad> unfunny</s>
+374,alice,tensor(1),"“Yes, I think you’d better leave off,”
+“Shall we try another figure of the Lobster Quadrille?” the Gryphon
+went on. “Or would you like the Mock Turtle to sing you a song?”",<pad> unfunny</s>
+375,alice,tensor(1),"“Well, at any rate, the Dormouse said—”
+“After that,” continued the Hatter, “I cut some more bread-and-butter—”",<pad> funny</s><pad><pad><pad><pad>
+376,alice,tensor(1),"“That _proves_ his guilt,”
+“It proves nothing of the sort!” said Alice. “Why, you don’t even know
+what they’re about!”",<pad> unfunny</s>
+377,alice,tensor(1),"“_I_ see!” said the Queen, who had meanwhile been examining the roses.
+“Off with their heads!”
+“You shan’t be beheaded!”",<pad> unfunny</s>
+378,alice,tensor(1),"“You should learn not to make personal remarks,” Alice said with some
+severity; “it’s very rude.”
+“Why is a raven like a writing-desk?”",<pad> unfunny</s>
+379,alice,tensor(1),"“Certainly not!”
+“Ah! then yours wasn’t a really good school,” said the Mock Turtle in a
+tone of great relief. “Now at _ours_ they had at the end of the bill,
+‘French, music, _and washing_—extra.’”",<pad> funny</s><pad><pad><pad><pad>
+380,alice,tensor(1),"“You couldn’t have wanted it much,” said Alice; “living at the bottom
+of the sea.”
+“I couldn’t afford to learn it.” said the Mock Turtle with a sigh. “I
+only took the regular course.”",<pad> funny</s><pad><pad><pad><pad>
+381,alice,tensor(1),"“It turned into a pig,”
+“I thought it would,”",<pad> funny</s><pad><pad><pad><pad>
+382,alice,tensor(1),"“Which would _not_ be an advantage,” said Alice, who felt very glad to
+get an opportunity of showing off a little of her knowledge. “Just
+think of what work it would make with the day and night! You see the
+earth takes twenty-four hours to turn round on its axis—”
+“Talking of axes,” said the Duchess, “chop off her head!”",<pad> funny</s><pad><pad><pad><pad>
+383,alice,tensor(1),"“May it please your Majesty,” said Two, in a very humble tone, going
+down on one knee as he spoke, “we were trying—”
+“_I_ see!” said the Queen, who had meanwhile been examining the roses.
+“Off with their heads!”",<pad> funny</s><pad><pad><pad><pad>
+384,alice,tensor(1),"“What a curious plan!”
+“That’s the reason they’re called lessons,” the Gryphon remarked:
+“because they lessen from day to day.”",<pad> funny</s><pad><pad><pad><pad>
+385,alice,tensor(1),"“Leave off that!” screamed the Queen. “You make me giddy.” And then,
+turning to the rose-tree, she went on, “What _have_ you been doing
+here?”
+“May it please your Majesty,” said Two, in a very humble tone, going
+down on one knee as he spoke, “we were trying—”",<pad> funny</s><pad><pad><pad><pad>
+386,alice,tensor(1),"“Then the Dormouse shall!” they both cried. “Wake up, Dormouse!”
+“I wasn’t asleep,” he said in a
+hoarse, feeble voice: “I heard every word you fellows were saying.”",<pad> funny</s><pad><pad><pad><pad>
+387,alice,tensor(1),"“I shall do nothing of the sort,” said the Mouse, getting up and
+walking away. “You insult me by talking such nonsense!”
+“I didn’t mean it!” pleaded poor Alice. “But you’re so easily offended,
+you know!”",<pad> funny</s><pad><pad><pad><pad>
+388,alice,tensor(1),"“Once upon a time there were three little sisters,” the Dormouse began
+in a great hurry; “and their names were Elsie, Lacie, and Tillie; and
+they lived at the bottom of a well—”
+“What did they live on?”",<pad> funny</s><pad><pad><pad><pad>
+389,alice,tensor(1),"“What trial is it?” Alice panted as she ran; but the Gryphon only
+answered “Come on!”
+“Soo—oop of the e—e—evening,
+    Beautiful, beautiful Soup!”",<pad> unfunny</s>
+390,alice,tensor(1),"“Speak roughly to your little boy,
+    And beat him when he sneezes:
+He only does it to annoy,
+    Because he knows it teases.”
+“Wow! wow! wow!”",<pad> unfunny</s>
+391,alice,tensor(1),"“In my youth,” said his father, “I took to the law,
+    And argued each case with my wife;
+And the muscular strength, which it gave to my jaw,
+    Has lasted the rest of my life.”
+“You are old,” said the youth, “one would hardly suppose
+    That your eye was as steady as ever;
+Yet you balanced an eel on the end of your nose—
+    What made you so awfully clever?”",<pad> funny</s><pad><pad><pad><pad>
+392,alice,tensor(1),"“Swim after them!”
+“Turn a somersault in the sea!”",<pad> funny</s><pad><pad><pad><pad>
+393,alice,tensor(1),"“I’d rather finish my tea,”
+“You may go,”",<pad> unfunny</s>
+394,alice,tensor(1),"“All right,”
+“Well! I’ve often seen a cat without a grin,” thought Alice; “but a
+grin without a cat! It’s the most curious thing I ever saw in my life!”",<pad> funny</s><pad><pad><pad><pad>
+395,alice,tensor(1),"“Ah, well! It means much the same thing,” said the Duchess, digging her
+sharp little chin into Alice’s shoulder as she added, “and the moral of
+_that_ is—‘Take care of the sense, and the sounds will take care of
+themselves.’”
+“How fond she is of finding morals in things!”",<pad> funny</s><pad><pad><pad><pad>
+396,alice,tensor(1),"“I deny it!”
+“He denies it,” said the King: “leave out that part.”",<pad> funny</s><pad><pad><pad><pad>
+397,alice,tensor(1),"“But I’m not used to it!” pleaded poor Alice in a piteous tone. And she
+thought of herself, “I wish the creatures wouldn’t be so easily
+offended!”
+“You’ll get used to it in time,”",<pad> unfunny</s>
+398,alice,tensor(1),"“Well, I should like to be a _little_ larger, sir, if you wouldn’t
+mind,” said Alice: “three inches is such a wretched height to be.”
+“It is a very good height indeed!”",<pad> unfunny</s>
+399,alice,tensor(1),"“Hold your tongue!”
+“We had the best of educations—in fact, we went to school every day—”",<pad> unfunny</s>
+400,alice,tensor(1),"“A cheap sort of present!” thought Alice. “I’m glad they don’t give
+birthday presents like that!”
+“Thinking again?”",<pad> unfunny</s>
+401,alice,tensor(1),"“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on;
+then, when you’ve cleared all the jelly-fish out of the way—”
+“_That_ generally takes some time,”",<pad> funny</s><pad><pad><pad><pad>
+402,alice,tensor(1),"“Treacle,”
+“Collar that Dormouse,” the Queen shrieked out. “Behead that Dormouse!
+Turn that Dormouse out of court! Suppress him! Pinch him! Off with his
+whiskers!”",<pad> funny</s><pad><pad><pad><pad>
+403,alice,tensor(1),"“I don’t see,”
+“I’m afraid I can’t put it more clearly,” Alice replied very politely,
+“for I can’t understand it myself to begin with; and being so many
+different sizes in a day is very confusing.”",<pad> unfunny</s>
+404,alice,tensor(1),"“And how many hours a day did you do lessons?”
+“Ten hours the first day,” said the Mock Turtle: “nine the next, and so
+on.”",<pad> unfunny</s>
+405,alice,tensor(1),"“Did you say ‘What a pity!’?”
+“No, I didn’t,” said Alice: “I don’t think it’s at all a pity. I said
+‘What for?’”",<pad> funny</s><pad><pad><pad><pad>
+406,alice,tensor(1),"“I’ve had nothing yet,” Alice replied in an offended tone, “so I can’t
+take more.”
+“You mean you can’t take _less_,” said the Hatter: “it’s very easy to
+take _more_ than nothing.”",<pad> funny</s><pad><pad><pad><pad>
+407,alice,tensor(1),"“I suppose so,”
+“Well, then,” the Cat went on, “you see, a dog growls when it’s angry,
+and wags its tail when it’s pleased. Now _I_ growl when I’m pleased,
+and wag my tail when I’m angry. Therefore I’m mad.”",<pad> funny</s><pad><pad><pad><pad>
+408,alice,tensor(1),"“Then it ought to be Number One,”
+“Consider your
+verdict,”",<pad> unfunny</s>
+409,alice,tensor(1),"“No, I give it up,” Alice replied: “what’s the answer?”
+“I haven’t the slightest idea,”",<pad> unfunny</s>
+410,alice,tensor(1),"“Not like cats!” cried the Mouse, in a shrill, passionate voice. “Would
+_you_ like cats if you were me?”
+“Well, perhaps not,” said Alice in a soothing tone: “don’t be angry
+about it. And yet I wish I could show you our cat Dinah: I think you’d
+take a fancy to cats if you could only see her. She is such a dear
+quiet thing,” Alice went on, half to herself, as she swam lazily about
+in the pool, “and she sits purring so nicely by the fire, licking her
+paws and washing her face—and she is such a nice soft thing to
+nurse—and she’s such a capital one for catching mice—oh, I beg your
+pardon!” cried Alice again, for this time the Mouse was bristling all
+over, and she felt certain it must be really offended. “We won’t talk
+about her any more if you’d rather not.”",<pad> unfunny</s>
+411,alice,tensor(1),"“Give your evidence,” the King repeated angrily, “or I’ll have you
+executed, whether you’re nervous or not.”
+“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice,
+“—and I hadn’t begun my tea—not above a week or so—and what with the
+bread-and-butter getting so thin—and the twinkling of the tea—”",<pad> unfunny</s>
+412,alice,tensor(1),"“Curiouser and curiouser!” cried Alice (she was so much surprised, that
+for the moment she quite forgot how to speak good English); “now I’m
+opening out like the largest telescope that ever was! Good-bye, feet!”
+(for when she looked down at her feet, they seemed to be almost out of
+sight, they were getting so far off). “Oh, my poor little feet, I
+wonder who will put on your shoes and stockings for you now, dears? I’m
+sure _I_ shan’t be able! I shall be a great deal too far off to trouble
+myself about you: you must manage the best way you can;—but I must be
+kind to them,” thought Alice, “or perhaps they won’t walk the way I
+want to go! Let me see: I’ll give them a new pair of boots every
+Christmas.”
+“They must
+go by the carrier,” she thought; “and how funny it’ll seem, sending
+presents to one’s own feet! And how odd the directions will look!
+
+     _Alice’s Right Foot, Esq., Hearthrug, near the Fender,_ (_with
+     Alice’s love_).
+
+Oh dear, what nonsense I’m talking!”",<pad> funny</s><pad><pad><pad><pad>
+413,alice,tensor(1),"“Chorus again!” cried the Gryphon, and the Mock Turtle had just begun
+to repeat it, when a cry of “The trial’s beginning!”
+“Come on!”",<pad> unfunny</s>
+414,alice,tensor(1),"“Ugh!”
+“I beg your pardon!” said the Mouse, frowning, but very politely: “Did
+you speak?”",<pad> unfunny</s>
+415,alice,tensor(1),"“Idiot!” said the Queen, tossing her head impatiently; and, turning to
+Alice, she went on, “What’s your name, child?”
+“My name is Alice, so please your Majesty,” said Alice very politely;
+but she added, to herself, “Why, they’re only a pack of cards, after
+all. I needn’t be afraid of them!”",<pad> funny</s><pad><pad><pad><pad>
+416,alice,tensor(1),"“I’m a poor man,” the Hatter went on, “and most things twinkled after
+that—only the March Hare said—”
+“I didn’t!”",<pad> funny</s><pad><pad><pad><pad>
+417,alice,tensor(1),"“I think I should understand that better,” Alice said very politely,
+“if I had it written down: but I can’t quite follow it as you say it.”
+“That’s nothing to what I could say if I chose,”",<pad> unfunny</s>
+418,alice,tensor(1),"“Then it doesn’t matter which way you go,”
+“—so long as I get _somewhere_,”",<pad> unfunny</s>
+419,alice,tensor(1),"“Dinah’s our cat. And she’s such a capital one for catching mice you
+can’t think! And oh, I wish you could see her after the birds! Why,
+she’ll eat a little bird as soon as look at it!”
+“I really must be getting home; the night-air
+doesn’t suit my throat!” and a Canary called out in a trembling voice
+to its children, “Come away, my dears! It’s high time you were all in
+bed!”",<pad> unfunny</s>
+420,alice,tensor(1),"“Same as if he had a bone in his throat,”
+“You may not have lived much under the sea—” (“I haven’t,” said
+Alice)—“and perhaps you were never even introduced to a lobster—”
+(Alice began to say “I once tasted—” but checked herself hastily, and
+said “No, never”) “—so you can have no idea what a delightful thing a
+Lobster Quadrille is!”",<pad> unfunny</s>
+421,alice,tensor(1),"“Why should it?” muttered the Hatter. “Does _your_ watch tell you what
+year it is?”
+“Of course not,” Alice replied very readily: “but that’s because it
+stays the same year for such a long time together.”",<pad> unfunny</s>
+422,alice,tensor(1),"“Well, of all the unjust
+things—”
+“Would you tell me,” said Alice, a little timidly, “why you are
+painting those roses?”",<pad> unfunny</s>
+423,alice,tensor(1),"“What I was going to say,” said the Dodo in an offended tone, “was,
+that the best thing to get us dry would be a Caucus-race.”
+“What _is_ a Caucus-race?”",<pad> unfunny</s>
+424,alice,tensor(1),"“Twenty-four hours, I _think_; or
+is it twelve? I—”
+“Oh, don’t bother _me_,” said the Duchess; “I never could abide
+figures!”",<pad> unfunny</s>
+425,alice,tensor(1),"“_That_ generally takes some time,”
+“—you advance twice—”",<pad> unfunny</s>
+426,alice,tensor(1),"“But they were _in_ the well,”
+“Of course they were,” said the Dormouse; “—well in.”",<pad> funny</s><pad><pad><pad><pad>
+427,alice,tensor(1),"“Oh, don’t bother _me_,” said the Duchess; “I never could abide
+figures!”
+“Speak roughly to your little boy,
+    And beat him when he sneezes:
+He only does it to annoy,
+    Because he knows it teases.”",<pad> unfunny</s>
+428,alice,tensor(1),"“Perhaps it doesn’t understand English,” thought Alice; “I daresay it’s
+a French mouse, come over with William the Conqueror.” (For, with all
+her knowledge of history, Alice had no very clear notion how long ago
+anything had happened.) So she began again: “Où est ma chatte?” which
+was the first sentence in her French lesson-book. The Mouse gave a
+sudden leap out of the water, and seemed to quiver all over with
+fright. “Oh, I beg your pardon!” cried Alice hastily, afraid that she
+had hurt the poor animal’s feelings. “I quite forgot you didn’t like
+cats.”
+“Not like cats!” cried the Mouse, in a shrill, passionate voice. “Would
+_you_ like cats if you were me?”",<pad> funny</s><pad><pad><pad><pad>
+429,alice,tensor(1),"“And washing?”
+“Certainly not!”",<pad> unfunny</s>
+430,alice,tensor(1),"“If there’s no meaning in it,” said the King, “that saves a world of
+trouble, you know, as we needn’t try to find any. And yet I don’t
+know,” he went on, spreading out the verses on his knee, and looking at
+them with one eye; “I seem to see some meaning in them, after all.
+“—_said I could not swim_—” you can’t swim, can you?”
+“Do I look like it?”",<pad> unfunny</s>
+431,alice,tensor(1),"“Beautiful Soup, so rich and green,
+Waiting in a hot tureen!
+Who for such dainties would not stoop?
+Soup of the evening, beautiful Soup!
+Soup of the evening, beautiful Soup!
+    Beau—ootiful Soo—oop!
+    Beau—ootiful Soo—oop!
+Soo—oop of the e—e—evening,
+    Beautiful, beautiful Soup!
+
+“Beautiful Soup! Who cares for fish,
+Game, or any other dish?
+Who would not give all else for two p
+ennyworth only of beautiful Soup?
+Pennyworth only of beautiful Soup?
+    Beau—ootiful Soo—oop!
+    Beau—ootiful Soo—oop!
+Soo—oop of the e—e—evening,
+    Beautiful, beauti—FUL SOUP!”
+“Chorus again!” cried the Gryphon, and the Mock Turtle had just begun
+to repeat it, when a cry of “The trial’s beginning!”",<pad> funny</s><pad><pad><pad><pad>
+432,alice,tensor(1),"“You shan’t be beheaded!”
+“Are their heads off?”",<pad> funny</s><pad><pad><pad><pad>
+433,alice,tensor(1),"“Treacle,”
+“I want a clean cup,” interrupted the Hatter: “let’s all move one place
+on.”",<pad> unfunny</s>
+434,alice,tensor(1),"“By-the-bye, what became of the baby?” said the Cat. “I’d nearly
+forgotten to ask.”
+“It turned into a pig,”",<pad> funny</s><pad><pad><pad><pad>
+435,alice,tensor(1),"“Why is a raven like a writing-desk?”
+“Come, we shall have some fun now!” thought Alice. “I’m glad they’ve
+begun asking riddles.—I believe I can guess that,”",<pad> funny</s><pad><pad><pad><pad>
+436,alice,tensor(1),"“Well, perhaps your feelings may be different,” said Alice; “all I know
+is, it would feel very queer to _me_.”
+“You!” said the Caterpillar contemptuously. “Who are _you?_”",<pad> unfunny</s>
+437,alice,tensor(1),"“I’ve a right to think,”
+“Just about as much right,” said the Duchess, “as pigs have to fly; and
+the m—”",<pad> funny</s><pad><pad><pad><pad>
+438,alice,tensor(1),"“What else had you to learn?”
+“Well, there was Mystery,” the Mock Turtle replied, counting off the
+subjects on his flappers, “—Mystery, ancient and modern, with
+Seaography: then Drawling—the Drawling-master was an old conger-eel,
+that used to come once a week: _he_ taught us Drawling, Stretching, and
+Fainting in Coils.”",<pad> unfunny</s>
+439,alice,tensor(1),"“I wonder if I shall fall right _through_
+the earth! How funny it’ll seem to come out among the people that walk
+with their heads downward! The Antipathies, I think—” (she was rather
+glad there _was_ no one listening, this time, as it didn’t sound at all
+the right word) “—but I shall have to ask them what the name of the
+country is, you know. Please, Ma’am, is this New Zealand or Australia?”
+(and she tried to curtsey as she spoke—fancy _curtseying_ as you’re
+falling through the air! Do you think you could manage it?) “And what
+an ignorant little girl she’ll think me for asking! No, it’ll never do
+to ask: perhaps I shall see it written up somewhere.”
+“Dinah’ll miss me very much to-night, I should think!”
+(Dinah was the cat.) “I hope they’ll remember her saucer of milk at
+tea-time. Dinah my dear! I wish you were down here with me! There are
+no mice in the air, I’m afraid, but you might catch a bat, and that’s
+very like a mouse, you know. But do cats eat bats, I wonder?” And here
+Alice began to get rather sleepy, and went on saying to herself, in a
+dreamy sort of way, “Do cats eat bats? Do cats eat bats?” and
+sometimes, “Do bats eat cats?” for, you see, as she couldn’t answer
+either question, it didn’t much matter which way she put it. She felt
+that she was dozing off, and had just begun to dream that she was
+walking hand in hand with Dinah, and saying to her very earnestly,
+“Now, Dinah, tell me the truth: did you ever eat a bat?”",<pad> funny</s><pad><pad><pad><pad>
+440,alice,tensor(1),"“I haven’t the least idea what you’re talking about,”
+“I’ve tried the roots of trees, and I’ve tried banks, and I’ve tried
+hedges,” the Pigeon went on, without attending to her; “but those
+serpents! There’s no pleasing them!”",<pad> unfunny</s>
+441,alice,tensor(1),"“But then,” thought Alice, “shall I _never_ get any older than I am
+now? That’ll be a comfort, one way—never to be an old woman—but
+then—always to have lessons to learn! Oh, I shouldn’t like _that!_”
+“Oh, you foolish Alice!” she answered herself. “How can you learn
+lessons in here? Why, there’s hardly room for _you_, and no room at all
+for any lesson-books!”",<pad> funny</s><pad><pad><pad><pad>
+442,alice,tensor(1),"“I’m sure I’m not Ada,” she said, “for her hair goes in such long
+ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t
+be Mabel, for I know all sorts of things, and she, oh! she knows such a
+very little! Besides, _she’s_ she, and _I’m_ I, and—oh dear, how
+puzzling it all is! I’ll try if I know all the things I used to know.
+Let me see: four times five is twelve, and four times six is thirteen,
+and four times seven is—oh dear! I shall never get to twenty at that
+rate! However, the Multiplication Table doesn’t signify: let’s try
+Geography. London is the capital of Paris, and Paris is the capital of
+Rome, and Rome—no, _that’s_ all wrong, I’m certain! I must have been
+changed for Mabel! I’ll try and say ‘_How doth the little_—’”
+“How doth the little crocodile
+    Improve his shining tail,
+And pour the waters of the Nile
+    On every golden scale!
+
+“How cheerfully he seems to grin,
+    How neatly spread his claws,
+And welcome little fishes in
+    With gently smiling jaws!”",<pad> funny</s><pad><pad><pad><pad>
+443,alice,tensor(1),"“But about his toes?” the Mock Turtle persisted. “How _could_ he turn
+them out with his nose, you know?”
+“It’s the first position in dancing.”",<pad> funny</s><pad><pad><pad><pad>
+444,alice,tensor(1),"“and besides, what would be the use of a
+procession,” thought she, “if people had all to lie down upon their
+faces, so that they couldn’t see it?”
+“Who is this?”",<pad> unfunny</s>
+445,alice,tensor(1),"“Call it what you like,” said the Cat. “Do you play croquet with the
+Queen to-day?”
+“I should like it very much,” said Alice, “but I haven’t been invited
+yet.”",<pad> funny</s><pad><pad><pad><pad>
+446,alice,tensor(1),"“I speak severely to my boy,
+    I beat him when he sneezes;
+For he can thoroughly enjoy
+    The pepper when he pleases!”
+“Wow! wow! wow!”",<pad> funny</s><pad><pad><pad><pad>
+447,alice,tensor(1),"“I’ve heard something like it,”
+“It goes on, you know,” the Hatter continued, “in this way:—
+
+‘Up above the world you fly,
+Like a tea-tray in the sky.
+                    Twinkle, twinkle—’”",<pad> funny</s><pad><pad><pad><pad>
+448,alice,tensor(1),"“Begin at the beginning,” the King said gravely, “and go on till you
+come to the end: then stop.”
+“They told me you had been to her,
+    And mentioned me to him:
+She gave me a good character,
+    But said I could not swim.
+
+He sent them word I had not gone
+    (We know it to be true):
+If she should push the matter on,
+    What would become of you?
+
+I gave her one, they gave him two,
+    You gave us three or more;
+They all returned from him to you,
+    Though they were mine before.
+
+If I or she should chance to be
+    Involved in this affair,
+He trusts to you to set them free,
+    Exactly as we were.
+
+My notion was that you had been
+    (Before she had this fit)
+An obstacle that came between
+    Him, and ourselves, and it.
+
+Don’t let him know she liked them best,
+    For this must ever be
+A secret, kept from all the rest,
+    Between yourself and me.”",<pad> unfunny</s>
+449,alice,tensor(1),"“If that’s all you know about it, you may stand down,”
+“I can’t go no lower,” said the Hatter: “I’m on the floor, as it is.”",<pad> unfunny</s>
+450,alice,tensor(1),"“It was the _best_ butter,
+you know.”
+“What a
+funny watch!” she remarked. “It tells the day of the month, and doesn’t
+tell what o’clock it is!”",<pad> unfunny</s>
+451,alice,tensor(1),"“Speak English!” said the Eaglet. “I don’t know the meaning of half
+those long words, and, what’s more, I don’t believe you do either!”
+“What I was going to say,” said the Dodo in an offended tone, “was,
+that the best thing to get us dry would be a Caucus-race.”",<pad> funny</s><pad><pad><pad><pad>
+452,alice,tensor(1),"“Only mustard isn’t a bird,”
+“Right, as usual,” said the Duchess: “what a clear way you have of
+putting things!”",<pad> funny</s><pad><pad><pad><pad>
+453,alice,tensor(1),"“What matters it how far we go?” his scaly friend replied.
+“There is another shore, you know, upon the other side.
+The further off from England the nearer is to France—
+Then turn not pale, beloved snail, but come and join the dance.
+Will you, won’t you, will you, won’t you, will you join the dance?
+Will you, won’t you, will you, won’t you, won’t you join the dance?”
+“Thank you, it’s a very interesting dance to watch,” said Alice,
+feeling very glad that it was over at last: “and I do so like that
+curious song about the whiting!”",<pad> unfunny</s>
+454,alice,tensor(1),"“How do you like the Queen?”
+“Not at all,” said Alice: “she’s so extremely—” Just then she noticed
+that the Queen was close behind her, listening: so she went on,
+“—likely to win, that it’s hardly worth while finishing the game.”",<pad> unfunny</s>
+455,alice,tensor(1),"“It isn’t,”
+“Well, perhaps you haven’t found it so yet,” said Alice; “but when you
+have to turn into a chrysalis—you will some day, you know—and then
+after that into a butterfly, I should think you’ll feel it a little
+queer, won’t you?”",<pad> unfunny</s>
+456,alice,tensor(1),"“I could tell you my adventures—beginning from this morning,” said
+Alice a little timidly: “but it’s no use going back to yesterday,
+because I was a different person then.”
+“Explain all that,”",<pad> unfunny</s>
+457,alice,tensor(1),"“If any one of them can explain it,” said Alice, (she had grown so
+large in the last few minutes that she wasn’t a bit afraid of
+interrupting him,) “I’ll give him sixpence. _I_ don’t believe there’s
+an atom of meaning in it.”
+“_She_ doesn’t believe there’s
+an atom of meaning in it,”",<pad> unfunny</s>
+458,alice,tensor(1),"“You’ve no right to grow _here_,”
+“Don’t talk nonsense,” said Alice more boldly: “you know you’re growing
+too.”",<pad> unfunny</s>
+459,alice,tensor(1),"“Look out now, Five! Don’t go splashing paint over me
+like that!”
+“I couldn’t help it,” said Five, in a sulky tone; “Seven jogged my
+elbow.”",<pad> unfunny</s>
+460,alice,tensor(1),"“We indeed!” cried the Mouse, who was trembling down to the end of his
+tail. “As if _I_ would talk on such a subject! Our family always
+_hated_ cats: nasty, low, vulgar things! Don’t let me hear the name
+again!”
+“I won’t indeed!” said Alice, in a great hurry to change the subject of
+conversation. “Are you—are you fond—of—of dogs?” The Mouse did not
+answer, so Alice went on eagerly: “There is such a nice little dog near
+our house I should like to show you! A little bright-eyed terrier, you
+know, with oh, such long curly brown hair! And it’ll fetch things when
+you throw them, and it’ll sit up and beg for its dinner, and all sorts
+of things—I can’t remember half of them—and it belongs to a farmer, you
+know, and he says it’s so useful, it’s worth a hundred pounds! He says
+it kills all the rats and—oh dear!” cried Alice in a sorrowful tone,
+“I’m afraid I’ve offended it again!”",<pad> funny</s><pad><pad><pad><pad>
+461,alice,tensor(1),"“Turn
+them over!”
+“Get up!”",<pad> unfunny</s>
+462,alice,tensor(1),"“Wow! wow! wow!”
+“Here! you may nurse it a bit, if you like!” the Duchess said to Alice,
+flinging the baby at her as she spoke. “I must go and get ready to play
+croquet with the Queen,”",<pad> unfunny</s>
+463,alice,tensor(1),"“And be quick about it,” added the Hatter, “or you’ll be asleep again
+before it’s done.”
+“Once upon a time there were three little sisters,” the Dormouse began
+in a great hurry; “and their names were Elsie, Lacie, and Tillie; and
+they lived at the bottom of a well—”",<pad> funny</s><pad><pad><pad><pad>
+464,alice,tensor(1),"“No, indeed,” said Alice. “What sort of a dance is it?”
+“Why,” said the Gryphon, “you first form into a line along the
+sea-shore—”",<pad> unfunny</s>
+465,alice,tensor(1),"“What was _that_ like?”
+“Well, I can’t show it you myself,” the Mock Turtle said: “I’m too
+stiff. And the Gryphon never learnt it.”",<pad> unfunny</s>
+466,alice,tensor(1),"“A fine day, your Majesty!”
+“Now, I give you fair warning,” shouted the Queen, stamping on the
+ground as she spoke; “either you or your head must be off, and that in
+about half no time! Take your choice!”",<pad> funny</s><pad><pad><pad><pad>
+467,alice,tensor(1),"“Come on, then,” said the Queen, “and he shall tell you his history,”
+“You are all pardoned.” “Come, _that’s_ a
+good thing!”",<pad> unfunny</s>
+468,alice,tensor(1),"“What size do you want to be?”
+“Oh, I’m not particular as to size,” Alice hastily replied; “only one
+doesn’t like changing so often, you know.”",<pad> funny</s><pad><pad><pad><pad>
+469,alice,tensor(1),"“Not I!” he replied. “We
+quarrelled last March—just before _he_ went mad, you know—” (pointing
+with his tea spoon at the March Hare,) “—it was at the great concert
+given by the Queen of Hearts, and I had to sing
+
+‘Twinkle, twinkle, little bat!
+How I wonder what you’re at!’
+
+
+You know the song, perhaps?”
+“I’ve heard something like it,”",<pad> funny</s><pad><pad><pad><pad>
+470,alice,tensor(1),"“Pepper, mostly,”
+“Treacle,”",<pad> unfunny</s>
+471,alice,tensor(1),"“That’s different from what _I_ used to say when I was a child,”
+“Well, I never heard it before,” said the Mock Turtle; “but it sounds
+uncommon nonsense.”",<pad> unfunny</s>
+472,alice,tensor(1),"“Yes, we went to school in the sea, though you mayn’t believe it—”
+“I never said I didn’t!”",<pad> funny</s><pad><pad><pad><pad>
+473,alice,tensor(1),"“Somebody said,” Alice whispered, “that it’s done by everybody minding
+their own business!”
+“Ah, well! It means much the same thing,” said the Duchess, digging her
+sharp little chin into Alice’s shoulder as she added, “and the moral of
+_that_ is—‘Take care of the sense, and the sounds will take care of
+themselves.’”",<pad> funny</s><pad><pad><pad><pad>
+474,alice,tensor(1),"“_I_ call it purring, not growling,”
+“Call it what you like,” said the Cat. “Do you play croquet with the
+Queen to-day?”",<pad> funny</s><pad><pad><pad><pad>
+475,alice,tensor(1),"“How are you getting on?”
+“It’s no use
+speaking to it,” she thought, “till its ears have come, or at least one
+of them.”",<pad> funny</s><pad><pad><pad><pad>
+476,alice,tensor(1),"“So you did, old fellow!”
+“We must burn the house down!” said the Rabbit’s voice; and Alice
+called out as loud as she could, “If you do, I’ll set Dinah at you!”",<pad> unfunny</s>
+477,alice,tensor(1),"“Come, there’s no use in crying like that!” said Alice to herself,
+rather sharply; “I advise you to leave off this minute!” She generally
+gave herself very good advice, (though she very seldom followed it),
+and sometimes she scolded herself so severely as to bring tears into
+her eyes; and once she remembered trying to box her own ears for having
+cheated herself in a game of croquet she was playing against herself,
+for this curious child was very fond of pretending to be two people.
+“But it’s no use now,” thought poor Alice, “to pretend to be two
+people! Why, there’s hardly enough of me left to make _one_ respectable
+person!”
+“EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said
+Alice, “and if it makes me grow larger, I can reach the key; and if it
+makes me grow smaller, I can creep under the door; so either way I’ll
+get into the garden, and I don’t care which happens!”",<pad> funny</s><pad><pad><pad><pad>
+478,alice,tensor(1),"“We had the best of educations—in fact, we went to school every day—”
+“_I’ve_ been to a day-school, too,” said Alice; “you needn’t be so
+proud as all that.”",<pad> unfunny</s>
+479,alice,tensor(1),"“I can’t help it,” said Alice very meekly: “I’m growing.”
+“You’ve no right to grow _here_,”",<pad> unfunny</s>
+480,alice,tensor(1),"“Why, _she_,” said the Gryphon. “It’s all her fancy, that: they never
+executes nobody, you know. Come on!”
+“Everybody says ‘come on!’ here,” thought Alice, as she went slowly
+after it: “I never was so ordered about in all my life, never!”",<pad> unfunny</s>
+481,alice,tensor(1),"“Well, then,” the Gryphon went on, “if you don’t know what to uglify
+is, you _are_ a simpleton.”
+“What else had you to learn?”",<pad> funny</s><pad><pad><pad><pad>
+482,alice,tensor(1),"“Very true,” said the Duchess: “flamingoes and mustard both bite. And
+the moral of that is—‘Birds of a feather flock together.’”
+“Only mustard isn’t a bird,”",<pad> funny</s><pad><pad><pad><pad>
+483,alice,tensor(1),"“But perhaps it was only
+sobbing,”
+“If you’re going to turn into a pig, my dear,”
+said Alice, seriously, “I’ll have nothing more to do with you. Mind
+now!”",<pad> unfunny</s>
+484,alice,tensor(1),"“_I’m_ not a mile high,”
+“You are,”",<pad> funny</s><pad><pad><pad><pad>
+485,alice,tensor(1),"“Well, I’ve tried to say “How doth the little busy bee,” but it all
+came different!”
+“Repeat, “_You are old, Father William_,’”",<pad> unfunny</s>
+486,alice,tensor(1),"“Hold your tongue!”
+“I won’t!”",<pad> funny</s><pad><pad><pad><pad>
+487,alice,tensor(1),"“And what are they made of?”
+“Soles and eels, of course,” the Gryphon replied rather impatiently:
+“any shrimp could have told you that.”",<pad> funny</s><pad><pad><pad><pad>
+488,alice,tensor(1),"“Not the same thing a bit!” said the Hatter. “You might just as well
+say that ‘I see what I eat’ is the same thing as ‘I eat what I see’!”
+“You might just as well say,” added the March Hare, “that ‘I like what
+I get’ is the same thing as ‘I get what I like’!”",<pad> funny</s><pad><pad><pad><pad>
+489,alice,tensor(1),"“You did!”
+“I deny it!”",<pad> unfunny</s>
+490,alice,tensor(1),"“You might just as well say,” added the March Hare, “that ‘I like what
+I get’ is the same thing as ‘I get what I like’!”
+“You might just as well say,” added the Dormouse, who seemed to be
+talking in his sleep, “that ‘I breathe when I sleep’ is the same thing
+as ‘I sleep when I breathe’!”",<pad> funny</s><pad><pad><pad><pad>
+491,alice,tensor(1),"“I’m _not_ a serpent!” said Alice indignantly. “Let me alone!”
+“Serpent, I say again!” repeated the Pigeon, but in a more subdued
+tone, and added with a kind of sob, “I’ve tried every way, and nothing
+seems to suit them!”",<pad> funny</s><pad><pad><pad><pad>
+492,alice,tensor(1),"“Yes!”
+“Come on, then!”",<pad> unfunny</s>
+493,alice,tensor(1),"“How dreadfully savage!”
+“And ever since that,” the Hatter went on in a mournful tone, “he won’t
+do a thing I ask! It’s always six o’clock now.”",<pad> unfunny</s>
+494,alice,tensor(1),"“It is wrong from beginning to end,”
+“What size do you want to be?”",<pad> unfunny</s>
+495,alice,tensor(1),"“I couldn’t afford to learn it.” said the Mock Turtle with a sigh. “I
+only took the regular course.”
+“What was that?”",<pad> unfunny</s>
+496,alice,tensor(1),"“That’s right, Five! Always lay the
+blame on others!”
+“_You’d_ better not talk!” said Five. “I heard the Queen say only
+yesterday you deserved to be beheaded!”",<pad> funny</s><pad><pad><pad><pad>
+497,alice,tensor(1),"“Are you content now?”
+“Well, I should like to be a _little_ larger, sir, if you wouldn’t
+mind,” said Alice: “three inches is such a wretched height to be.”",<pad> unfunny</s>
+498,alice,tensor(1),"“Well, then,” the Cat went on, “you see, a dog growls when it’s angry,
+and wags its tail when it’s pleased. Now _I_ growl when I’m pleased,
+and wag my tail when I’m angry. Therefore I’m mad.”
+“_I_ call it purring, not growling,”",<pad> funny</s><pad><pad><pad><pad>
+499,alice,tensor(1),"“Come on, then!”
+“It’s—it’s a very fine day!”",<pad> unfunny</s>
+500,alice,tensor(1),"“Exactly so,”
+“Then you should say what you mean,”",<pad> unfunny</s>
+501,alice,tensor(1),"“I couldn’t help it,” said Five, in a sulky tone; “Seven jogged my
+elbow.”
+“That’s right, Five! Always lay the
+blame on others!”",<pad> funny</s><pad><pad><pad><pad>
+502,alice,tensor(1),"“Ahem!” said the Mouse with an important air, “are you all ready? This
+is the driest thing I know. Silence all round, if you please! ‘William
+the Conqueror, whose cause was favoured by the pope, was soon submitted
+to by the English, who wanted leaders, and had been of late much
+accustomed to usurpation and conquest. Edwin and Morcar, the earls of
+Mercia and Northumbria—’”
+“Ugh!”",<pad> unfunny</s>
+503,alice,tensor(1),"“I really must be getting home; the night-air
+doesn’t suit my throat!” and a Canary called out in a trembling voice
+to its children, “Come away, my dears! It’s high time you were all in
+bed!”
+“I wish I hadn’t mentioned Dinah!” she said to herself in a melancholy
+tone. “Nobody seems to like her, down here, and I’m sure she’s the best
+cat in the world! Oh, my dear Dinah! I wonder if I shall ever see you
+any more!”",<pad> unfunny</s>
+504,alice,tensor(1),"“They lived on treacle,”
+“They couldn’t have done that, you know,” Alice gently remarked;
+“they’d have been ill.”",<pad> unfunny</s>
+505,alice,tensor(1),"“Right, as usual,” said the Duchess: “what a clear way you have of
+putting things!”
+“It’s a mineral, I _think_,”",<pad> unfunny</s>
+506,alice,tensor(1),"“After that,” continued the Hatter, “I cut some more bread-and-butter—”
+“But what did the Dormouse say?”",<pad> funny</s><pad><pad><pad><pad>
+507,alice,tensor(1),"“I have answered three questions, and that is enough,”
+    Said his father; “don’t give yourself airs!
+Do you think I can listen all day to such stuff?
+    Be off, or I’ll kick you down stairs!”
+“That is not said right,”",<pad> unfunny</s>
+508,alice,tensor(1),"“Is that the way _you_ manage?”
+“Not I!” he replied. “We
+quarrelled last March—just before _he_ went mad, you know—” (pointing
+with his tea spoon at the March Hare,) “—it was at the great concert
+given by the Queen of Hearts, and I had to sing
+
+‘Twinkle, twinkle, little bat!
+How I wonder what you’re at!’
+
+
+You know the song, perhaps?”",<pad> funny</s><pad><pad><pad><pad>
+509,alice,tensor(1),"“_Twinkle, twinkle, twinkle, twinkle_—”
+“Well, I’d hardly finished the first verse,” said the Hatter, “when the
+Queen jumped up and bawled out, ‘He’s murdering the time! Off with his
+head!’”",<pad> funny</s><pad><pad><pad><pad>
+510,alice,tensor(1),"“Oh, you’re sure to do that,” said the Cat, “if you only walk long
+enough.”
+“What sort of people live about here?”",<pad> funny</s><pad><pad><pad><pad>
+511,alice,tensor(1),"“Please come back and finish your story!” Alice called after it; and
+the others all joined in chorus, “Yes, please do!”
+“What a pity it wouldn’t stay!” sighed the Lory, as soon as it was
+quite out of sight; and an old Crab took the opportunity of saying to
+her daughter “Ah, my dear! Let this be a lesson to you never to lose
+_your_ temper!” “Hold your tongue, Ma!” said the young Crab, a little
+snappishly. “You’re enough to try the patience of an oyster!”",<pad> funny</s><pad><pad><pad><pad>
+512,alice,tensor(1),"“I
+wonder what they _will_ do next! If they had any sense, they’d take the
+roof off.” After a minute or two, they began moving about again, and
+Alice heard the Rabbit say, “A barrowful will do, to begin with.”
+“A barrowful of _what?_” thought Alice; but she had not long to doubt,
+for the next moment a shower of little pebbles came rattling in at the
+window, and some of them hit her in the face. “I’ll put a stop to
+this,” she said to herself, and shouted out, “You’d better not do that
+again!”",<pad> funny</s><pad><pad><pad><pad>
+513,alice,tensor(1),"“They’re done with blacking, I believe.”
+“Boots and shoes under the sea,” the Gryphon went on in a deep voice,
+“are done with a whiting. Now you know.”",<pad> funny</s><pad><pad><pad><pad>
+514,alice,tensor(1),"“No room! No room!” they cried out when they saw
+Alice coming. “There’s _plenty_ of room!”
+“Have some wine,”",<pad> funny</s><pad><pad><pad><pad>
+515,alice,tensor(1),"“Wow! wow! wow!”
+“I speak severely to my boy,
+    I beat him when he sneezes;
+For he can thoroughly enjoy
+    The pepper when he pleases!”",<pad> funny</s><pad><pad><pad><pad>
+516,alice,tensor(1),"“Yes,” said Alice, “I’ve often seen them at dinn—”
+“I don’t know where Dinn may be,” said the Mock Turtle, “but if you’ve
+seen them so often, of course you know what they’re like.”",<pad> unfunny</s>
+517,alice,tensor(1),"“Hadn’t time,” said the Gryphon: “I went to the Classics master,
+though. He was an old crab, _he_ was.”
+“I never went to him,” the Mock Turtle said with a sigh: “he taught
+Laughing and Grief, they used to say.”",<pad> funny</s><pad><pad><pad><pad>
+518,alice,tensor(1),"“What sort of people live about here?”
+“In _that_ direction,” the Cat said, waving its right paw round, “lives
+a Hatter: and in _that_ direction,” waving the other paw, “lives a
+March Hare. Visit either you like: they’re both mad.”",<pad> funny</s><pad><pad><pad><pad>
+519,alice,tensor(1),"“The lobsters!”
+“—as far out to sea as you can—”",<pad> unfunny</s>
+520,alice,tensor(1),"“Well, I never heard it before,” said the Mock Turtle; “but it sounds
+uncommon nonsense.”
+“I should like to have it explained,”",<pad> unfunny</s>
+521,alice,tensor(1),"“Change lobsters again!”
+“Back to land again, and that’s all the first figure,”",<pad> unfunny</s>
+522,alice,tensor(1),"“You must be,” said the Cat, “or you wouldn’t have come here.”
+“And how
+do you know that you’re mad?”",<pad> funny</s><pad><pad><pad><pad>
+523,alice,tensor(1),"“Who is it directed to?”
+“It isn’t directed at all,” said the White Rabbit; “in fact, there’s
+nothing written on the _outside_.” He unfolded the paper as he spoke,
+and added “It isn’t a letter, after all: it’s a set of verses.”",<pad> funny</s><pad><pad><pad><pad>
+524,alice,tensor(1),"“Back to land again, and that’s all the first figure,”
+“It must be a very pretty dance,”",<pad> unfunny</s>
+525,alice,tensor(1),"“I’ve tried the roots of trees, and I’ve tried banks, and I’ve tried
+hedges,” the Pigeon went on, without attending to her; “but those
+serpents! There’s no pleasing them!”
+“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon;
+“but I must be on the look-out for serpents night and day! Why, I
+haven’t had a wink of sleep these three weeks!”",<pad> funny</s><pad><pad><pad><pad>
+526,alice,tensor(1),"“I mean what I say,” the Mock Turtle replied in an offended tone. And
+the Gryphon added “Come, let’s hear some of _your_ adventures.”
+“I could tell you my adventures—beginning from this morning,” said
+Alice a little timidly: “but it’s no use going back to yesterday,
+because I was a different person then.”",<pad> unfunny</s>
+527,alice,tensor(1),"“But what happens when you come to the beginning again?”
+“Suppose we change the subject,” the March Hare interrupted, yawning.
+“I’m getting tired of this. I vote the young lady tells us a story.”",<pad> unfunny</s>
+528,alice,tensor(1),"“EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said
+Alice, “and if it makes me grow larger, I can reach the key; and if it
+makes me grow smaller, I can creep under the door; so either way I’ll
+get into the garden, and I don’t care which happens!”
+“Which way? Which
+way?”",<pad> funny</s><pad><pad><pad><pad>
+529,alice,tensor(1),"“There’s no sort of use in knocking,” said the Footman, “and that for
+two reasons. First, because I’m on the same side of the door as you
+are; secondly, because they’re making such a noise inside, no one could
+possibly hear you.”
+“Please, then,” said Alice, “how am I to get in?”",<pad> funny</s><pad><pad><pad><pad>
+530,alice,tensor(1),"“What _is_ a Caucus-race?”
+“Why,” said the Dodo, “the best way to explain it is to do it.”",<pad> funny</s><pad><pad><pad><pad>
+531,alice,tensor(1),"“They all can,” said the Duchess; “and most of ’em do.”
+“I don’t know of any that do,”",<pad> unfunny</s>
+532,alice,tensor(1),"“The twinkling of the _what?_”
+“It _began_ with the tea,”",<pad> unfunny</s>
+533,alice,tensor(1),"“I beg your pardon!” said the Mouse, frowning, but very politely: “Did
+you speak?”
+“Not I!”",<pad> unfunny</s>
+534,alice,tensor(1),"“Serpent, I say again!” repeated the Pigeon, but in a more subdued
+tone, and added with a kind of sob, “I’ve tried every way, and nothing
+seems to suit them!”
+“I haven’t the least idea what you’re talking about,”",<pad> unfunny</s>
+535,alice,tensor(1),"“Don’t talk nonsense,” said Alice more boldly: “you know you’re growing
+too.”
+“Yes, but _I_ grow at a reasonable pace,” said the Dormouse: “not in
+that ridiculous fashion.”",<pad> funny</s><pad><pad><pad><pad>
+536,alice,tensor(1),"“Oh, I’m not particular as to size,” Alice hastily replied; “only one
+doesn’t like changing so often, you know.”
+“I _don’t_ know,”",<pad> unfunny</s>
+537,alice,tensor(1),"“Perhaps it hasn’t one,”
+“Tut, tut, child!” said the Duchess. “Everything’s got a moral, if only
+you can find it.”",<pad> unfunny</s>
+538,alice,tensor(1),"“What did they draw?”
+“Treacle,”",<pad> unfunny</s>
+539,alice,tensor(1),"“You’re thinking
+about something, my dear, and that makes you forget to talk. I can’t
+tell you just now what the moral of that is, but I shall remember it in
+a bit.”
+“Perhaps it hasn’t one,”",<pad> unfunny</s>
+540,alice,tensor(1),"“A barrowful of _what?_” thought Alice; but she had not long to doubt,
+for the next moment a shower of little pebbles came rattling in at the
+window, and some of them hit her in the face. “I’ll put a stop to
+this,” she said to herself, and shouted out, “You’d better not do that
+again!”
+“If I eat one of these cakes,” she thought, “it’s sure to make
+_some_ change in my size; and as it can’t possibly make me larger, it
+must make me smaller, I suppose.”",<pad> funny</s><pad><pad><pad><pad>
+541,alice,tensor(1),"“You’re wrong about the crumbs,” said the Mock Turtle: “crumbs would
+all wash off in the sea. But they _have_ their tails in their mouths;
+and the reason is—” here the Mock Turtle yawned and shut his
+eyes.—“Tell her about the reason and all that,”
+“The reason is,” said the Gryphon, “that they _would_ go with the
+lobsters to the dance. So they got thrown out to sea. So they had to
+fall a long way. So they got their tails fast in their mouths. So they
+couldn’t get them out again. That’s all.”",<pad> funny</s><pad><pad><pad><pad>
+542,alice,tensor(1),"“Their heads are gone, if it please your Majesty!”
+“That’s right!” shouted the Queen. “Can you play croquet?”",<pad> funny</s><pad><pad><pad><pad>
+543,alice,tensor(1),"“I never went to him,” the Mock Turtle said with a sigh: “he taught
+Laughing and Grief, they used to say.”
+“So he did, so he did,”",<pad> unfunny</s>
+544,alice,tensor(1),"“I didn’t mean it!” pleaded poor Alice. “But you’re so easily offended,
+you know!”
+“Please come back and finish your story!” Alice called after it; and
+the others all joined in chorus, “Yes, please do!”",<pad> unfunny</s>
+545,alice,tensor(1),"“A knot!” said Alice, always ready to make herself useful, and looking
+anxiously about her. “Oh, do let me help to undo it!”
+“I shall do nothing of the sort,” said the Mouse, getting up and
+walking away. “You insult me by talking such nonsense!”",<pad> funny</s><pad><pad><pad><pad>
+546,alice,tensor(1),"“And ever since that,” the Hatter went on in a mournful tone, “he won’t
+do a thing I ask! It’s always six o’clock now.”
+“Is that the reason so many
+tea-things are put out here?”",<pad> unfunny</s>
+547,alice,tensor(1),"“That’s the most important piece of evidence we’ve heard yet,” said the
+King, rubbing his hands; “so now let the jury—”
+“If any one of them can explain it,” said Alice, (she had grown so
+large in the last few minutes that she wasn’t a bit afraid of
+interrupting him,) “I’ll give him sixpence. _I_ don’t believe there’s
+an atom of meaning in it.”",<pad> unfunny</s>
+548,alice,tensor(1),"“If you knew Time as well as I do,” said the Hatter, “you wouldn’t talk
+about wasting _it_. It’s _him_.”
+“I don’t know what you mean,”",<pad> unfunny</s>
+549,alice,tensor(1),"“Shall we try another figure of the Lobster Quadrille?” the Gryphon
+went on. “Or would you like the Mock Turtle to sing you a song?”
+“Oh, a song, please, if the Mock Turtle would be so kind,” Alice
+replied, so eagerly that the Gryphon said, in a rather offended tone,
+“Hm! No accounting for tastes! Sing her ‘_Turtle Soup_,’ will you, old
+fellow?”",<pad> funny</s><pad><pad><pad><pad>
+550,alice,tensor(1),"“_Are_ you to get in at all?” said the Footman. “That’s the first
+question, you know.”
+“It’s really
+dreadful,” she muttered to herself, “the way all the creatures argue.
+It’s enough to drive one crazy!”",<pad> unfunny</s>
+551,alice,tensor(1),"“I know what ‘it’ means well enough, when _I_ find a thing,” said the
+Duck: “it’s generally a frog or a worm. The question is, what did the
+archbishop find?”
+“‘—found
+it advisable to go with Edgar Atheling to meet William and offer him
+the crown. William’s conduct at first was moderate. But the insolence
+of his Normans—’ How are you getting on now, my dear?”",<pad> funny</s><pad><pad><pad><pad>
+552,alice,tensor(1),"“What for?”
+“Did you say ‘What a pity!’?”",<pad> unfunny</s>
+553,alice,tensor(1),"“I’d rather not,”
+“Don’t be impertinent,” said the King, “and don’t look at me like
+that!”",<pad> unfunny</s>
+554,alice,tensor(1),"“I’m glad I’ve seen that done,” thought Alice. “I’ve so often read in
+the newspapers, at the end of trials, “There was some attempts at
+applause, which was immediately suppressed by the officers of the
+court,” and I never understood what it meant till now.”
+“If that’s all you know about it, you may stand down,”",<pad> unfunny</s>
+555,alice,tensor(1),"“What’s in it?”
+“I haven’t opened it yet,” said the White Rabbit, “but it seems to be a
+letter, written by the prisoner to—to somebody.”",<pad> unfunny</s>
+556,alice,tensor(1),"“Who _are_ you talking to?”
+“It’s a friend of mine—a Cheshire Cat,” said Alice: “allow me to
+introduce it.”",<pad> funny</s><pad><pad><pad><pad>
+557,alice,tensor(1),"“I never said I didn’t!”
+“You did,”",<pad> unfunny</s>
+558,alice,tensor(1),"“Keep your temper,”
+“Is that all?”",<pad> unfunny</s>
+559,alice,tensor(1),"“Found _what_?”
+“Found _it_,” the Mouse replied rather crossly: “of course you know
+what ‘it’ means.”",<pad> unfunny</s>
+560,alice,tensor(1),"“I don’t know where Dinn may be,” said the Mock Turtle, “but if you’ve
+seen them so often, of course you know what they’re like.”
+“I believe so,” Alice replied thoughtfully. “They have their tails in
+their mouths—and they’re all over crumbs.”",<pad> unfunny</s>
+561,alice,tensor(1),"“—for they
+haven’t got much evidence _yet_,” she said to herself. Imagine her
+surprise, when the White Rabbit read out, at the top of his shrill
+little voice, the name “Alice!”
+“Here!”",<pad> funny</s><pad><pad><pad><pad>
+562,alice,tensor(1),"“I quite agree with you,” said the Duchess; “and the moral of that
+is—‘Be what you would seem to be’—or if you’d like it put more
+simply—‘Never imagine yourself not to be otherwise than what it might
+appear to others that what you were or might have been was not
+otherwise than what you had been would have appeared to them to be
+otherwise.’”
+“I think I should understand that better,” Alice said very politely,
+“if I had it written down: but I can’t quite follow it as you say it.”",<pad> unfunny</s>
+563,alice,tensor(1),"“We must burn the house down!” said the Rabbit’s voice; and Alice
+called out as loud as she could, “If you do, I’ll set Dinah at you!”
+“I
+wonder what they _will_ do next! If they had any sense, they’d take the
+roof off.” After a minute or two, they began moving about again, and
+Alice heard the Rabbit say, “A barrowful will do, to begin with.”",<pad> funny</s><pad><pad><pad><pad>
+564,alice,tensor(1),"“You _must_ remember,” remarked the King, “or I’ll have you executed.”
+“I’m a poor man, your Majesty,”",<pad> unfunny</s>
+565,alice,tensor(1),"“—that begins with an M, such as
+mouse-traps, and the moon, and memory, and muchness—you know you say
+things are “much of a muchness”—did you ever see such a thing as a
+drawing of a muchness?”
+“Really, now you ask me,” said Alice, very much confused, “I don’t
+think—”",<pad> unfunny</s>
+566,alice,tensor(1),"“Nor I,”
+“I think you might do something better with the
+time,” she said, “than waste it in asking riddles that have no
+answers.”",<pad> unfunny</s>
+567,alice,tensor(1),"“I don’t much care where—”
+“Then it doesn’t matter which way you go,”",<pad> unfunny</s>
+568,alice,tensor(1),"“Sure, it does, yer honour: but it’s an arm for all that.”
+“Well, it’s got no business there, at any rate: go and take it away!”",<pad> unfunny</s>
+569,alice,tensor(1),"“That’s Bill,” thought
+Alice,) “Well, I hardly know—No more, thank ye; I’m better now—but I’m
+a deal too flustered to tell you—all I know is, something comes at me
+like a Jack-in-the-box, and up I goes like a sky-rocket!”
+“So you did, old fellow!”",<pad> unfunny</s>
+570,alice,tensor(1),"“Not at first, perhaps,” said the Hatter: “but you could keep it to
+half-past one as long as you liked.”
+“Is that the way _you_ manage?”",<pad> unfunny</s>
+571,alice,tensor(1),"“Would it be of any use, now,” thought Alice, “to speak to this mouse?
+Everything is so out-of-the-way down here, that I should think very
+likely it can talk: at any rate, there’s no harm in trying.” So she
+began: “O Mouse, do you know the way out of this pool? I am very tired
+of swimming about here, O Mouse!” (Alice thought this must be the right
+way of speaking to a mouse: she had never done such a thing before, but
+she remembered having seen in her brother’s Latin Grammar, “A mouse—of
+a mouse—to a mouse—a mouse—O mouse!”
+“Perhaps it doesn’t understand English,” thought Alice; “I daresay it’s
+a French mouse, come over with William the Conqueror.” (For, with all
+her knowledge of history, Alice had no very clear notion how long ago
+anything had happened.) So she began again: “Où est ma chatte?” which
+was the first sentence in her French lesson-book. The Mouse gave a
+sudden leap out of the water, and seemed to quiver all over with
+fright. “Oh, I beg your pardon!” cried Alice hastily, afraid that she
+had hurt the poor animal’s feelings. “I quite forgot you didn’t like
+cats.”",<pad> funny</s><pad><pad><pad><pad>
+572,alice,tensor(1),"“I don’t see how he can _ever_ finish, if he doesn’t begin.”
+“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real
+Turtle.”",<pad> unfunny</s>
+573,alice,tensor(1),"“I only wish it was,”
+“That would be grand, certainly,” said Alice thoughtfully: “but then—I
+shouldn’t be hungry for it, you know.”",<pad> unfunny</s>
+574,alice,tensor(1),"“I won’t!”
+“Off with her head!”",<pad> unfunny</s>
+575,alice,tensor(1),"“The Dormouse is asleep again,”
+“Of course, of course; just what I was going to remark myself.”",<pad> funny</s><pad><pad><pad><pad>
+576,alice,tensor(1),"“What is his sorrow?” she asked the Gryphon, and the
+Gryphon answered, very nearly in the same words as before, “It’s all
+his fancy, that: he hasn’t got no sorrow, you know. Come on!”
+“This here young lady,” said the Gryphon, “she wants for to know your
+history, she do.”",<pad> unfunny</s>
+577,alice,tensor(1),"“Now tell me, Pat, what’s that in the window?”
+“Sure, it’s an arm, yer honour!” (He pronounced it “arrum.”",<pad> funny</s><pad><pad><pad><pad>
+578,alice,tensor(1),"“It must be a very pretty dance,”
+“Would you like to see a little of it?”",<pad> unfunny</s>

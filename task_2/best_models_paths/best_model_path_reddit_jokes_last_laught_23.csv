@@ -1,0 +1,2 @@
+,dataset,rs,best_model_path
+0,reddit_jokes_last_laught,23,./models/results_reddit_jokes_last_laught_23/checkpoint-50

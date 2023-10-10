@@ -1,0 +1,2 @@
+,dataset,rs,best_model_path
+0,short_jokes,977,./models/results_short_jokes_977/checkpoint-1000
