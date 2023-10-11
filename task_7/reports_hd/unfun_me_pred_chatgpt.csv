@@ -1,0 +1,7877 @@
+,dataset,label,chatgpt_preds
+0,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEib4CuENP0bFkHpZsOs3IoAN60"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+1,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEi2ECizqS0uTZqKMP9BQfKThFt"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+2,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEipZre0oD1Pb0fYJ7Q3Hwcxhrr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 35,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 44
+  }
+}
+"
+3,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEiNLQLFX1GciknHrkDd514ubnO"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+4,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEi334lD7LU7mfR49aM4u5crJyf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+5,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEiCPQ8pTo4gQSjxP4Kkth8jlQ6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+6,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEiMOG3PhVNsg3Y44TnXWAMhmWm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 35,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 40
+  }
+}
+"
+7,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEiQ6mfY5minysS3OZsgY8WOoAL"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+8,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEifzZAcuMiJzpY8GXqEmRlaNI6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 41
+  }
+}
+"
+9,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEiWXx4HTRpeWnraGSte9ErvqKV"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 50
+  }
+}
+"
+10,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEiHITtb6fNG83BUJq7biXS45Yr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 54
+  }
+}
+"
+11,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEi8A2rslsOgmiEkRjG4uNUxMbh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Neither funny nor unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 35,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 43
+  }
+}
+"
+12,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEii8Zka5ZHAzaCWbpZQC2eR1OU"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+13,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEinUuCmQOkzEjGVtG1yP4hUvta"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010480,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 45
+  }
+}
+"
+14,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEj41JpdL35z3iaNkPXOmIE2mga"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 54
+  }
+}
+"
+15,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjFuKaiFDDDP2vrV8MJadNUmsW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 56,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 57
+  }
+}
+"
+16,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEjmSqDyy2wecXvSHerJxfa02xs"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+17,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjvJ197vTcdHrgtgVG8RUGBgeD"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 49
+  }
+}
+"
+18,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjtUwxrspNcflPkbKXbC5TYFXj"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 52
+  }
+}
+"
+19,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEj8PLVgGqUpwVQtConBrafrCck"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+20,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjLYvLp9enPLylRQFZS3ktVTLA"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 37
+  }
+}
+"
+21,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEjRCginnKz6SIVXfaLGjbGL2pm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+22,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEjJTpL1rJyOochTfI3nCjLqQUg"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+23,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEjRRSZ7T38eq14bNd8A83vdbmo"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+24,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEjdR1upcy6KEbtgQWoDzpcn7PU"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 41
+  }
+}
+"
+25,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjwhLAo1sd17gtMGZnoHHGuJYy"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+26,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjg814CFugo9Z8lJyXzpEuaPNs"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+27,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEjZOwmnToD6Yrdd5L53k6boik5"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010481,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+28,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkJiofnUbz6TLJeQ4ct6ZcyPsm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+29,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkwRrRFMuXzVe990tBb1iABGiC"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+30,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEkCUte6Bh8PWP9eRyXxlDIYQOG"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 52
+  }
+}
+"
+31,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkBwW4MXXVrzhCZVD63cg8ASj0"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+32,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEkO6By0vEXSHQwbHtlYiEuSAym"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+33,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEktRe24baaCBsXLbExQw9HdP8t"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 49
+  }
+}
+"
+34,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkQIbgjdrMTuwxw0soNRgswZV6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 42
+  }
+}
+"
+35,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEkPz6INwK3XAOSK9zLS3oie4vI"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 56
+  }
+}
+"
+36,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEkze7RBrHBQCJtQ3hZ3Hfwct8g"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 55,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 58
+  }
+}
+"
+37,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkY0U39aiBHqL3SfJc8G1wJ3Zi"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+38,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkyPFeHxXRbfAI9UW4q9b4qzo1"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+39,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEkJRtc8l6NaqhBnes3KDVaiqxu"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+40,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEkyXkQ3hoZP0O3usjNzUrE7eHn"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010482,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny (Note: This is a subjective classification and may not reflect the views of all individuals)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 19,
+    ""total_tokens"": 66
+  }
+}
+"
+41,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEly35eYVNKgClUFz9WopFWuZjF"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+42,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEli7Dv9pMu6EgVpWm9cadab1yI"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 47
+  }
+}
+"
+43,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEl8BX1QmV8wXr3XKrWDuDisKai"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+44,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElMRF263t74XAGp1VIXwFWEP1L"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+45,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElyem52dStJkD3GMa7BQWjQj7R"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+46,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OElWy9ZnCf0SvtRCtyRp2P3ivu8"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+47,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OElnZl2rGIzTckdZEa5U9gmIn8v"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+48,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElYFoyAqh2WiXMoJRb1VQhlIee"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+49,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OElaAobIAYX9kaT9358oltg2i0K"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 50,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 54
+  }
+}
+"
+50,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OElRXNNSrRyABcQgjrVJBLCneue"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+51,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEl0ooyoj3hDJzNmnZPTPH6Jh95"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 46
+  }
+}
+"
+52,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OElB9G8JB4AOSg23vkAaWxKTDXh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 49
+  }
+}
+"
+53,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEl50UJYiGJczbxVnprt0Xh1ywK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 41
+  }
+}
+"
+54,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElKcPKCazTI4GlNo3ebfBunx6r"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+55,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElEQFfUE2UQL8UZMEXVYwCGZEn"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 44
+  }
+}
+"
+56,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEluLCICsbMJUdumBYDu4IkK9UT"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+57,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEl7ThYQtXjoMEJBwFZlQHDRKSR"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+58,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElzKtwl4XVT97xm19HScJx2cuE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+59,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OElZ0wMsKuT1tbkvlDHXpx8X3U1"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+60,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEl3eclOf9KcEfmx3CD1dn47dYg"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010483,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+61,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmVz96g4TUHgkKOvmI2R8jQntK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+62,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmvrpp9vYwvvqQV1bk585PeIeH"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 55
+  }
+}
+"
+63,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmMuz9EqcgmK5dhYNusLlUrhIp"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 50,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 54
+  }
+}
+"
+64,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmsXY3hjSOWGzNTge86RgyKx50"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+65,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmaHUdz8B2nLxo2aS9qjuf5ORo"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 56
+  }
+}
+"
+66,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmb1VNcy4FlSbXOavY7pFyQmwA"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+67,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmkB3jCgTLQGLq7IcVNPYbqDeA"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 50,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 51
+  }
+}
+"
+68,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmgJw27g1TD9oNtck1KybUaDQS"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 53
+  }
+}
+"
+69,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEm259YazFFsSpDXZdmm3FQfIvo"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+70,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEmBUtSo0ExU0hbOpkHcZhlEVE3"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+71,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmIwkyJItZYn7u1sJwS2Avgrzi"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+72,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEmtmZg9sboa8bLc2ARFAV0I4Iz"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+73,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEmeVmdD0dBluOO0ghn39mJR6nC"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+74,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEmFAFjHrEWXz2PytFbcUGgiPir"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 55
+  }
+}
+"
+75,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEm343yzRMoOs6cpqPQ46Ed0tSW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+76,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEmrSBXLeB5osxvBMf1LIZCTzKf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010484,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 47
+  }
+}
+"
+77,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEnvXpoWDtGerJVcALbzMcMox7P"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Neither funny nor unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 45
+  }
+}
+"
+78,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEnmGgKueIXdzdFPk4vRQX6nYLv"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+79,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEn6f5Z1aZxZrRS59gA8m4HXtWw"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+80,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEnePsEOhByBCf3wk3wVmriVLFH"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+81,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEny9qe1XYVTb41qbS0m1AlNpNc"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 41
+  }
+}
+"
+82,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEndv01JtwUn5U4lYsu2EY55VwE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+83,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEn7Iqlqf9QjojJQtJqp2jy7pJK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+84,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEnA0wAlAQzgsEsoduotijAmDtK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+85,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEn5mzdF8LcZSQlebLyOOn3X2PC"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+86,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEnVxr4VSx9roeVXd6IB6DuTPeY"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 48
+  }
+}
+"
+87,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEnPmwckMMAupvhdCY2Jcy27vf4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+88,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEnHXK2hUOfc3oW6FwHDkJK4J9z"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 58,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 61
+  }
+}
+"
+89,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEnXIfC7eXUNPXz6zoq2WpwcvoZ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 53
+  }
+}
+"
+90,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEnElNyXgMiSoE791HVzcDzULXr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 34,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 39
+  }
+}
+"
+91,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEnFCY7SRycYL5YNCMYGCO9CIgu"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+92,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEnPhwydGK8TXHUj7AArfcLDEaN"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010485,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+93,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEolcmEPOo42MhgEyd3m1fHOdF2"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 57,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 58
+  }
+}
+"
+94,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEo60sGoWJDj10km2b9yw65LifA"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+95,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEoGoqd0DkkNHObrq9LfdfxVUud"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+96,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEoxm2ohYOFoF4iRknahT1NoVz1"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+97,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEob2UAvT0WSOAZDn0rdE5DNLSZ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 38
+  }
+}
+"
+98,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEoR5rzFVtbqfRveaSr2GczmvFF"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+99,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEoHkLogaklLt9wE5CRrHizdbvX"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+100,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEosxsZjbdMwWGF3SGOE1EjGEKZ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+101,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEo5yQq5qPQd4GxSfAxE8kXcoQ4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+102,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEo3dxHmHkyCJZ7LAx4ckUPmJLY"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 53
+  }
+}
+"
+103,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEo2IpLPG2MploojyL1kf6y4Nmy"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+104,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEo43i5oPAGPpHLv1pRAveniikV"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+105,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEozaWsUeSFDtHiLmHiic8cIMbB"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+106,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEoJMC4s3afENdy23PSzGmSZ5wO"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+107,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEolE3slgREGyK8pORow4WuMxci"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 47
+  }
+}
+"
+108,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEohdewUjF1MAJNsSYFLhRRN7oJ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+109,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEoJvKfJVvbUkNgioMNXmv94yMF"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+110,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEo80C3dvEJEnzNgTR5IjFpCIA9"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010486,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Cannot be classified as funny or unfunny as it is not a complete sentence or statement.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 33,
+    ""completion_tokens"": 18,
+    ""total_tokens"": 51
+  }
+}
+"
+111,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpXj52wVAdChpnjra72jeQPv97"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+112,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEpROtJyyri9pPzRDPp4VEeXAru"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 58,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 62
+  }
+}
+"
+113,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpO7hiGON5wn4WwFBKxd0vBqF4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+114,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpHYEojNAZvx7O6kqOj1i18FpB"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 55,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 59
+  }
+}
+"
+115,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpdYuCXAj7EfM3fb93c1Ffmras"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 6,
+    ""total_tokens"": 51
+  }
+}
+"
+116,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpSfse8iwlQf1bogXL7B4cBIdQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+117,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEpxQ4nZhiEC3RHYukw2OEtJaAK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+118,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpb7vDYi40mmMmPgEt3eX2AN5x"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 39
+  }
+}
+"
+119,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEpUfcmpuh0qCBzXaj4NBERe0d4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 47
+  }
+}
+"
+120,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEpttX1Zvu96Axfnj6rVmr43i0e"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+121,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEp5AfV7Bcj27CIfQBtOo7RlPvQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+122,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEpW2Z1px2SSvYCcKTRXWFYmvHN"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+123,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEp35MwjrWutur0aTUA0p1S8cHh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010487,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 47
+  }
+}
+"
+124,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEq9vpH6aUGwecUm1A2gebfG6v4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+125,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqIuPSJd4UQSAPTSkNBCA4RKjl"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 54
+  }
+}
+"
+126,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqmYYznIUyC8WEadzqdvaGRjkk"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 56
+  }
+}
+"
+127,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqaLnXSSIGOJuzQOa1KH8tyq6J"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+128,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEq62IVUizbJKVRG88x4ivi4oIJ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+129,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqVbEC665AMmH6xmtubZ5R6s3n"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+130,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqZvLZgCaMvzwybOf9aaAZyKHL"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+131,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEq1ec6mqFsG1M8qXleIzuZRnGZ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+132,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEq4WuWNWoGI5qeIcgdtDN3BPII"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+133,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEq9W4dYuWEXw76t0PgI9HL7TM7"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+134,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEq2exyutPv5bSBISOXJye1Y4A7"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 53
+  }
+}
+"
+135,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqrW49NEybG2yYreYf2Q5XUK51"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+136,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqo9xaOhzQKWRYUUBrjdCGY7BO"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+137,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqgf5tTV01MQMpzG9mjHCkXdqG"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+138,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEqMXQVMWWoyNq69q5kmpszBCZr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 41
+  }
+}
+"
+139,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEqpKZ2lb59U0kN0PK7w827Y9Xj"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Cannot be classified as funny or unfunny as it is a neutral statement about a potential event.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 34,
+    ""completion_tokens"": 19,
+    ""total_tokens"": 53
+  }
+}
+"
+140,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEqtyk6yqQB4O77NsR6VtmJIHAE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+141,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEqKwxxv4EHNQn58FhvIuwBDWOQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010488,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+142,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErKUIHwq0q517iWBTZDMuOdqGo"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 2,
+    ""total_tokens"": 51
+  }
+}
+"
+143,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEr1iJ3KJqORmwbiZehxpqx6kLf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+144,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OErJ7FVeV0wopnaG19aoGpwhM6w"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+145,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErSY1WTukXPt2NFzAxEanF9TCo"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+146,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErUxbH5kyNoB5kS02dCJ2SlTQh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+147,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErhw8I3rU0rEydsb5MwJuxDaSb"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+148,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OErqBiYnOPvAtafoCuQ39aC1bIL"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+149,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErHx29qCyzoNLiCbeKEGHy9LXL"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+150,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEr44njn5yQkm0MmWeScLEDFMzn"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 33,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 36
+  }
+}
+"
+151,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OErGHMAvgKbuhkr4VuJ2DeHb1vk"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+152,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErC8FvsERg2rKYimYFiPyUPuEI"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 34,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 37
+  }
+}
+"
+153,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErdlUe7VvdSNvRRWthan7EnwOK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 55
+  }
+}
+"
+154,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErlU9DwX7gRdM4SzT44J7TA4MS"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 44
+  }
+}
+"
+155,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OErXXYjfnbvoeBI0uDBMfyqsm6m"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+156,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OErtCXQEGCCPgGi3k0xg6kGdZQ9"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010489,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 55
+  }
+}
+"
+157,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEskaEbW8Es7xHL2tiGCZ9seMK3"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+158,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEsFD4F0mLTf5CwrTjapW9cQxAj"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 52
+  }
+}
+"
+159,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEsoCnKtbq97wJIgSlqxlYjFmdP"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+160,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEsCFpaPyvcnx3iXTiLw7xdu1LG"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+161,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEs8zSUf1v0si9SirKPO8cNnpAu"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 46
+  }
+}
+"
+162,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEs4TNEeKBaJmdv9UVTLTaaOyiV"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 52
+  }
+}
+"
+163,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEsdbPG7iWkTc80THDfvxsnCxxt"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+164,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEsQn9DHsViuRXD9zwJ41adRHbJ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+165,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEsPQFEM8vubxDabwVfLsdMHuzW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 51
+  }
+}
+"
+166,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEsVxKxWxqM4AH4bHM3adSEM1VW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 35,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 38
+  }
+}
+"
+167,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEsBRxRmtra3OYrjac0Ja9twCkN"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Cannot classify as funny or unfunny as it is a news headline and not a joke or humorous statement.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 21,
+    ""total_tokens"": 64
+  }
+}
+"
+168,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEsKZUCUxapBs1O7o1GBLcdsvWW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+169,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEs848oRR5hrSbiWIQFq1LSajYD"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 2,
+    ""total_tokens"": 49
+  }
+}
+"
+170,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEscwXHSox74q7BVCisdkwbzpkQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 38
+  }
+}
+"
+171,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEsCnk50c21OFC41ZUWMFP715q6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+172,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEswiCAW9EAu46W9JZnPt3hGMzb"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010490,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+173,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtTqRUk78NNxeAn9Qk8wMsf8xR"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+174,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtlmb6VenjBBKHPNkGl7RRp4gf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+175,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEtJzqlugKcoRvFdT9kVAwz9AXl"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+176,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtCXhtno2zQAxfaZs7mR71rywd"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+177,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEtGTvAjZtVBPw3UM3mAFnPYGre"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 41
+  }
+}
+"
+178,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtTGO6HF9fe5T9QdEo7yIbe6zs"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 57
+  }
+}
+"
+179,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtT5ZzD35R6lpIptkwa4jfbH6G"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 56,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 59
+  }
+}
+"
+180,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEtPviRcBRNBO6TvvP5tTyJJpvq"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 54
+  }
+}
+"
+181,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtKETr3ftwnKhNj0wNTHDPslC3"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 60
+  }
+}
+"
+182,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEty87FaUMQXyJyXD9tau0jraTm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+183,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEt7j6v6sy6K3eSAVsOqKIV7tJf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+184,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtDtcUgOsnyRPOrNfB1JH2nhxm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+185,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEty4Bg7C1l9uDIoT34UBvY1waj"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+186,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEtkuMobpMQjo1onu13ezhjmboB"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+187,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEtxPHxcZMSaKAXHOghy9xFXN11"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010491,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+188,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEueE6zdmoq0GR7oK6GypZFSrMN"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+189,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuArlU8Lgvw6LZIEJDYzIUx35B"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+190,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuy21kUJHucs7As32ZkezC0wEp"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+191,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEursDmQPQ9NKoMeUlc9PEGtQ1J"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+192,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEu41WfERKqYveJ9G1tQRYAOXiz"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+193,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuNpa4hsDbAGSOYDjVihskBV3A"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 52
+  }
+}
+"
+194,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEuI5Mxf7S34mAY0ExOvJ0f1uvo"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+195,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEuqaHuLWCZqveAaGA6BK3FJjtk"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Neither funny nor unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 45
+  }
+}
+"
+196,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuJQaFxpPRGJQXjgcjdOOXiosq"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 55,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 58
+  }
+}
+"
+197,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuA1DAJD7hft3ZBL1E5QVoTMml"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+198,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEu2IsWslQnyaF0Uof0n8ZYMZT3"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+199,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEuf4M3xL9BMLoKr23l2Cad87JY"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+200,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuLo7z5NinuNjZmHRIYi1ngru4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+201,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuGta1J6NFLrvnoH62MrflTLOx"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+202,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEuHeaxLSXYxjeXI0BG55gKmBJI"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010492,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 52
+  }
+}
+"
+203,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvliBFV8mrqwYuDlS94kieuyHs"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+204,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEvV3sJBAHDdw1cMxkhLgIMjBnE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 54
+  }
+}
+"
+205,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvRgJiaIE6D1CEHjk3ruBIHsNt"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 46
+  }
+}
+"
+206,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvJ2Ft5rnWU08Ho4OqSW8YB2vQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+207,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEvorrWIUZLPHW0juUfyXpiRwfm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 45
+  }
+}
+"
+208,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEv0XDtyhqrPmeI4m0MqQIKbRNa"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 59,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 60
+  }
+}
+"
+209,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvBhxmBW5ayFBvXuLMEMPK9Ieu"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+210,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEv0wMRgXrVKwHpopbaQ7L3ES3y"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 39
+  }
+}
+"
+211,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEv3xM8EtpEJnDLH3jVoRg4VYDQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 49
+  }
+}
+"
+212,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvbnLm7B7Pg76XQZ3cqgzwl3jr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+213,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvdAyjTLaFrMngTDrvHTOffPir"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+214,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvRmUT90pPLvTw6rYPjzThRwKq"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 41
+  }
+}
+"
+215,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEv7iyVUVZfjMHDQ6vV8QIUXRyx"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+216,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEvhSAk1s9Uh4t8CsKENRPgniqq"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 39
+  }
+}
+"
+217,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEvx2IKvYclybzYpX6OXIxsEIfD"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 45
+  }
+}
+"
+218,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEvq2mZYsp3s7bLr9YrPsOevRgj"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010493,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+219,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwVKOvPDjW2nA7P1nJmFyUxhDe"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+220,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwe8zwE0RL685RaJ8Mi4LrrtXi"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+221,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwVLC6qSoZfpUzIRTloM0AmP06"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+222,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwUgExuhXlZf8LgX587FOpImoD"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+223,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwQzZ57bXvXmIc4JGkuyvDhJ50"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+224,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwNhgSILZKyBWWCcmL4NY4AdJm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+225,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwwrAPVOy3wMqo1PHIgPfYB3Wx"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+226,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwy039ORfrwxXQxty4JQaWgHph"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+227,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwuKAVCtmHEWDlLMfTs0awb2Hd"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 57,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 65
+  }
+}
+"
+228,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEwwDfzLOpRMFegQXugAGkNkiJZ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+229,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwu7b0TKm7QVYMYUuLImoUjW0C"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+230,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwpaz9kxEA9FSe1B47OiUiKGBx"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+231,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwmELPdg9y52KHG4CYnTuUkkxa"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+232,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEwtj7C1qX03EvmOBwXDxkOETe9"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010494,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+233,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEx2K5rfzBn9GEw8jSxme7WbN0R"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+234,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExW0KGTi1Uq0W0Fn2BiNm3BZ7U"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+235,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExGhAnqnyGgYOdBhRydIJbdYID"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 48
+  }
+}
+"
+236,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OExd0A0NStQ8Bxhd1g1Z0uop6qu"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+237,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExP4lpPu4612Gk0EFeCTG1mXjG"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+238,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExg897iQ3c6M1xT8bBozVxLE5g"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 53
+  }
+}
+"
+239,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExyNti1fnaVoWEOHufoaOqqLNz"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+240,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEx0tOQUyfb3a6fGaiMhwbpQTYh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+241,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OExVmFJjpHOwTtmjrs18Bq4VtyW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+242,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEx2Wnc6LtiHidK2O1S5wOEpIBS"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 57
+  }
+}
+"
+243,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExoNhDJFxRwGT4K4Dvj4Car7iv"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+244,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEx59fvr4kpUeUaaPm31ptA9k8F"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+245,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExsQYKDASG0znv3e1ZLqLSyiGp"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+246,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OExG6pfN3vjJu19Q7PB3XPi38DB"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+247,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExLvVvyWsoSg9IDwDDSiBCRPm9"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+248,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExZxCsOCyydOqfBHIg8tzxlgU1"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+249,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OExYqjZLxF2UD1etcGax2ch3fsn"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 50
+  }
+}
+"
+250,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OExwzeG101FmsnpeCfwJ3xrbiGc"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010495,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+251,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEyXs3WsxhKsiScGwH1lQHwK6dW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 45
+  }
+}
+"
+252,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEyXMNflA4vsIXBHbjv1WQHWZDJ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+253,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEyJ8c6Ccw19P2IrFJQnC2d5KQj"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 57
+  }
+}
+"
+254,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEyMq4EEcKmIcA8eeDGTKRHG4cP"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+255,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEy6TgkYkf0RsNJGMQEEibwoDcr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+256,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEy1dY1KECnc9ICNRy5hYpne3aY"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+257,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEy4NFSewBS3GVP4yZwSDTMB8Nk"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 55
+  }
+}
+"
+258,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEyorW10GPqjMr6JR2OFIpFiTkz"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 53
+  }
+}
+"
+259,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEyUw9tw5pYXXl7dq56HGM3Deum"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+260,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEyCpahVuEX2aNekRVrYsdNJOiK"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+261,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEym3TriQlm178UDl2S99mdN7hW"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 45
+  }
+}
+"
+262,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEy0BuFZhO45L3HVmJixTQXEnB8"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+263,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEyP7T01tDftqzb2FA35WgDdPf0"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+264,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEyHBWJQfc6hg33XoMY2cxpwlGX"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010496,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+265,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzr0oEVL2hgoHiw62aG0EvoolV"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+266,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEz3IOOdxiGhwzZmth2bsXwWqdn"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 38
+  }
+}
+"
+267,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzoO3eULuJeSyLh3gcrOJJaPJf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+268,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzxpSvDGrrmxrT6twpxuWkGilv"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 48
+  }
+}
+"
+269,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzaLAJK6TZboRMrsPDeealT2xR"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+270,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzjKl3qkILAKsqgOtawL1NJGbD"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 2,
+    ""total_tokens"": 46
+  }
+}
+"
+271,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzwSgnmamYoHbbrG6nuDaTKFVE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+272,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzoWUlHdjvywA2rkPQYIXN7WOC"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+273,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzTsJVUKUlVokQjSn2MOOYnUQ5"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+274,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEz7GtJqT7GO6kvoG3j9LlBvWli"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Neither funny nor unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 45
+  }
+}
+"
+275,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzgdq8IESzuaBIB8znpTxX8Swb"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 52
+  }
+}
+"
+276,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzjZuwyJvBIM9kxeSIeyo7fent"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+277,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEz8ELq1MrGs1UWZI2OAkaVHlS6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+278,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEza8peRmA0JZaFcEtxqUNRJGHf"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+279,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzqQoDLqUEEPRGOfCj2hcakozG"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 45
+  }
+}
+"
+280,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OEzmJghzSbSGCMna7LWd3wQmZgm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 2,
+    ""total_tokens"": 39
+  }
+}
+"
+281,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzeUZAHvgz6lK4rB9ZW35LNXJa"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+282,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OEzbiMZ3WU98fybt7dHSr7rBHVd"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010497,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 54,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 58
+  }
+}
+"
+283,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF04828MOorxV4E6dMiY3JQrH3z"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+284,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF0THnR2blwsocP73pyrHBu9KG3"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 41
+  }
+}
+"
+285,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0KnuIwKmu4mXLwZhTkTaNfA7I"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not inherently funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 35,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 44
+  }
+}
+"
+286,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0q7APC430WqB3pXvBkWXkDiRy"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+287,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF06teU85lDLHvsaWTPiIZ3WUIS"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 56,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 57
+  }
+}
+"
+288,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF0HbfZsAGQZf6XZpiL5d4TbWX0"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 46
+  }
+}
+"
+289,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF0glK1f5MlcRlNK7856JiM9tX0"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 46
+  }
+}
+"
+290,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF0Kz3ehg21GdFaaSg7GRxwljZX"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 41
+  }
+}
+"
+291,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0FnqcOe53qu9oRD7G6X6DJ1DE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 52
+  }
+}
+"
+292,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0OCM46uYCgLsRal3hJZNYm53N"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 60,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 63
+  }
+}
+"
+293,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0IsDMgwCGi7w0nArabVnTAhtk"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 54
+  }
+}
+"
+294,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0BacATLEIjoeg747DfWy8jTxL"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 34,
+    ""completion_tokens"": 2,
+    ""total_tokens"": 36
+  }
+}
+"
+295,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0EzoLp07uhnaYPHrzwebUYLtv"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+296,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF071IgKyZUpo8gUroqNVTbtXmA"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 50
+  }
+}
+"
+297,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF0AK9tCmwX3orPxO942oUV60jO"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010498,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Neither funny nor unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 46
+  }
+}
+"
+298,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF1DbtQ6Pr5oAASkqK4kzrvnGl2"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+299,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF1MewYRd4GG437SYxd963ike8t"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+300,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF1PSS8ctsQkePJE2PK974zEGJY"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+301,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF1uad8SwDpdboendEEpD8AyWPc"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unclear. The text alone does not provide enough information to determine if it is meant to be funny or not. It could be interpreted either way depending on the context and tone.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 36,
+    ""total_tokens"": 76
+  }
+}
+"
+302,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF1rPt9AgGrVtMZa9YEAktG0iyk"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+303,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF19i96kmsk2bCtPeB4rHZbeVmq"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 40
+  }
+}
+"
+304,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF1d2GwqnX7I4pdIvTkG0pBCj57"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 41
+  }
+}
+"
+305,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF1lRofMoSnXmCwXGJLIrWoxJuU"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+306,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF1FjDeCIaMoAYwqDfsnGw6LYB8"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+307,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF15Fjv1Em5ANnOqBOaOD6yPA8M"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 40
+  }
+}
+"
+308,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF1RNYbbePBs8GcZq9CdEy9yz9S"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+309,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF1gsOskHPHE9agy9El5KoOqEMe"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 52
+  }
+}
+"
+310,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF1HRsLylnYV0FvMmYwwjbVgvY4"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010499,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+311,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF294Uo8krsTY20nS3UeFyDrDZ6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 50,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 51
+  }
+}
+"
+312,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF24heHTF34WGf1xtOp6UkZhiPa"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+313,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2DOdK3uUGwlJO7rNoUWEdSe3C"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+314,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2H7b78gylTdwgQU0CI6FFpuYH"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 49
+  }
+}
+"
+315,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2Z1AesfvHgoxVV8XCNWMdFitH"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+316,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2iXMlKllNvOFFKxOtyTGSQ08h"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 55
+  }
+}
+"
+317,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2GtikbXU5Fbe2nBdNGVwE7AOU"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+318,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF2fwvCCJC1aUhuyboTTGf8151u"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+319,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2fDAkvrRL5XlX7LQqOKtYgkEx"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+320,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2Aadlg9PAg01D4MgoRFfWg41r"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+321,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF2eX4k5U97uVqEOw9BUOI26qfs"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 39
+  }
+}
+"
+322,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF2tPPkt4s6UAlcDAU21x8dIwyv"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+323,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF2kHyUtF1TipfPdoYvkEBiW5PR"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+324,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2Gz86OUKZCxUnKofRlcbJHAS7"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 48
+  }
+}
+"
+325,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF2RKrwranJyD8xcU7YeNneSu50"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+326,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF2IqVxUrDBmPDvWkovzkXULIX6"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 41
+  }
+}
+"
+327,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF2VCPInTNrZAg0Xm4lvXyn2edr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010500,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+328,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF33sfoGwV8ORs5A4FfosgOu8dE"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 47
+  }
+}
+"
+329,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF3jBRO5wBALKlGDR2bi8N6KfHv"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 51
+  }
+}
+"
+330,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3Q349rRjkjjaM7tQEvAVPSsCa"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 41
+  }
+}
+"
+331,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3i7R2VFbuAWqA8kFWbuVOHp1A"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+332,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF3e6PefgeGmDSAatiyYR6Eco3i"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+333,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF3zTilUAOZBXqwwl54YYu1mzj7"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""N/A (The given text does not contain any humorous or comedic elements, therefore it cannot be classified as funny or unfunny.)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 32,
+    ""completion_tokens"": 26,
+    ""total_tokens"": 58
+  }
+}
+"
+334,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF368Gha7tibYMW7meNwWxW1TGm"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 45
+  }
+}
+"
+335,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3Wph0Eu9HwcKnTXYzEuo1xAdd"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+336,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF3Zp4W0ADv88hVfh7Cd6H2ED9l"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 53
+  }
+}
+"
+337,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF31oVljciF3V5yZzLWK8zlblSV"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 48
+  }
+}
+"
+338,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3kfc1Uva2fYW3aQbmMHNbZX31"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 36,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 39
+  }
+}
+"
+339,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3h4IAyN6sezFwTKZEN8Of4e67"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 42
+  }
+}
+"
+340,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3YmOVTeW9ecYYuvkEveT509ho"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+341,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3XFs8x9dw8sp68FxZm8KDxpWX"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"
+342,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF3jdA3AG7Q1OjaTR1JXz1B4uLh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010501,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 39
+  }
+}
+"
+343,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4ZLyH2gBH7wBy4WtZaVBcu6dg"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral (not funny or unfunny)""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 8,
+    ""total_tokens"": 55
+  }
+}
+"
+344,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF4M97QKz4cX5g4PnYtdrVulYSQ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 44
+  }
+}
+"
+345,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF4rUdx3ODo4qFOz7p3nDHBOCQM"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 47
+  }
+}
+"
+346,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF47IPgv7HQxky3rsuAnZEfYPWZ"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 43
+  }
+}
+"
+347,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4vHIRmyKLvomGf8N7ZdIyB7Af"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 46,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 49
+  }
+}
+"
+348,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4SRONmdA0PdNQtSN6yvXZClQh"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 43,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 46
+  }
+}
+"
+349,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF4NWxGDos4muTG0GMy6BIDceWr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny.""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 4,
+    ""total_tokens"": 42
+  }
+}
+"
+350,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4r8FEkE9FIdQy7Qy82tBiXn89"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 44,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 47
+  }
+}
+"
+351,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF478lZYju2vtVkMKUxciYfmp3M"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 38,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 39
+  }
+}
+"
+352,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF48UgK6Lgtqu3LjWrHRf5FC11s"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 50
+  }
+}
+"
+353,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF4WoCtdB4vkPn0goyTHnQUr8nr"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 42,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 43
+  }
+}
+"
+354,unfun_me,1,"{
+  ""id"": ""chatcmpl-88OF5k1TMvZCC1UNNKXNYhWIGbw0s"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010503,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 42
+  }
+}
+"
+355,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4Capdw9t3djHAMvAo9qhzAUKq"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Neutral/Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 39,
+    ""completion_tokens"": 5,
+    ""total_tokens"": 44
+  }
+}
+"
+356,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4o3L2q9grRxJbrGK089pbgmGV"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Unfunny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 3,
+    ""total_tokens"": 44
+  }
+}
+"
+357,unfun_me,0,"{
+  ""id"": ""chatcmpl-88OF4CRoGzbTu21xcWzrirjOUXZfM"",
+  ""object"": ""chat.completion"",
+  ""created"": 1697010502,
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""choices"": [
+    {
+      ""index"": 0,
+      ""message"": {
+        ""role"": ""assistant"",
+        ""content"": ""Funny""
+      },
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 48,
+    ""completion_tokens"": 1,
+    ""total_tokens"": 49
+  }
+}
+"

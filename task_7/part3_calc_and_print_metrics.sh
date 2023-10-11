@@ -1,0 +1,1 @@
+python part3_calc_and_print_metrics.py > TASK_7_PART_3.log
