@@ -74,4 +74,4 @@ for i in color_map:
     labels_.append(i)
 
 plt.legend(handles_, labels_)
-plt.savefig('./reports/forceatlas.png')
+plt.savefig('./reports/forceatlas.jpg')
