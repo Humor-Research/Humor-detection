@@ -1,6 +1,6 @@
 # Task 9
 
-This task trains and evaluates Naive Bayes models on the existing humor datasets. The evaluation metrics F1 score, recall, precision and accuracy.
+This task trains and evaluates Naive Bayes models on the existing humor datasets. The evaluation metrics include F1 score, recall, precision and accuracy.
 
 **Part 1**
 
