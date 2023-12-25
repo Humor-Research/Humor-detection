@@ -1,7 +1,6 @@
 # Task 4
 
-This task evaluates the performance of third-party humor detection models on both humor and conversational datasets. For the former the evaluation metrics include F1 score and recall, and for the latter 
-the fraction of humorous (positive class) predictions.
+This task evaluates the performance of third-party humor detection models on both humor and conversational datasets. For the former the evaluation metrics include F1 score and recall, and for the latter the fraction of humorous (positive class) labels.
 
 **Part 1**
 
