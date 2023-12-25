@@ -9,13 +9,13 @@ This subtask uses the ChatGPT LLM  to calculate the label predictions for humor 
 For run on SLURM server use:
 
 ```
-sbatch part1_predict_hd_flan.sbatch
+sbatch part1_predict_by_chatgpt.sbatch
 ```
 
 Or use python file with configs:
 
 ```
-python part1_predict_hd_flan.py $TEST_DATASET
+python part1_predict_by_chatgpt.py $TEST_DATASET
 ```
 
 Here, one has to explicitly mention the humor dataset for which labels will be calculated.
@@ -27,12 +27,12 @@ This subtask uses the ChatGPT LLM  to calculate the label predictions for conver
 For run on SLURM server use:
 
 ```
-sbatch part2_predict_cd_flan.sbatch
+sbatch part2_predict_by_chatgpt_cd.sbatch
 ```
 
 Or use python file with configs:
 ```
-python part2_predict_cd_flan.py $TEST_DATASET
+python part2_predict_by_chatgpt_cd.py $TEST_DATASET
 ```
 
 The possible test datasets are: 
