@@ -56,7 +56,7 @@ Here one has to choose the model for evaluation, following the same pattern as i
 
 **Part 4**
 
-This subtask evaluates the predicted labels from subtask 3 by calculating the ratio of humorous (positive class) predictions.
+This subtask evaluates the predicted labels from subtask 3 by calculating the fraction of humorous (positive class) labels.
 
 For run on SLURM server use:
 
