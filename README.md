@@ -6,6 +6,7 @@ This repository contains the code for the article "You Told Me That Joke Twice: 
 
 
 ## Updates
+- Changing folder names for easy navigation 14/08/2024
 - Update README.md 21/12/2023
 - Update HuggingFace links 18/12/2023
 - Fixing links 15/12/2023
