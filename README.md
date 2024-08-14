@@ -20,7 +20,8 @@ Access to data and processing functions is available through our library [hri_to
 Our models are available at [HuggingFace](https://huggingface.co/Humor-Research). Our project has published all 50 trained models. If you require a rapid solution for humor classification, please refer to the example provided below. 
 
 
-### Example of usage:
+### Quick start and example of using the best model:
+
 ```
 from transformers import RobertaTokenizerFast
 from transformers import RobertaForSequenceClassification
